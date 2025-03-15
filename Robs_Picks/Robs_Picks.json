@@ -1,0 +1,470 @@
+{
+    "401705580": {
+        "winner": "Orlando Magic",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705581": {
+        "winner": "Houston Rockets",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705582": {
+        "winner": "New Orleans Pelicans",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705583": {
+        "winner": "Charlotte Hornets",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705584": {
+        "winner": "Philadelphia 76ers",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705585": {
+        "winner": "Detroit Pistons",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705586": {
+        "winner": "Boston Celtics",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705587": {
+        "winner": "Cleveland Cavaliers",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705588": {
+        "winner": "Denver Nuggets",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401705589": {
+        "winner": "Memphis Grizzlies",
+        "ip_address": "192.168.2.30",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "timestamp": "2025-03-15 10:12:05 AM ET",
+        "game_date": "2025-03-21",
+        "game_start_time": "N/A"
+    },
+    "401744173": {
+        "winner": "Florida Gators",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401743941": {
+        "winner": "Maryland Terrapins",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401743838": {
+        "winner": "George Mason Patriots",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401745786": {
+        "winner": "North Texas Mean Green",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401743854": {
+        "winner": "Houston Cougars",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401744093": {
+        "winner": "Colorado State Rams",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401744016": {
+        "winner": "Iona Gaels",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401745819": {
+        "winner": "Akron Zips",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401743776": {
+        "winner": "Duke Blue Devils",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401744553": {
+        "winner": "Liberty Flames",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401744248": {
+        "winner": "Jackson State Tigers",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401743949": {
+        "winner": "UC San Diego Tritons",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401744256": {
+        "winner": "Grand Canyon Lopes",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:47 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401743884": {
+        "winner": "St. John's Red Storm",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:23:52 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705534": {
+        "winner": "Brooklyn Nets",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705535": {
+        "winner": "Oklahoma City Thunder",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705536": {
+        "winner": "Houston Rockets",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705537": {
+        "winner": "Miami Heat",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705538": {
+        "winner": "Milwaukee Bucks",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705539": {
+        "winner": "San Antonio Spurs",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705540": {
+        "winner": "Golden State Warriors",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401705541": {
+        "winner": "Denver Nuggets",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:25:38 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704475": {
+        "winner": "Kansas City Royals",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704476": {
+        "winner": "Chicago White Sox",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704477": {
+        "winner": "Cincinnati Reds",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704480": {
+        "winner": "San Francisco Giants",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704481": {
+        "winner": "Athletics",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704473": {
+        "winner": "Milwaukee Brewers",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704474": {
+        "winner": "Arizona Diamondbacks",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704478": {
+        "winner": "Los Angeles Angels",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704479": {
+        "winner": "Seattle Mariners",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704469": {
+        "winner": "Atlanta Braves",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401704471": {
+        "winner": "Washington Nationals",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:28:48 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688656": {
+        "winner": "San Jose Sharks",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688657": {
+        "winner": "Boston Bruins",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688658": {
+        "winner": "Toronto Maple Leafs",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688659": {
+        "winner": "Montreal Canadiens",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688660": {
+        "winner": "Philadelphia Flyers",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688661": {
+        "winner": "Columbus Blue Jackets",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688662": {
+        "winner": "Minnesota Wild",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688663": {
+        "winner": "Los Angeles Kings",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    },
+    "401688664": {
+        "winner": "Vancouver Canucks",
+        "ip_address": "192.168.1.132",
+        "device_name": "VA-LT05",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "timestamp": "2025-03-15 03:29:24 PM ET",
+        "game_date": "2025-03-15",
+        "game_start_time": "N/A"
+    }
+}
