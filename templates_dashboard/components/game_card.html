@@ -1,0 +1,53 @@
+{% macro game_card(game, sport, selected_games) %}
+<div class="col-md-6 col-lg-4 mb-4">
+    <div class="card position-relative">
+        {% if not game.disable_game %}
+        <span class="upcoming-pill">Upcoming</span>
+        {% else %}
+        <span class="past-pill">In Progress/Completed</span>
+        {% endif %}
+        
+        <div class="card-body">
+            <div class="text-center mb-2 game-time">
+                <i class="far fa-clock me-1"></i>{{ game.event_date }}
+            </div>
+            
+            <div class="row g-2">
+                <!-- Team 1 -->
+                <div class="col-6">
+                    <div class="team-card p-3 text-center {% if selected_games.get(game.event_id, {}).get('Value.winner') == game.team_1_name %}selected{% endif %}">
+                        <!-- Team abbreviation displayed directly without logo container -->
+                        <div class="team-abbr fw-bold fs-3 my-2">{{ game.team_1_abbreviation }}</div>
+                        <div class="team-name fw-bold">{{ game.team_1_name }}</div>
+                    </div>
+                </div>
+                
+                <!-- Team 2 -->
+                <div class="col-6">
+                    <div class="team-card p-3 text-center {% if selected_games.get(game.event_id, {}).get('Value.winner') == game.team_2_name %}selected{% endif %}">
+                        <!-- Team abbreviation displayed directly without logo container -->
+                        <div class="team-abbr fw-bold fs-3 my-2">{{ game.team_2_abbreviation }}</div>
+                        <div class="team-name fw-bold">{{ game.team_2_name }}</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center mt-3">
+                <span class="vs-badge">VS</span>
+            </div>
+            
+            <input type="hidden" name="winner_{{ game.event_id }}" id="winner_{{ game.event_id }}" 
+                   value="{{ selected_games.get(game.event_id, {}).get('Value.winner', '') }}">
+        </div>
+        
+        <div class="card-footer text-center">
+            <span class="badge {% if sport == 'NBA' %}badge-nba{% elif sport == 'NHL' %}badge-nhl{% elif sport == 'MLB' %}badge-mlb{% else %}badge-marchmadness{% endif %}">
+                {{ sport }}
+            </span>
+            {% if game.status_clock != 'N/A' %}
+            <span class="ms-2">{{ game.status_clock }} - Period {{ game.status_period }}</span>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endmacro %}

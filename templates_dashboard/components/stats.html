@@ -1,0 +1,71 @@
+{% macro stats_summary(stats) %}
+<div id="stats" class="row mb-4">
+    <div class="col-md-3">
+        <div class="stats-card text-center">
+            <span class="stat-number text-success">{{ stats.overall_success_rate }}%</span>
+            <div class="stat-label">Overall Success Rate</div>
+        </div>
+    </div>
+    {% for sport in stats.sports %}
+    <div class="col-md-3">
+        <div class="stats-card text-center">
+            <span class="stat-number text-primary">{{ sport.success_rate }}%</span>
+            <div class="stat-label">{{ sport.name }} Success Rate</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endmacro %}
+
+{% macro performance_chart() %}
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-chart-line me-2"></i>Performance Tracker
+    </div>
+    <div class="card-body">
+        <div class="chart-container" id="performance-chart"></div>
+    </div>
+</div>
+{% endmacro %}
+
+{% macro recent_results(results) %}
+<div id="history" class="card mt-5">
+    <div class="card-header">
+        <i class="fas fa-history me-2"></i>Recent Results
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-striped result-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Game</th>
+                        <th>Pick</th>
+                        <th>Result</th>
+                        <th>Sport</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for result in results %}
+                    <tr>
+                        <td>{{ result.date }}</td>
+                        <td>{{ result.game }}</td>
+                        <td>{{ result.pick }}</td>
+                        <td>
+                            <span class="badge {% if result.result == 'Robby Lock' %}lock-badge{% else %}rock-badge{% endif %}">
+                                {{ result.result }}
+                            </span>
+                        </td>
+                        <td>
+                            <span class="badge badge-{{ result.sport.lower() }}">
+                                {{ result.sport }}
+                            </span>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endmacro %}

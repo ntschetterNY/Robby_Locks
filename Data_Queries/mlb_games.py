@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 MLB_URL = "http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates="
 
 # Define the output file path for the JSON data
-OUTPUT_FILE = r"C:\Users\NathanTschetter\OneDrive - The Vorea Group\Desktop\Robby_Locks\Game_Dataframe\mlb_games.json"
+OUTPUT_FILE = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Game_Dataframe\mlb_games.json"
 
 # 1) Generate a list of dates from March 13, 2025 to June 30, 2025 (YYYYMMDD format)
 start_date = datetime(2025, 3, 13)

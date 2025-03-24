@@ -686,8 +686,8 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "ATL @ BOS",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 7,
-        "comp.competitors.score": "2",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "2",
         "team.displayName": "Boston Red Sox",
         "team.abbreviation": "BOS"
@@ -697,8 +697,8 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "ATL @ BOS",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 7,
-        "comp.competitors.score": "3",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
         "team.abbreviation": "ATL"
@@ -708,8 +708,8 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "BAL @ PIT",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 5,
-        "comp.competitors.score": "5",
+        "comp.status.period": 9,
+        "comp.competitors.score": "15",
         "team.id": "23",
         "team.displayName": "Pittsburgh Pirates",
         "team.abbreviation": "PIT"
@@ -719,8 +719,8 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "BAL @ PIT",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 5,
-        "comp.competitors.score": "4",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "1",
         "team.displayName": "Baltimore Orioles",
         "team.abbreviation": "BAL"
@@ -730,7 +730,7 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "DET @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 8,
+        "comp.status.period": 9,
         "comp.competitors.score": "2",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
@@ -741,7 +741,7 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "DET @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 8,
+        "comp.status.period": 9,
         "comp.competitors.score": "2",
         "team.id": "6",
         "team.displayName": "Detroit Tigers",
@@ -752,8 +752,8 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "NYY @ TB",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 7,
-        "comp.competitors.score": "4",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "30",
         "team.displayName": "Tampa Bay Rays",
         "team.abbreviation": "TB"
@@ -763,8 +763,8 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "NYY @ TB",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 7,
-        "comp.competitors.score": "6",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "10",
         "team.displayName": "New York Yankees",
         "team.abbreviation": "NYY"
@@ -774,1328 +774,1328 @@
         "event.date": "2025-03-15T17:05Z",
         "event.shortName": "TOR @ STL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 6,
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
+        "team.id": "24",
+        "team.displayName": "St. Louis Cardinals",
+        "team.abbreviation": "STL"
+    },
+    {
+        "event.id": "401704472",
+        "event.date": "2025-03-15T17:05Z",
+        "event.shortName": "TOR @ STL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "14",
+        "team.displayName": "Toronto Blue Jays",
+        "team.abbreviation": "TOR"
+    },
+    {
+        "event.id": "401704475",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "CLE @ KC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "7",
+        "team.displayName": "Kansas City Royals",
+        "team.abbreviation": "KC"
+    },
+    {
+        "event.id": "401704475",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "CLE @ KC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "5",
+        "team.displayName": "Cleveland Guardians",
+        "team.abbreviation": "CLE"
+    },
+    {
+        "event.id": "401704476",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "COL @ CHW",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
+    },
+    {
+        "event.id": "401704476",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "COL @ CHW",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "27",
+        "team.displayName": "Colorado Rockies",
+        "team.abbreviation": "COL"
+    },
+    {
+        "event.id": "401704477",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "KC @ CIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "17",
+        "team.displayName": "Cincinnati Reds",
+        "team.abbreviation": "CIN"
+    },
+    {
+        "event.id": "401704477",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "KC @ CIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "13",
+        "team.id": "7",
+        "team.displayName": "Kansas City Royals",
+        "team.abbreviation": "KC"
+    },
+    {
+        "event.id": "401704480",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "SEA @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401704480",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "SEA @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "12",
+        "team.displayName": "Seattle Mariners",
+        "team.abbreviation": "SEA"
+    },
+    {
+        "event.id": "401704481",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "TEX @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
+    },
+    {
+        "event.id": "401704481",
+        "event.date": "2025-03-15T20:05Z",
+        "event.shortName": "TEX @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "13",
+        "team.displayName": "Texas Rangers",
+        "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401704473",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "ATH @ MIL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "8",
+        "team.displayName": "Milwaukee Brewers",
+        "team.abbreviation": "MIL"
+    },
+    {
+        "event.id": "401704473",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "ATH @ MIL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
+    },
+    {
+        "event.id": "401704474",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "CHW @ ARI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
+        "team.id": "29",
+        "team.displayName": "Arizona Diamondbacks",
+        "team.abbreviation": "ARI"
+    },
+    {
+        "event.id": "401704474",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "CHW @ ARI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
+    },
+    {
+        "event.id": "401704478",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "MIL @ LAA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "3",
+        "team.displayName": "Los Angeles Angels",
+        "team.abbreviation": "LAA"
+    },
+    {
+        "event.id": "401704478",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "MIL @ LAA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "8",
+        "team.displayName": "Milwaukee Brewers",
+        "team.abbreviation": "MIL"
+    },
+    {
+        "event.id": "401704479",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "SD @ SEA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "12",
+        "team.displayName": "Seattle Mariners",
+        "team.abbreviation": "SEA"
+    },
+    {
+        "event.id": "401704479",
+        "event.date": "2025-03-15T20:10Z",
+        "event.shortName": "SD @ SEA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "25",
+        "team.displayName": "San Diego Padres",
+        "team.abbreviation": "SD"
+    },
+    {
+        "event.id": "401704469",
+        "event.date": "2025-03-15T22:05Z",
+        "event.shortName": "MIN @ ATL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "15",
+        "team.displayName": "Atlanta Braves",
+        "team.abbreviation": "ATL"
+    },
+    {
+        "event.id": "401704469",
+        "event.date": "2025-03-15T22:05Z",
+        "event.shortName": "MIN @ ATL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "9",
+        "team.displayName": "Minnesota Twins",
+        "team.abbreviation": "MIN"
+    },
+    {
+        "event.id": "401704471",
+        "event.date": "2025-03-15T22:05Z",
+        "event.shortName": "NYM @ WSH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "20",
+        "team.displayName": "Washington Nationals",
+        "team.abbreviation": "WSH"
+    },
+    {
+        "event.id": "401704471",
+        "event.date": "2025-03-15T22:05Z",
+        "event.shortName": "NYM @ WSH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "21",
+        "team.displayName": "New York Mets",
+        "team.abbreviation": "NYM"
+    },
+    {
+        "event.id": "401704483",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "BAL @ DET",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "6",
+        "team.displayName": "Detroit Tigers",
+        "team.abbreviation": "DET"
+    },
+    {
+        "event.id": "401704483",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "BAL @ DET",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "1",
+        "team.displayName": "Baltimore Orioles",
+        "team.abbreviation": "BAL"
+    },
+    {
+        "event.id": "401704484",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "BOS @ MIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "9",
+        "team.displayName": "Minnesota Twins",
+        "team.abbreviation": "MIN"
+    },
+    {
+        "event.id": "401704484",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "BOS @ MIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "2",
+        "team.displayName": "Boston Red Sox",
+        "team.abbreviation": "BOS"
+    },
+    {
+        "event.id": "401704486",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "NYY @ TB",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "30",
+        "team.displayName": "Tampa Bay Rays",
+        "team.abbreviation": "TB"
+    },
+    {
+        "event.id": "401704486",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "NYY @ TB",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401704487",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "PHI @ BAL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "1",
+        "team.displayName": "Baltimore Orioles",
+        "team.abbreviation": "BAL"
+    },
+    {
+        "event.id": "401704487",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "PHI @ BAL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "12",
+        "team.id": "22",
+        "team.displayName": "Philadelphia Phillies",
+        "team.abbreviation": "PHI"
+    },
+    {
+        "event.id": "401704488",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "PIT @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401704488",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "PIT @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "23",
+        "team.displayName": "Pittsburgh Pirates",
+        "team.abbreviation": "PIT"
+    },
+    {
+        "event.id": "401704490",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "TB @ WSH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "20",
+        "team.displayName": "Washington Nationals",
+        "team.abbreviation": "WSH"
+    },
+    {
+        "event.id": "401704490",
+        "event.date": "2025-03-16T17:05Z",
+        "event.shortName": "TB @ WSH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
+        "team.id": "30",
+        "team.displayName": "Tampa Bay Rays",
+        "team.abbreviation": "TB"
+    },
+    {
+        "event.id": "401704482",
+        "event.date": "2025-03-16T17:07Z",
+        "event.shortName": "ATL @ TOR",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "14",
+        "team.displayName": "Toronto Blue Jays",
+        "team.abbreviation": "TOR"
+    },
+    {
+        "event.id": "401704482",
+        "event.date": "2025-03-16T17:07Z",
+        "event.shortName": "ATL @ TOR",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "15",
+        "team.displayName": "Atlanta Braves",
+        "team.abbreviation": "ATL"
+    },
+    {
+        "event.id": "401704485",
+        "event.date": "2025-03-16T17:10Z",
+        "event.shortName": "HOU @ NYM",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "21",
+        "team.displayName": "New York Mets",
+        "team.abbreviation": "NYM"
+    },
+    {
+        "event.id": "401704485",
+        "event.date": "2025-03-16T17:10Z",
+        "event.shortName": "HOU @ NYM",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "18",
+        "team.displayName": "Houston Astros",
+        "team.abbreviation": "HOU"
+    },
+    {
+        "event.id": "401704489",
+        "event.date": "2025-03-16T17:10Z",
+        "event.shortName": "STL @ MIA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
+        "team.id": "28",
+        "team.displayName": "Miami Marlins",
+        "team.abbreviation": "MIA"
+    },
+    {
+        "event.id": "401704489",
+        "event.date": "2025-03-16T17:10Z",
+        "event.shortName": "STL @ MIA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "24",
+        "team.displayName": "St. Louis Cardinals",
+        "team.abbreviation": "STL"
+    },
+    {
+        "event.id": "401704492",
+        "event.date": "2025-03-16T20:05Z",
+        "event.shortName": "ATH @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401704492",
+        "event.date": "2025-03-16T20:05Z",
+        "event.shortName": "ATH @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
+    },
+    {
+        "event.id": "401704493",
+        "event.date": "2025-03-16T20:05Z",
+        "event.shortName": "CHW @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "13",
+        "team.displayName": "Texas Rangers",
+        "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401704493",
+        "event.date": "2025-03-16T20:05Z",
+        "event.shortName": "CHW @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
+    },
+    {
+        "event.id": "401704497",
+        "event.date": "2025-03-16T20:05Z",
+        "event.shortName": "SEA @ CIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "17",
+        "team.displayName": "Cincinnati Reds",
+        "team.abbreviation": "CIN"
+    },
+    {
+        "event.id": "401704497",
+        "event.date": "2025-03-16T20:05Z",
+        "event.shortName": "SEA @ CIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "12",
+        "team.displayName": "Seattle Mariners",
+        "team.abbreviation": "SEA"
+    },
+    {
+        "event.id": "401704491",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "ARI @ SD",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "25",
+        "team.displayName": "San Diego Padres",
+        "team.abbreviation": "SD"
+    },
+    {
+        "event.id": "401704491",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "ARI @ SD",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "29",
+        "team.displayName": "Arizona Diamondbacks",
+        "team.abbreviation": "ARI"
+    },
+    {
+        "event.id": "401704494",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "CLE @ MIL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "8",
+        "team.displayName": "Milwaukee Brewers",
+        "team.abbreviation": "MIL"
+    },
+    {
+        "event.id": "401704494",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "CLE @ MIL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "5",
+        "team.displayName": "Cleveland Guardians",
+        "team.abbreviation": "CLE"
+    },
+    {
+        "event.id": "401704495",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "KC @ COL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "27",
+        "team.displayName": "Colorado Rockies",
+        "team.abbreviation": "COL"
+    },
+    {
+        "event.id": "401704495",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "KC @ COL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "10",
+        "team.id": "7",
+        "team.displayName": "Kansas City Royals",
+        "team.abbreviation": "KC"
+    },
+    {
+        "event.id": "401704496",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "SD @ LAA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "3",
+        "team.displayName": "Los Angeles Angels",
+        "team.abbreviation": "LAA"
+    },
+    {
+        "event.id": "401704496",
+        "event.date": "2025-03-16T20:10Z",
+        "event.shortName": "SD @ LAA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "25",
+        "team.displayName": "San Diego Padres",
+        "team.abbreviation": "SD"
+    },
+    {
+        "event.id": "401704498",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "BAL @ BOS",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "2",
+        "team.displayName": "Boston Red Sox",
+        "team.abbreviation": "BOS"
+    },
+    {
+        "event.id": "401704498",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "BAL @ BOS",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "12",
+        "team.id": "1",
+        "team.displayName": "Baltimore Orioles",
+        "team.abbreviation": "BAL"
+    },
+    {
+        "event.id": "401704499",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "BOS @ ATL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "15",
+        "team.displayName": "Atlanta Braves",
+        "team.abbreviation": "ATL"
+    },
+    {
+        "event.id": "401704499",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "BOS @ ATL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "2",
+        "team.displayName": "Boston Red Sox",
+        "team.abbreviation": "BOS"
+    },
+    {
+        "event.id": "401704500",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "MIN @ PIT",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "23",
+        "team.displayName": "Pittsburgh Pirates",
+        "team.abbreviation": "PIT"
+    },
+    {
+        "event.id": "401704500",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "MIN @ PIT",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "9",
+        "team.displayName": "Minnesota Twins",
+        "team.abbreviation": "MIN"
+    },
+    {
+        "event.id": "401704503",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "PIT @ DET",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
+        "team.id": "6",
+        "team.displayName": "Detroit Tigers",
+        "team.abbreviation": "DET"
+    },
+    {
+        "event.id": "401704503",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "PIT @ DET",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "23",
+        "team.displayName": "Pittsburgh Pirates",
+        "team.abbreviation": "PIT"
+    },
+    {
+        "event.id": "401704504",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "STL @ WSH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "20",
+        "team.displayName": "Washington Nationals",
+        "team.abbreviation": "WSH"
+    },
+    {
+        "event.id": "401704504",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "STL @ WSH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "24",
+        "team.displayName": "St. Louis Cardinals",
+        "team.abbreviation": "STL"
+    },
+    {
+        "event.id": "401704506",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "TOR @ PHI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "22",
+        "team.displayName": "Philadelphia Phillies",
+        "team.abbreviation": "PHI"
+    },
+    {
+        "event.id": "401704506",
+        "event.date": "2025-03-17T17:05Z",
+        "event.shortName": "TOR @ PHI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "14",
+        "team.displayName": "Toronto Blue Jays",
+        "team.abbreviation": "TOR"
+    },
+    {
+        "event.id": "401704501",
+        "event.date": "2025-03-17T17:07Z",
+        "event.shortName": "NYY @ TOR",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "14",
+        "team.displayName": "Toronto Blue Jays",
+        "team.abbreviation": "TOR"
+    },
+    {
+        "event.id": "401704501",
+        "event.date": "2025-03-17T17:07Z",
+        "event.shortName": "NYY @ TOR",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401704502",
+        "event.date": "2025-03-17T17:10Z",
+        "event.shortName": "NYM @ MIA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "28",
+        "team.displayName": "Miami Marlins",
+        "team.abbreviation": "MIA"
+    },
+    {
+        "event.id": "401704502",
+        "event.date": "2025-03-17T17:10Z",
+        "event.shortName": "NYM @ MIA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "21",
+        "team.displayName": "New York Mets",
+        "team.abbreviation": "NYM"
+    },
+    {
+        "event.id": "401704505",
+        "event.date": "2025-03-17T17:10Z",
+        "event.shortName": "TB @ NYM",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "21",
+        "team.displayName": "New York Mets",
+        "team.abbreviation": "NYM"
+    },
+    {
+        "event.id": "401704505",
+        "event.date": "2025-03-17T17:10Z",
+        "event.shortName": "TB @ NYM",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "30",
+        "team.displayName": "Tampa Bay Rays",
+        "team.abbreviation": "TB"
+    },
+    {
+        "event.id": "401704508",
+        "event.date": "2025-03-17T20:05Z",
+        "event.shortName": "ARI @ KC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "12",
+        "team.id": "7",
+        "team.displayName": "Kansas City Royals",
+        "team.abbreviation": "KC"
+    },
+    {
+        "event.id": "401704508",
+        "event.date": "2025-03-17T20:05Z",
+        "event.shortName": "ARI @ KC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "29",
+        "team.displayName": "Arizona Diamondbacks",
+        "team.abbreviation": "ARI"
+    },
+    {
+        "event.id": "401704511",
+        "event.date": "2025-03-17T20:05Z",
+        "event.shortName": "SEA @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
+    },
+    {
+        "event.id": "401704511",
+        "event.date": "2025-03-17T20:05Z",
+        "event.shortName": "SEA @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "12",
+        "team.displayName": "Seattle Mariners",
+        "team.abbreviation": "SEA"
+    },
+    {
+        "event.id": "401704512",
+        "event.date": "2025-03-17T20:05Z",
+        "event.shortName": "SF @ CHW",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
+    },
+    {
+        "event.id": "401704512",
+        "event.date": "2025-03-17T20:05Z",
+        "event.shortName": "SF @ CHW",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401704507",
+        "event.date": "2025-03-17T20:10Z",
+        "event.shortName": "LAA @ ARI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "29",
+        "team.displayName": "Arizona Diamondbacks",
+        "team.abbreviation": "ARI"
+    },
+    {
+        "event.id": "401704507",
+        "event.date": "2025-03-17T20:10Z",
+        "event.shortName": "LAA @ ARI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
+        "team.id": "3",
+        "team.displayName": "Los Angeles Angels",
+        "team.abbreviation": "LAA"
+    },
+    {
+        "event.id": "401704510",
+        "event.date": "2025-03-17T20:10Z",
+        "event.shortName": "MIL @ SD",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "14",
+        "team.id": "25",
+        "team.displayName": "San Diego Padres",
+        "team.abbreviation": "SD"
+    },
+    {
+        "event.id": "401704510",
+        "event.date": "2025-03-17T20:10Z",
+        "event.shortName": "MIL @ SD",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "8",
+        "team.displayName": "Milwaukee Brewers",
+        "team.abbreviation": "MIL"
+    },
+    {
+        "event.id": "401704509",
+        "event.date": "2025-03-18T01:05Z",
+        "event.shortName": "CIN @ CLE",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "5",
+        "team.displayName": "Cleveland Guardians",
+        "team.abbreviation": "CLE"
+    },
+    {
+        "event.id": "401704509",
+        "event.date": "2025-03-18T01:05Z",
+        "event.shortName": "CIN @ CLE",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "17",
+        "team.displayName": "Cincinnati Reds",
+        "team.abbreviation": "CIN"
+    },
+    {
+        "event.id": "401694907",
+        "event.date": "2025-03-18T10:10Z",
+        "event.shortName": "LAD VS CHC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "16",
+        "team.displayName": "Chicago Cubs",
+        "team.abbreviation": "CHC"
+    },
+    {
+        "event.id": "401694907",
+        "event.date": "2025-03-18T10:10Z",
+        "event.shortName": "LAD VS CHC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "19",
+        "team.displayName": "Los Angeles Dodgers",
+        "team.abbreviation": "LAD"
+    },
+    {
+        "event.id": "401704513",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "BOS @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401704513",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "BOS @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "2",
+        "team.displayName": "Boston Red Sox",
+        "team.abbreviation": "BOS"
+    },
+    {
+        "event.id": "401704514",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "DET @ MIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "9",
+        "team.displayName": "Minnesota Twins",
+        "team.abbreviation": "MIN"
+    },
+    {
+        "event.id": "401704514",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "DET @ MIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "6",
+        "team.displayName": "Detroit Tigers",
+        "team.abbreviation": "DET"
+    },
+    {
+        "event.id": "401704515",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "MIA @ STL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "24",
+        "team.displayName": "St. Louis Cardinals",
+        "team.abbreviation": "STL"
+    },
+    {
+        "event.id": "401704515",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "MIA @ STL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "28",
+        "team.displayName": "Miami Marlins",
+        "team.abbreviation": "MIA"
+    },
+    {
+        "event.id": "401704516",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "PHI @ PIT",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "23",
+        "team.displayName": "Pittsburgh Pirates",
+        "team.abbreviation": "PIT"
+    },
+    {
+        "event.id": "401704516",
+        "event.date": "2025-03-18T17:05Z",
+        "event.shortName": "PHI @ PIT",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "22",
+        "team.displayName": "Philadelphia Phillies",
+        "team.abbreviation": "PHI"
+    },
+    {
+        "event.id": "401704519",
+        "event.date": "2025-03-18T20:05Z",
+        "event.shortName": "LAA @ CIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "17",
+        "team.displayName": "Cincinnati Reds",
+        "team.abbreviation": "CIN"
+    },
+    {
+        "event.id": "401704519",
+        "event.date": "2025-03-18T20:05Z",
+        "event.shortName": "LAA @ CIN",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "0",
+        "team.id": "3",
+        "team.displayName": "Los Angeles Angels",
+        "team.abbreviation": "LAA"
+    },
+    {
+        "event.id": "401704521",
+        "event.date": "2025-03-18T20:10Z",
+        "event.shortName": "MIL @ SEA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
+        "team.id": "12",
+        "team.displayName": "Seattle Mariners",
+        "team.abbreviation": "SEA"
+    },
+    {
+        "event.id": "401704521",
+        "event.date": "2025-03-18T20:10Z",
+        "event.shortName": "MIL @ SEA",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "8",
+        "team.displayName": "Milwaukee Brewers",
+        "team.abbreviation": "MIL"
+    },
+    {
+        "event.id": "401704517",
+        "event.date": "2025-03-18T22:05Z",
+        "event.shortName": "TOR @ BAL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "1",
+        "team.displayName": "Baltimore Orioles",
+        "team.abbreviation": "BAL"
+    },
+    {
+        "event.id": "401704517",
+        "event.date": "2025-03-18T22:05Z",
+        "event.shortName": "TOR @ BAL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "14",
+        "team.displayName": "Toronto Blue Jays",
+        "team.abbreviation": "TOR"
+    },
+    {
+        "event.id": "401704518",
+        "event.date": "2025-03-18T22:05Z",
+        "event.shortName": "WSH @ HOU",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "18",
+        "team.displayName": "Houston Astros",
+        "team.abbreviation": "HOU"
+    },
+    {
+        "event.id": "401704518",
+        "event.date": "2025-03-18T22:05Z",
+        "event.shortName": "WSH @ HOU",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "20",
+        "team.displayName": "Washington Nationals",
+        "team.abbreviation": "WSH"
+    },
+    {
+        "event.id": "401704520",
+        "event.date": "2025-03-19T01:05Z",
+        "event.shortName": "CLE @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "13",
+        "team.displayName": "Texas Rangers",
+        "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401704520",
+        "event.date": "2025-03-19T01:05Z",
+        "event.shortName": "CLE @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "5",
+        "team.displayName": "Cleveland Guardians",
+        "team.abbreviation": "CLE"
+    },
+    {
+        "event.id": "401704522",
+        "event.date": "2025-03-19T01:05Z",
+        "event.shortName": "SD @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401704522",
+        "event.date": "2025-03-19T01:05Z",
+        "event.shortName": "SD @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "25",
+        "team.displayName": "San Diego Padres",
+        "team.abbreviation": "SD"
+    },
+    {
+        "event.id": "401704523",
+        "event.date": "2025-03-19T01:40Z",
+        "event.shortName": "SF @ COL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "27",
+        "team.displayName": "Colorado Rockies",
+        "team.abbreviation": "COL"
+    },
+    {
+        "event.id": "401704523",
+        "event.date": "2025-03-19T01:40Z",
+        "event.shortName": "SF @ COL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401694908",
+        "event.date": "2025-03-19T10:10Z",
+        "event.shortName": "LAD VS CHC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
+        "team.id": "16",
+        "team.displayName": "Chicago Cubs",
+        "team.abbreviation": "CHC"
+    },
+    {
+        "event.id": "401694908",
+        "event.date": "2025-03-19T10:10Z",
+        "event.shortName": "LAD VS CHC",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "19",
+        "team.displayName": "Los Angeles Dodgers",
+        "team.abbreviation": "LAD"
+    },
+    {
+        "event.id": "401704525",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "DET @ BOS",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
+        "team.id": "2",
+        "team.displayName": "Boston Red Sox",
+        "team.abbreviation": "BOS"
+    },
+    {
+        "event.id": "401704525",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "DET @ BOS",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
+        "team.id": "6",
+        "team.displayName": "Detroit Tigers",
+        "team.abbreviation": "DET"
+    },
+    {
+        "event.id": "401704526",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "NYY @ PHI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "22",
+        "team.displayName": "Philadelphia Phillies",
+        "team.abbreviation": "PHI"
+    },
+    {
+        "event.id": "401704526",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "NYY @ PHI",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401704528",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "PIT @ TB",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "30",
+        "team.displayName": "Tampa Bay Rays",
+        "team.abbreviation": "TB"
+    },
+    {
+        "event.id": "401704528",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "PIT @ TB",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
+        "team.id": "23",
+        "team.displayName": "Pittsburgh Pirates",
+        "team.abbreviation": "PIT"
+    },
+    {
+        "event.id": "401704529",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "WSH @ STL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
         "comp.competitors.score": "7",
         "team.id": "24",
         "team.displayName": "St. Louis Cardinals",
         "team.abbreviation": "STL"
     },
     {
-        "event.id": "401704472",
-        "event.date": "2025-03-15T17:05Z",
-        "event.shortName": "TOR @ STL",
+        "event.id": "401704529",
+        "event.date": "2025-03-19T17:05Z",
+        "event.shortName": "WSH @ STL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 6,
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
+        "team.id": "20",
+        "team.displayName": "Washington Nationals",
+        "team.abbreviation": "WSH"
+    },
+    {
+        "event.id": "401704530",
+        "event.date": "2025-03-19T20:05Z",
+        "event.shortName": "ATH @ CLE",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
         "comp.competitors.score": "3",
-        "team.id": "14",
-        "team.displayName": "Toronto Blue Jays",
-        "team.abbreviation": "TOR"
-    },
-    {
-        "event.id": "401704475",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "CLE @ KC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "7",
-        "team.displayName": "Kansas City Royals",
-        "team.abbreviation": "KC"
-    },
-    {
-        "event.id": "401704475",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "CLE @ KC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "5",
-        "team.displayName": "Cleveland Guardians",
-        "team.abbreviation": "CLE"
-    },
-    {
-        "event.id": "401704476",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "COL @ CHW",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
-    },
-    {
-        "event.id": "401704476",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "COL @ CHW",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "27",
-        "team.displayName": "Colorado Rockies",
-        "team.abbreviation": "COL"
-    },
-    {
-        "event.id": "401704477",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "KC @ CIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "17",
-        "team.displayName": "Cincinnati Reds",
-        "team.abbreviation": "CIN"
-    },
-    {
-        "event.id": "401704477",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "KC @ CIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "7",
-        "team.displayName": "Kansas City Royals",
-        "team.abbreviation": "KC"
-    },
-    {
-        "event.id": "401704480",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "SEA @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401704480",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "SEA @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "12",
-        "team.displayName": "Seattle Mariners",
-        "team.abbreviation": "SEA"
-    },
-    {
-        "event.id": "401704481",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "TEX @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
-    },
-    {
-        "event.id": "401704481",
-        "event.date": "2025-03-15T20:05Z",
-        "event.shortName": "TEX @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "13",
-        "team.displayName": "Texas Rangers",
-        "team.abbreviation": "TEX"
-    },
-    {
-        "event.id": "401704473",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "ATH @ MIL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "8",
-        "team.displayName": "Milwaukee Brewers",
-        "team.abbreviation": "MIL"
-    },
-    {
-        "event.id": "401704473",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "ATH @ MIL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
-    },
-    {
-        "event.id": "401704474",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "CHW @ ARI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "29",
-        "team.displayName": "Arizona Diamondbacks",
-        "team.abbreviation": "ARI"
-    },
-    {
-        "event.id": "401704474",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "CHW @ ARI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
-    },
-    {
-        "event.id": "401704478",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "MIL @ LAA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "3",
-        "team.displayName": "Los Angeles Angels",
-        "team.abbreviation": "LAA"
-    },
-    {
-        "event.id": "401704478",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "MIL @ LAA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "8",
-        "team.displayName": "Milwaukee Brewers",
-        "team.abbreviation": "MIL"
-    },
-    {
-        "event.id": "401704479",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "SD @ SEA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "12",
-        "team.displayName": "Seattle Mariners",
-        "team.abbreviation": "SEA"
-    },
-    {
-        "event.id": "401704479",
-        "event.date": "2025-03-15T20:10Z",
-        "event.shortName": "SD @ SEA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "25",
-        "team.displayName": "San Diego Padres",
-        "team.abbreviation": "SD"
-    },
-    {
-        "event.id": "401704469",
-        "event.date": "2025-03-15T22:05Z",
-        "event.shortName": "MIN @ ATL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "15",
-        "team.displayName": "Atlanta Braves",
-        "team.abbreviation": "ATL"
-    },
-    {
-        "event.id": "401704469",
-        "event.date": "2025-03-15T22:05Z",
-        "event.shortName": "MIN @ ATL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "9",
-        "team.displayName": "Minnesota Twins",
-        "team.abbreviation": "MIN"
-    },
-    {
-        "event.id": "401704471",
-        "event.date": "2025-03-15T22:05Z",
-        "event.shortName": "NYM @ WSH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "20",
-        "team.displayName": "Washington Nationals",
-        "team.abbreviation": "WSH"
-    },
-    {
-        "event.id": "401704471",
-        "event.date": "2025-03-15T22:05Z",
-        "event.shortName": "NYM @ WSH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "21",
-        "team.displayName": "New York Mets",
-        "team.abbreviation": "NYM"
-    },
-    {
-        "event.id": "401704483",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "BAL @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "6",
-        "team.displayName": "Detroit Tigers",
-        "team.abbreviation": "DET"
-    },
-    {
-        "event.id": "401704483",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "BAL @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "1",
-        "team.displayName": "Baltimore Orioles",
-        "team.abbreviation": "BAL"
-    },
-    {
-        "event.id": "401704484",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "BOS @ MIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "9",
-        "team.displayName": "Minnesota Twins",
-        "team.abbreviation": "MIN"
-    },
-    {
-        "event.id": "401704484",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "BOS @ MIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "2",
-        "team.displayName": "Boston Red Sox",
-        "team.abbreviation": "BOS"
-    },
-    {
-        "event.id": "401704486",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "NYY @ TB",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "30",
-        "team.displayName": "Tampa Bay Rays",
-        "team.abbreviation": "TB"
-    },
-    {
-        "event.id": "401704486",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "NYY @ TB",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
-    },
-    {
-        "event.id": "401704487",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "PHI @ BAL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "1",
-        "team.displayName": "Baltimore Orioles",
-        "team.abbreviation": "BAL"
-    },
-    {
-        "event.id": "401704487",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "PHI @ BAL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "22",
-        "team.displayName": "Philadelphia Phillies",
-        "team.abbreviation": "PHI"
-    },
-    {
-        "event.id": "401704488",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "PIT @ NYY",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
-    },
-    {
-        "event.id": "401704488",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "PIT @ NYY",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "23",
-        "team.displayName": "Pittsburgh Pirates",
-        "team.abbreviation": "PIT"
-    },
-    {
-        "event.id": "401704490",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "TB @ WSH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "20",
-        "team.displayName": "Washington Nationals",
-        "team.abbreviation": "WSH"
-    },
-    {
-        "event.id": "401704490",
-        "event.date": "2025-03-16T17:05Z",
-        "event.shortName": "TB @ WSH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "30",
-        "team.displayName": "Tampa Bay Rays",
-        "team.abbreviation": "TB"
-    },
-    {
-        "event.id": "401704482",
-        "event.date": "2025-03-16T17:07Z",
-        "event.shortName": "ATL @ TOR",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "14",
-        "team.displayName": "Toronto Blue Jays",
-        "team.abbreviation": "TOR"
-    },
-    {
-        "event.id": "401704482",
-        "event.date": "2025-03-16T17:07Z",
-        "event.shortName": "ATL @ TOR",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "15",
-        "team.displayName": "Atlanta Braves",
-        "team.abbreviation": "ATL"
-    },
-    {
-        "event.id": "401704485",
-        "event.date": "2025-03-16T17:10Z",
-        "event.shortName": "HOU @ NYM",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "21",
-        "team.displayName": "New York Mets",
-        "team.abbreviation": "NYM"
-    },
-    {
-        "event.id": "401704485",
-        "event.date": "2025-03-16T17:10Z",
-        "event.shortName": "HOU @ NYM",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "18",
-        "team.displayName": "Houston Astros",
-        "team.abbreviation": "HOU"
-    },
-    {
-        "event.id": "401704489",
-        "event.date": "2025-03-16T17:10Z",
-        "event.shortName": "STL @ MIA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "28",
-        "team.displayName": "Miami Marlins",
-        "team.abbreviation": "MIA"
-    },
-    {
-        "event.id": "401704489",
-        "event.date": "2025-03-16T17:10Z",
-        "event.shortName": "STL @ MIA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "24",
-        "team.displayName": "St. Louis Cardinals",
-        "team.abbreviation": "STL"
-    },
-    {
-        "event.id": "401704492",
-        "event.date": "2025-03-16T20:05Z",
-        "event.shortName": "ATH @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401704492",
-        "event.date": "2025-03-16T20:05Z",
-        "event.shortName": "ATH @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
-    },
-    {
-        "event.id": "401704493",
-        "event.date": "2025-03-16T20:05Z",
-        "event.shortName": "CHW @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "13",
-        "team.displayName": "Texas Rangers",
-        "team.abbreviation": "TEX"
-    },
-    {
-        "event.id": "401704493",
-        "event.date": "2025-03-16T20:05Z",
-        "event.shortName": "CHW @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
-    },
-    {
-        "event.id": "401704497",
-        "event.date": "2025-03-16T20:05Z",
-        "event.shortName": "SEA @ CIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "17",
-        "team.displayName": "Cincinnati Reds",
-        "team.abbreviation": "CIN"
-    },
-    {
-        "event.id": "401704497",
-        "event.date": "2025-03-16T20:05Z",
-        "event.shortName": "SEA @ CIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "12",
-        "team.displayName": "Seattle Mariners",
-        "team.abbreviation": "SEA"
-    },
-    {
-        "event.id": "401704491",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "ARI @ SD",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "25",
-        "team.displayName": "San Diego Padres",
-        "team.abbreviation": "SD"
-    },
-    {
-        "event.id": "401704491",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "ARI @ SD",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "29",
-        "team.displayName": "Arizona Diamondbacks",
-        "team.abbreviation": "ARI"
-    },
-    {
-        "event.id": "401704494",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "CLE @ MIL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "8",
-        "team.displayName": "Milwaukee Brewers",
-        "team.abbreviation": "MIL"
-    },
-    {
-        "event.id": "401704494",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "CLE @ MIL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "5",
-        "team.displayName": "Cleveland Guardians",
-        "team.abbreviation": "CLE"
-    },
-    {
-        "event.id": "401704495",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "KC @ COL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "27",
-        "team.displayName": "Colorado Rockies",
-        "team.abbreviation": "COL"
-    },
-    {
-        "event.id": "401704495",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "KC @ COL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "7",
-        "team.displayName": "Kansas City Royals",
-        "team.abbreviation": "KC"
-    },
-    {
-        "event.id": "401704496",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "SD @ LAA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "3",
-        "team.displayName": "Los Angeles Angels",
-        "team.abbreviation": "LAA"
-    },
-    {
-        "event.id": "401704496",
-        "event.date": "2025-03-16T20:10Z",
-        "event.shortName": "SD @ LAA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "25",
-        "team.displayName": "San Diego Padres",
-        "team.abbreviation": "SD"
-    },
-    {
-        "event.id": "401704498",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "BAL @ BOS",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "2",
-        "team.displayName": "Boston Red Sox",
-        "team.abbreviation": "BOS"
-    },
-    {
-        "event.id": "401704498",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "BAL @ BOS",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "1",
-        "team.displayName": "Baltimore Orioles",
-        "team.abbreviation": "BAL"
-    },
-    {
-        "event.id": "401704499",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "BOS @ ATL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "15",
-        "team.displayName": "Atlanta Braves",
-        "team.abbreviation": "ATL"
-    },
-    {
-        "event.id": "401704499",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "BOS @ ATL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "2",
-        "team.displayName": "Boston Red Sox",
-        "team.abbreviation": "BOS"
-    },
-    {
-        "event.id": "401704500",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "MIN @ PIT",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "23",
-        "team.displayName": "Pittsburgh Pirates",
-        "team.abbreviation": "PIT"
-    },
-    {
-        "event.id": "401704500",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "MIN @ PIT",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "9",
-        "team.displayName": "Minnesota Twins",
-        "team.abbreviation": "MIN"
-    },
-    {
-        "event.id": "401704503",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "PIT @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "6",
-        "team.displayName": "Detroit Tigers",
-        "team.abbreviation": "DET"
-    },
-    {
-        "event.id": "401704503",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "PIT @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "23",
-        "team.displayName": "Pittsburgh Pirates",
-        "team.abbreviation": "PIT"
-    },
-    {
-        "event.id": "401704504",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "STL @ WSH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "20",
-        "team.displayName": "Washington Nationals",
-        "team.abbreviation": "WSH"
-    },
-    {
-        "event.id": "401704504",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "STL @ WSH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "24",
-        "team.displayName": "St. Louis Cardinals",
-        "team.abbreviation": "STL"
-    },
-    {
-        "event.id": "401704506",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "TOR @ PHI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "22",
-        "team.displayName": "Philadelphia Phillies",
-        "team.abbreviation": "PHI"
-    },
-    {
-        "event.id": "401704506",
-        "event.date": "2025-03-17T17:05Z",
-        "event.shortName": "TOR @ PHI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "14",
-        "team.displayName": "Toronto Blue Jays",
-        "team.abbreviation": "TOR"
-    },
-    {
-        "event.id": "401704501",
-        "event.date": "2025-03-17T17:07Z",
-        "event.shortName": "NYY @ TOR",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "14",
-        "team.displayName": "Toronto Blue Jays",
-        "team.abbreviation": "TOR"
-    },
-    {
-        "event.id": "401704501",
-        "event.date": "2025-03-17T17:07Z",
-        "event.shortName": "NYY @ TOR",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
-    },
-    {
-        "event.id": "401704502",
-        "event.date": "2025-03-17T17:10Z",
-        "event.shortName": "NYM @ MIA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "28",
-        "team.displayName": "Miami Marlins",
-        "team.abbreviation": "MIA"
-    },
-    {
-        "event.id": "401704502",
-        "event.date": "2025-03-17T17:10Z",
-        "event.shortName": "NYM @ MIA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "21",
-        "team.displayName": "New York Mets",
-        "team.abbreviation": "NYM"
-    },
-    {
-        "event.id": "401704505",
-        "event.date": "2025-03-17T17:10Z",
-        "event.shortName": "TB @ NYM",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "21",
-        "team.displayName": "New York Mets",
-        "team.abbreviation": "NYM"
-    },
-    {
-        "event.id": "401704505",
-        "event.date": "2025-03-17T17:10Z",
-        "event.shortName": "TB @ NYM",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "30",
-        "team.displayName": "Tampa Bay Rays",
-        "team.abbreviation": "TB"
-    },
-    {
-        "event.id": "401704508",
-        "event.date": "2025-03-17T20:05Z",
-        "event.shortName": "ARI @ KC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "7",
-        "team.displayName": "Kansas City Royals",
-        "team.abbreviation": "KC"
-    },
-    {
-        "event.id": "401704508",
-        "event.date": "2025-03-17T20:05Z",
-        "event.shortName": "ARI @ KC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "29",
-        "team.displayName": "Arizona Diamondbacks",
-        "team.abbreviation": "ARI"
-    },
-    {
-        "event.id": "401704511",
-        "event.date": "2025-03-17T20:05Z",
-        "event.shortName": "SEA @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
-    },
-    {
-        "event.id": "401704511",
-        "event.date": "2025-03-17T20:05Z",
-        "event.shortName": "SEA @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "12",
-        "team.displayName": "Seattle Mariners",
-        "team.abbreviation": "SEA"
-    },
-    {
-        "event.id": "401704512",
-        "event.date": "2025-03-17T20:05Z",
-        "event.shortName": "SF @ CHW",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
-    },
-    {
-        "event.id": "401704512",
-        "event.date": "2025-03-17T20:05Z",
-        "event.shortName": "SF @ CHW",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401704507",
-        "event.date": "2025-03-17T20:10Z",
-        "event.shortName": "LAA @ ARI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "29",
-        "team.displayName": "Arizona Diamondbacks",
-        "team.abbreviation": "ARI"
-    },
-    {
-        "event.id": "401704507",
-        "event.date": "2025-03-17T20:10Z",
-        "event.shortName": "LAA @ ARI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "3",
-        "team.displayName": "Los Angeles Angels",
-        "team.abbreviation": "LAA"
-    },
-    {
-        "event.id": "401704510",
-        "event.date": "2025-03-17T20:10Z",
-        "event.shortName": "MIL @ SD",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "25",
-        "team.displayName": "San Diego Padres",
-        "team.abbreviation": "SD"
-    },
-    {
-        "event.id": "401704510",
-        "event.date": "2025-03-17T20:10Z",
-        "event.shortName": "MIL @ SD",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "8",
-        "team.displayName": "Milwaukee Brewers",
-        "team.abbreviation": "MIL"
-    },
-    {
-        "event.id": "401704509",
-        "event.date": "2025-03-18T01:05Z",
-        "event.shortName": "CIN @ CLE",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "5",
-        "team.displayName": "Cleveland Guardians",
-        "team.abbreviation": "CLE"
-    },
-    {
-        "event.id": "401704509",
-        "event.date": "2025-03-18T01:05Z",
-        "event.shortName": "CIN @ CLE",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "17",
-        "team.displayName": "Cincinnati Reds",
-        "team.abbreviation": "CIN"
-    },
-    {
-        "event.id": "401694907",
-        "event.date": "2025-03-18T10:10Z",
-        "event.shortName": "LAD VS CHC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "16",
-        "team.displayName": "Chicago Cubs",
-        "team.abbreviation": "CHC"
-    },
-    {
-        "event.id": "401694907",
-        "event.date": "2025-03-18T10:10Z",
-        "event.shortName": "LAD VS CHC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "19",
-        "team.displayName": "Los Angeles Dodgers",
-        "team.abbreviation": "LAD"
-    },
-    {
-        "event.id": "401704513",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "BOS @ NYY",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
-    },
-    {
-        "event.id": "401704513",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "BOS @ NYY",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "2",
-        "team.displayName": "Boston Red Sox",
-        "team.abbreviation": "BOS"
-    },
-    {
-        "event.id": "401704514",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "DET @ MIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "9",
-        "team.displayName": "Minnesota Twins",
-        "team.abbreviation": "MIN"
-    },
-    {
-        "event.id": "401704514",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "DET @ MIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "6",
-        "team.displayName": "Detroit Tigers",
-        "team.abbreviation": "DET"
-    },
-    {
-        "event.id": "401704515",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "MIA @ STL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "24",
-        "team.displayName": "St. Louis Cardinals",
-        "team.abbreviation": "STL"
-    },
-    {
-        "event.id": "401704515",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "MIA @ STL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "28",
-        "team.displayName": "Miami Marlins",
-        "team.abbreviation": "MIA"
-    },
-    {
-        "event.id": "401704516",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "PHI @ PIT",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "23",
-        "team.displayName": "Pittsburgh Pirates",
-        "team.abbreviation": "PIT"
-    },
-    {
-        "event.id": "401704516",
-        "event.date": "2025-03-18T17:05Z",
-        "event.shortName": "PHI @ PIT",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "22",
-        "team.displayName": "Philadelphia Phillies",
-        "team.abbreviation": "PHI"
-    },
-    {
-        "event.id": "401704519",
-        "event.date": "2025-03-18T20:05Z",
-        "event.shortName": "LAA @ CIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "17",
-        "team.displayName": "Cincinnati Reds",
-        "team.abbreviation": "CIN"
-    },
-    {
-        "event.id": "401704519",
-        "event.date": "2025-03-18T20:05Z",
-        "event.shortName": "LAA @ CIN",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "3",
-        "team.displayName": "Los Angeles Angels",
-        "team.abbreviation": "LAA"
-    },
-    {
-        "event.id": "401704521",
-        "event.date": "2025-03-18T20:10Z",
-        "event.shortName": "MIL @ SEA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "12",
-        "team.displayName": "Seattle Mariners",
-        "team.abbreviation": "SEA"
-    },
-    {
-        "event.id": "401704521",
-        "event.date": "2025-03-18T20:10Z",
-        "event.shortName": "MIL @ SEA",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "8",
-        "team.displayName": "Milwaukee Brewers",
-        "team.abbreviation": "MIL"
-    },
-    {
-        "event.id": "401704517",
-        "event.date": "2025-03-18T22:05Z",
-        "event.shortName": "TOR @ BAL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "1",
-        "team.displayName": "Baltimore Orioles",
-        "team.abbreviation": "BAL"
-    },
-    {
-        "event.id": "401704517",
-        "event.date": "2025-03-18T22:05Z",
-        "event.shortName": "TOR @ BAL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "14",
-        "team.displayName": "Toronto Blue Jays",
-        "team.abbreviation": "TOR"
-    },
-    {
-        "event.id": "401704518",
-        "event.date": "2025-03-18T22:05Z",
-        "event.shortName": "WSH @ HOU",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "18",
-        "team.displayName": "Houston Astros",
-        "team.abbreviation": "HOU"
-    },
-    {
-        "event.id": "401704518",
-        "event.date": "2025-03-18T22:05Z",
-        "event.shortName": "WSH @ HOU",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "20",
-        "team.displayName": "Washington Nationals",
-        "team.abbreviation": "WSH"
-    },
-    {
-        "event.id": "401704520",
-        "event.date": "2025-03-19T01:05Z",
-        "event.shortName": "CLE @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "13",
-        "team.displayName": "Texas Rangers",
-        "team.abbreviation": "TEX"
-    },
-    {
-        "event.id": "401704520",
-        "event.date": "2025-03-19T01:05Z",
-        "event.shortName": "CLE @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "5",
-        "team.displayName": "Cleveland Guardians",
-        "team.abbreviation": "CLE"
-    },
-    {
-        "event.id": "401704522",
-        "event.date": "2025-03-19T01:05Z",
-        "event.shortName": "SD @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401704522",
-        "event.date": "2025-03-19T01:05Z",
-        "event.shortName": "SD @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "25",
-        "team.displayName": "San Diego Padres",
-        "team.abbreviation": "SD"
-    },
-    {
-        "event.id": "401704523",
-        "event.date": "2025-03-19T01:40Z",
-        "event.shortName": "SF @ COL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "27",
-        "team.displayName": "Colorado Rockies",
-        "team.abbreviation": "COL"
-    },
-    {
-        "event.id": "401704523",
-        "event.date": "2025-03-19T01:40Z",
-        "event.shortName": "SF @ COL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401694908",
-        "event.date": "2025-03-19T10:10Z",
-        "event.shortName": "LAD VS CHC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "16",
-        "team.displayName": "Chicago Cubs",
-        "team.abbreviation": "CHC"
-    },
-    {
-        "event.id": "401694908",
-        "event.date": "2025-03-19T10:10Z",
-        "event.shortName": "LAD VS CHC",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "19",
-        "team.displayName": "Los Angeles Dodgers",
-        "team.abbreviation": "LAD"
-    },
-    {
-        "event.id": "401704525",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "DET @ BOS",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "2",
-        "team.displayName": "Boston Red Sox",
-        "team.abbreviation": "BOS"
-    },
-    {
-        "event.id": "401704525",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "DET @ BOS",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "6",
-        "team.displayName": "Detroit Tigers",
-        "team.abbreviation": "DET"
-    },
-    {
-        "event.id": "401704526",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "NYY @ PHI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "22",
-        "team.displayName": "Philadelphia Phillies",
-        "team.abbreviation": "PHI"
-    },
-    {
-        "event.id": "401704526",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "NYY @ PHI",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
-    },
-    {
-        "event.id": "401704528",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "PIT @ TB",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "30",
-        "team.displayName": "Tampa Bay Rays",
-        "team.abbreviation": "TB"
-    },
-    {
-        "event.id": "401704528",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "PIT @ TB",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "23",
-        "team.displayName": "Pittsburgh Pirates",
-        "team.abbreviation": "PIT"
-    },
-    {
-        "event.id": "401704529",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "WSH @ STL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "24",
-        "team.displayName": "St. Louis Cardinals",
-        "team.abbreviation": "STL"
-    },
-    {
-        "event.id": "401704529",
-        "event.date": "2025-03-19T17:05Z",
-        "event.shortName": "WSH @ STL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "20",
-        "team.displayName": "Washington Nationals",
-        "team.abbreviation": "WSH"
-    },
-    {
-        "event.id": "401704530",
-        "event.date": "2025-03-19T20:05Z",
-        "event.shortName": "ATH @ CLE",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
         "team.id": "5",
         "team.displayName": "Cleveland Guardians",
         "team.abbreviation": "CLE"
@@ -2105,8 +2105,8 @@
         "event.date": "2025-03-19T20:05Z",
         "event.shortName": "ATH @ CLE",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "11",
         "team.displayName": "Athletics",
         "team.abbreviation": "ATH"
@@ -2116,8 +2116,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "CHW @ MIL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "8",
         "team.displayName": "Milwaukee Brewers",
         "team.abbreviation": "MIL"
@@ -2127,8 +2127,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "CHW @ MIL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
@@ -2138,8 +2138,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "CLE @ LAA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "3",
         "team.displayName": "Los Angeles Angels",
         "team.abbreviation": "LAA"
@@ -2149,8 +2149,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "CLE @ LAA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "5",
         "team.displayName": "Cleveland Guardians",
         "team.abbreviation": "CLE"
@@ -2160,8 +2160,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "COL @ ARI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "29",
         "team.displayName": "Arizona Diamondbacks",
         "team.abbreviation": "ARI"
@@ -2171,7 +2171,7 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "COL @ ARI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
@@ -2182,8 +2182,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "TEX @ SEA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "12",
         "team.displayName": "Seattle Mariners",
         "team.abbreviation": "SEA"
@@ -2193,8 +2193,8 @@
         "event.date": "2025-03-19T20:10Z",
         "event.shortName": "TEX @ SEA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
@@ -2204,8 +2204,8 @@
         "event.date": "2025-03-19T22:05Z",
         "event.shortName": "NYM @ HOU",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "18",
         "team.displayName": "Houston Astros",
         "team.abbreviation": "HOU"
@@ -2215,8 +2215,8 @@
         "event.date": "2025-03-19T22:05Z",
         "event.shortName": "NYM @ HOU",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
@@ -2226,7 +2226,7 @@
         "event.date": "2025-03-19T22:35Z",
         "event.shortName": "ATL @ NYY",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "10",
         "team.displayName": "New York Yankees",
@@ -2237,8 +2237,8 @@
         "event.date": "2025-03-19T22:35Z",
         "event.shortName": "ATL @ NYY",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
         "team.abbreviation": "ATL"
@@ -2248,8 +2248,8 @@
         "event.date": "2025-03-20T01:05Z",
         "event.shortName": "SF @ KC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "7",
         "team.displayName": "Kansas City Royals",
         "team.abbreviation": "KC"
@@ -2259,8 +2259,8 @@
         "event.date": "2025-03-20T01:05Z",
         "event.shortName": "SF @ KC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "26",
         "team.displayName": "San Francisco Giants",
         "team.abbreviation": "SF"
@@ -2270,8 +2270,8 @@
         "event.date": "2025-03-20T17:05Z",
         "event.shortName": "PHI @ ATL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
         "team.abbreviation": "ATL"
@@ -2281,7 +2281,7 @@
         "event.date": "2025-03-20T17:05Z",
         "event.shortName": "PHI @ ATL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
@@ -2292,8 +2292,8 @@
         "event.date": "2025-03-20T17:07Z",
         "event.shortName": "TB @ TOR",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "14",
         "team.displayName": "Toronto Blue Jays",
         "team.abbreviation": "TOR"
@@ -2303,8 +2303,8 @@
         "event.date": "2025-03-20T17:07Z",
         "event.shortName": "TB @ TOR",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "30",
         "team.displayName": "Tampa Bay Rays",
         "team.abbreviation": "TB"
@@ -2314,7 +2314,7 @@
         "event.date": "2025-03-20T17:10Z",
         "event.shortName": "HOU @ MIA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "28",
         "team.displayName": "Miami Marlins",
@@ -2325,8 +2325,8 @@
         "event.date": "2025-03-20T17:10Z",
         "event.shortName": "HOU @ MIA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
         "team.id": "18",
         "team.displayName": "Houston Astros",
         "team.abbreviation": "HOU"
@@ -2336,8 +2336,8 @@
         "event.date": "2025-03-20T20:05Z",
         "event.shortName": "LAA @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
@@ -2347,8 +2347,8 @@
         "event.date": "2025-03-20T20:05Z",
         "event.shortName": "LAA @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "3",
         "team.displayName": "Los Angeles Angels",
         "team.abbreviation": "LAA"
@@ -2358,8 +2358,8 @@
         "event.date": "2025-03-20T20:05Z",
         "event.shortName": "KC @ CIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "17",
         "team.displayName": "Cincinnati Reds",
         "team.abbreviation": "CIN"
@@ -2369,8 +2369,8 @@
         "event.date": "2025-03-20T20:05Z",
         "event.shortName": "KC @ CIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
         "team.id": "7",
         "team.displayName": "Kansas City Royals",
         "team.abbreviation": "KC"
@@ -2380,8 +2380,8 @@
         "event.date": "2025-03-20T20:10Z",
         "event.shortName": "ATH @ ARI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
         "team.id": "29",
         "team.displayName": "Arizona Diamondbacks",
         "team.abbreviation": "ARI"
@@ -2391,8 +2391,8 @@
         "event.date": "2025-03-20T20:10Z",
         "event.shortName": "ATH @ ARI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "11",
         "team.displayName": "Athletics",
         "team.abbreviation": "ATH"
@@ -2402,8 +2402,8 @@
         "event.date": "2025-03-20T22:05Z",
         "event.shortName": "BOS @ MIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "9",
         "team.displayName": "Minnesota Twins",
         "team.abbreviation": "MIN"
@@ -2413,8 +2413,8 @@
         "event.date": "2025-03-20T22:05Z",
         "event.shortName": "BOS @ MIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "2",
         "team.displayName": "Boston Red Sox",
         "team.abbreviation": "BOS"
@@ -2424,8 +2424,8 @@
         "event.date": "2025-03-20T22:05Z",
         "event.shortName": "NYY @ BAL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "1",
         "team.displayName": "Baltimore Orioles",
         "team.abbreviation": "BAL"
@@ -2435,8 +2435,8 @@
         "event.date": "2025-03-20T22:05Z",
         "event.shortName": "NYY @ BAL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
         "team.id": "10",
         "team.displayName": "New York Yankees",
         "team.abbreviation": "NYY"
@@ -2446,8 +2446,8 @@
         "event.date": "2025-03-20T22:05Z",
         "event.shortName": "NYM @ WSH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "20",
         "team.displayName": "Washington Nationals",
         "team.abbreviation": "WSH"
@@ -2457,8 +2457,8 @@
         "event.date": "2025-03-20T22:05Z",
         "event.shortName": "NYM @ WSH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "10",
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
@@ -2468,8 +2468,8 @@
         "event.date": "2025-03-21T01:05Z",
         "event.shortName": "COL @ TEX",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
@@ -2479,8 +2479,8 @@
         "event.date": "2025-03-21T01:05Z",
         "event.shortName": "COL @ TEX",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
         "team.abbreviation": "COL"
@@ -2490,8 +2490,8 @@
         "event.date": "2025-03-21T01:40Z",
         "event.shortName": "TEX @ SD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
@@ -2501,8 +2501,8 @@
         "event.date": "2025-03-21T01:40Z",
         "event.shortName": "TEX @ SD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
@@ -2512,8 +2512,8 @@
         "event.date": "2025-03-21T17:05Z",
         "event.shortName": "ATL @ TB",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "30",
         "team.displayName": "Tampa Bay Rays",
         "team.abbreviation": "TB"
@@ -2523,8 +2523,8 @@
         "event.date": "2025-03-21T17:05Z",
         "event.shortName": "ATL @ TB",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
         "team.abbreviation": "ATL"
@@ -2534,8 +2534,8 @@
         "event.date": "2025-03-21T17:05Z",
         "event.shortName": "HOU @ STL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "24",
         "team.displayName": "St. Louis Cardinals",
         "team.abbreviation": "STL"
@@ -2545,8 +2545,8 @@
         "event.date": "2025-03-21T17:05Z",
         "event.shortName": "HOU @ STL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "18",
         "team.displayName": "Houston Astros",
         "team.abbreviation": "HOU"
@@ -2556,8 +2556,8 @@
         "event.date": "2025-03-21T17:05Z",
         "event.shortName": "MIN @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
         "team.abbreviation": "PHI"
@@ -2567,8 +2567,8 @@
         "event.date": "2025-03-21T17:05Z",
         "event.shortName": "MIN @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "9",
         "team.displayName": "Minnesota Twins",
         "team.abbreviation": "MIN"
@@ -2578,8 +2578,8 @@
         "event.date": "2025-03-21T17:07Z",
         "event.shortName": "PHI @ TOR",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "11",
         "team.id": "14",
         "team.displayName": "Toronto Blue Jays",
         "team.abbreviation": "TOR"
@@ -2589,8 +2589,8 @@
         "event.date": "2025-03-21T17:07Z",
         "event.shortName": "PHI @ TOR",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
         "team.abbreviation": "PHI"
@@ -2600,8 +2600,8 @@
         "event.date": "2025-03-21T17:10Z",
         "event.shortName": "STL @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
@@ -2611,8 +2611,8 @@
         "event.date": "2025-03-21T17:10Z",
         "event.shortName": "STL @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "24",
         "team.displayName": "St. Louis Cardinals",
         "team.abbreviation": "STL"
@@ -2622,8 +2622,8 @@
         "event.date": "2025-03-21T19:10Z",
         "event.shortName": "TEX @ LAA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "3",
         "team.displayName": "Los Angeles Angels",
         "team.abbreviation": "LAA"
@@ -2633,8 +2633,8 @@
         "event.date": "2025-03-21T19:10Z",
         "event.shortName": "TEX @ LAA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
@@ -2644,8 +2644,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "CHW @ CIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "17",
         "team.displayName": "Cincinnati Reds",
         "team.abbreviation": "CIN"
@@ -2655,8 +2655,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "CHW @ CIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
@@ -2666,8 +2666,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "CLE @ SF",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "26",
         "team.displayName": "San Francisco Giants",
         "team.abbreviation": "SF"
@@ -2677,8 +2677,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "CLE @ SF",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "5",
         "team.displayName": "Cleveland Guardians",
         "team.abbreviation": "CLE"
@@ -2688,8 +2688,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "KC @ ATH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "10",
         "team.id": "11",
         "team.displayName": "Athletics",
         "team.abbreviation": "ATH"
@@ -2699,8 +2699,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "KC @ ATH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "7",
         "team.displayName": "Kansas City Royals",
         "team.abbreviation": "KC"
@@ -2710,8 +2710,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "SD @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "16",
         "team.displayName": "Chicago Cubs",
         "team.abbreviation": "CHC"
@@ -2721,8 +2721,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "SD @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
@@ -2732,8 +2732,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "SEA @ KC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "7",
         "team.displayName": "Kansas City Royals",
         "team.abbreviation": "KC"
@@ -2743,8 +2743,8 @@
         "event.date": "2025-03-21T20:05Z",
         "event.shortName": "SEA @ KC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "12",
         "team.displayName": "Seattle Mariners",
         "team.abbreviation": "SEA"
@@ -2754,8 +2754,8 @@
         "event.date": "2025-03-21T20:10Z",
         "event.shortName": "LAA @ COL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
         "team.abbreviation": "COL"
@@ -2765,8 +2765,8 @@
         "event.date": "2025-03-21T20:10Z",
         "event.shortName": "LAA @ COL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "3",
         "team.displayName": "Los Angeles Angels",
         "team.abbreviation": "LAA"
@@ -2776,8 +2776,8 @@
         "event.date": "2025-03-21T20:10Z",
         "event.shortName": "CIN @ SEA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "12",
         "team.displayName": "Seattle Mariners",
         "team.abbreviation": "SEA"
@@ -2787,8 +2787,8 @@
         "event.date": "2025-03-21T20:10Z",
         "event.shortName": "CIN @ SEA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "17",
         "team.displayName": "Cincinnati Reds",
         "team.abbreviation": "CIN"
@@ -2798,8 +2798,8 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "DET @ BAL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "1",
         "team.displayName": "Baltimore Orioles",
         "team.abbreviation": "BAL"
@@ -2809,8 +2809,8 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "DET @ BAL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
         "team.id": "6",
         "team.displayName": "Detroit Tigers",
         "team.abbreviation": "DET"
@@ -2820,7 +2820,7 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "MIA @ WSH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "20",
         "team.displayName": "Washington Nationals",
@@ -2831,8 +2831,8 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "MIA @ WSH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "28",
         "team.displayName": "Miami Marlins",
         "team.abbreviation": "MIA"
@@ -2842,7 +2842,7 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "NYY @ DET",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "6",
         "team.displayName": "Detroit Tigers",
@@ -2853,8 +2853,8 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "NYY @ DET",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "10",
         "team.displayName": "New York Yankees",
         "team.abbreviation": "NYY"
@@ -2864,8 +2864,8 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "PIT @ BOS",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "2",
         "team.displayName": "Boston Red Sox",
         "team.abbreviation": "BOS"
@@ -2875,8 +2875,8 @@
         "event.date": "2025-03-21T22:05Z",
         "event.shortName": "PIT @ BOS",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "23",
         "team.displayName": "Pittsburgh Pirates",
         "team.abbreviation": "PIT"
@@ -2886,8 +2886,8 @@
         "event.date": "2025-03-22T01:10Z",
         "event.shortName": "ARI @ MIL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
         "team.id": "8",
         "team.displayName": "Milwaukee Brewers",
         "team.abbreviation": "MIL"
@@ -2897,8 +2897,8 @@
         "event.date": "2025-03-22T01:10Z",
         "event.shortName": "ARI @ MIL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "16",
         "team.id": "29",
         "team.displayName": "Arizona Diamondbacks",
         "team.abbreviation": "ARI"
@@ -2908,7 +2908,7 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "ATL @ DET",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "6",
         "team.displayName": "Detroit Tigers",
@@ -2919,7 +2919,7 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "ATL @ DET",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
@@ -2930,7 +2930,7 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "BAL @ PIT",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "23",
         "team.displayName": "Pittsburgh Pirates",
@@ -2941,8 +2941,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "BAL @ PIT",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "1",
         "team.displayName": "Baltimore Orioles",
         "team.abbreviation": "BAL"
@@ -2952,8 +2952,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "BOS @ TB",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "14",
         "team.id": "30",
         "team.displayName": "Tampa Bay Rays",
         "team.abbreviation": "TB"
@@ -2963,8 +2963,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "BOS @ TB",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "2",
         "team.displayName": "Boston Red Sox",
         "team.abbreviation": "BOS"
@@ -2974,8 +2974,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "PHI @ NYY",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "10",
         "team.displayName": "New York Yankees",
         "team.abbreviation": "NYY"
@@ -2985,8 +2985,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "PHI @ NYY",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
         "team.abbreviation": "PHI"
@@ -2996,8 +2996,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "TOR @ MIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "9",
         "team.displayName": "Minnesota Twins",
         "team.abbreviation": "MIN"
@@ -3007,8 +3007,8 @@
         "event.date": "2025-03-22T17:05Z",
         "event.shortName": "TOR @ MIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "14",
         "team.displayName": "Toronto Blue Jays",
         "team.abbreviation": "TOR"
@@ -3018,8 +3018,8 @@
         "event.date": "2025-03-22T17:10Z",
         "event.shortName": "STL @ MIA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "28",
         "team.displayName": "Miami Marlins",
         "team.abbreviation": "MIA"
@@ -3029,8 +3029,8 @@
         "event.date": "2025-03-22T17:10Z",
         "event.shortName": "STL @ MIA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "24",
         "team.displayName": "St. Louis Cardinals",
         "team.abbreviation": "STL"
@@ -3040,8 +3040,8 @@
         "event.date": "2025-03-22T17:10Z",
         "event.shortName": "WSH @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
@@ -3051,19 +3051,41 @@
         "event.date": "2025-03-22T17:10Z",
         "event.shortName": "WSH @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "20",
         "team.displayName": "Washington Nationals",
         "team.abbreviation": "WSH"
+    },
+    {
+        "event.id": "401704573",
+        "event.date": "2025-03-22T19:05Z",
+        "event.shortName": "ARI @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401704573",
+        "event.date": "2025-03-22T19:05Z",
+        "event.shortName": "ARI @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
+        "team.id": "29",
+        "team.displayName": "Arizona Diamondbacks",
+        "team.abbreviation": "ARI"
     },
     {
         "event.id": "401704577",
         "event.date": "2025-03-22T19:05Z",
         "event.shortName": "KC @ TEX",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
@@ -3073,41 +3095,19 @@
         "event.date": "2025-03-22T19:05Z",
         "event.shortName": "KC @ TEX",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
         "team.id": "7",
         "team.displayName": "Kansas City Royals",
         "team.abbreviation": "KC"
-    },
-    {
-        "event.id": "401704573",
-        "event.date": "2025-03-22T20:05Z",
-        "event.shortName": "ARI @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401704573",
-        "event.date": "2025-03-22T20:05Z",
-        "event.shortName": "ARI @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "29",
-        "team.displayName": "Arizona Diamondbacks",
-        "team.abbreviation": "ARI"
     },
     {
         "event.id": "401704576",
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "COL @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "16",
         "team.displayName": "Chicago Cubs",
         "team.abbreviation": "CHC"
@@ -3117,8 +3117,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "COL @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
         "team.abbreviation": "COL"
@@ -3128,8 +3128,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "MIL @ ATH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "11",
         "team.displayName": "Athletics",
         "team.abbreviation": "ATH"
@@ -3139,8 +3139,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "MIL @ ATH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "8",
         "team.displayName": "Milwaukee Brewers",
         "team.abbreviation": "MIL"
@@ -3150,8 +3150,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "SD @ CLE",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "12",
         "team.id": "5",
         "team.displayName": "Cleveland Guardians",
         "team.abbreviation": "CLE"
@@ -3161,8 +3161,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "SD @ CLE",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
@@ -3172,8 +3172,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "SEA @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
@@ -3183,8 +3183,8 @@
         "event.date": "2025-03-22T20:05Z",
         "event.shortName": "SEA @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "14",
         "team.id": "12",
         "team.displayName": "Seattle Mariners",
         "team.abbreviation": "SEA"
@@ -3194,8 +3194,8 @@
         "event.date": "2025-03-22T20:10Z",
         "event.shortName": "CHW @ COL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "10",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
         "team.abbreviation": "COL"
@@ -3205,8 +3205,8 @@
         "event.date": "2025-03-22T20:10Z",
         "event.shortName": "CHW @ COL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
@@ -3216,8 +3216,8 @@
         "event.date": "2025-03-22T20:10Z",
         "event.shortName": "CIN @ SD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
@@ -3227,7 +3227,7 @@
         "event.date": "2025-03-22T20:10Z",
         "event.shortName": "CIN @ SD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "17",
         "team.displayName": "Cincinnati Reds",
@@ -3238,8 +3238,8 @@
         "event.date": "2025-03-22T22:05Z",
         "event.shortName": "MIA @ HOU",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "18",
         "team.displayName": "Houston Astros",
         "team.abbreviation": "HOU"
@@ -3249,8 +3249,8 @@
         "event.date": "2025-03-22T22:05Z",
         "event.shortName": "MIA @ HOU",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "28",
         "team.displayName": "Miami Marlins",
         "team.abbreviation": "MIA"
@@ -3260,8 +3260,8 @@
         "event.date": "2025-03-23T16:05Z",
         "event.shortName": "DET @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
         "team.abbreviation": "PHI"
@@ -3271,8 +3271,8 @@
         "event.date": "2025-03-23T16:05Z",
         "event.shortName": "DET @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "6",
         "team.displayName": "Detroit Tigers",
         "team.abbreviation": "DET"
@@ -3282,8 +3282,8 @@
         "event.date": "2025-03-23T16:05Z",
         "event.shortName": "HOU @ WSH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "20",
         "team.displayName": "Washington Nationals",
         "team.abbreviation": "WSH"
@@ -3293,8 +3293,8 @@
         "event.date": "2025-03-23T16:05Z",
         "event.shortName": "HOU @ WSH",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "18",
         "team.displayName": "Houston Astros",
         "team.abbreviation": "HOU"
@@ -3304,8 +3304,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "BAL @ ATL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
         "team.abbreviation": "ATL"
@@ -3315,8 +3315,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "BAL @ ATL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "1",
         "team.displayName": "Baltimore Orioles",
         "team.abbreviation": "BAL"
@@ -3326,8 +3326,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "MIN @ BOS",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "2",
         "team.displayName": "Boston Red Sox",
         "team.abbreviation": "BOS"
@@ -3337,8 +3337,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "MIN @ BOS",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "9",
         "team.id": "9",
         "team.displayName": "Minnesota Twins",
         "team.abbreviation": "MIN"
@@ -3348,8 +3348,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "TB @ NYY",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "10",
         "team.displayName": "New York Yankees",
         "team.abbreviation": "NYY"
@@ -3359,8 +3359,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "TB @ NYY",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "3",
         "team.id": "30",
         "team.displayName": "Tampa Bay Rays",
         "team.abbreviation": "TB"
@@ -3370,8 +3370,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "WSH @ STL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "24",
         "team.displayName": "St. Louis Cardinals",
         "team.abbreviation": "STL"
@@ -3381,8 +3381,8 @@
         "event.date": "2025-03-23T17:05Z",
         "event.shortName": "WSH @ STL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "20",
         "team.displayName": "Washington Nationals",
         "team.abbreviation": "WSH"
@@ -3392,8 +3392,8 @@
         "event.date": "2025-03-23T17:07Z",
         "event.shortName": "PIT @ TOR",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "14",
         "team.displayName": "Toronto Blue Jays",
         "team.abbreviation": "TOR"
@@ -3403,8 +3403,8 @@
         "event.date": "2025-03-23T17:07Z",
         "event.shortName": "PIT @ TOR",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "23",
         "team.displayName": "Pittsburgh Pirates",
         "team.abbreviation": "PIT"
@@ -3414,8 +3414,8 @@
         "event.date": "2025-03-23T17:10Z",
         "event.shortName": "MIA @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "10",
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
@@ -3425,8 +3425,8 @@
         "event.date": "2025-03-23T17:10Z",
         "event.shortName": "MIA @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "28",
         "team.displayName": "Miami Marlins",
         "team.abbreviation": "MIA"
@@ -3436,8 +3436,8 @@
         "event.date": "2025-03-23T19:05Z",
         "event.shortName": "CLE @ CIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "13",
         "team.id": "17",
         "team.displayName": "Cincinnati Reds",
         "team.abbreviation": "CIN"
@@ -3447,8 +3447,8 @@
         "event.date": "2025-03-23T19:05Z",
         "event.shortName": "CLE @ CIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "5",
         "team.displayName": "Cleveland Guardians",
         "team.abbreviation": "CLE"
@@ -3458,8 +3458,8 @@
         "event.date": "2025-03-23T20:05Z",
         "event.shortName": "ARI @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
@@ -3469,8 +3469,8 @@
         "event.date": "2025-03-23T20:05Z",
         "event.shortName": "ARI @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "29",
         "team.displayName": "Arizona Diamondbacks",
         "team.abbreviation": "ARI"
@@ -3480,8 +3480,8 @@
         "event.date": "2025-03-23T20:05Z",
         "event.shortName": "ATH @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "16",
         "team.displayName": "Chicago Cubs",
         "team.abbreviation": "CHC"
@@ -3491,8 +3491,8 @@
         "event.date": "2025-03-23T20:05Z",
         "event.shortName": "ATH @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "11",
         "team.displayName": "Athletics",
         "team.abbreviation": "ATH"
@@ -3502,8 +3502,8 @@
         "event.date": "2025-03-23T20:10Z",
         "event.shortName": "COL @ MIL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "8",
         "team.displayName": "Milwaukee Brewers",
         "team.abbreviation": "MIL"
@@ -3513,7 +3513,7 @@
         "event.date": "2025-03-23T20:10Z",
         "event.shortName": "COL @ MIL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
+        "comp.status.period": 9,
         "comp.competitors.score": "0",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
@@ -3524,8 +3524,8 @@
         "event.date": "2025-03-23T20:10Z",
         "event.shortName": "MIL @ SEA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "10",
         "team.id": "12",
         "team.displayName": "Seattle Mariners",
         "team.abbreviation": "SEA"
@@ -3535,8 +3535,8 @@
         "event.date": "2025-03-23T20:10Z",
         "event.shortName": "MIL @ SEA",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "8",
         "team.displayName": "Milwaukee Brewers",
         "team.abbreviation": "MIL"
@@ -3546,8 +3546,8 @@
         "event.date": "2025-03-23T20:10Z",
         "event.shortName": "SD @ ARI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "29",
         "team.displayName": "Arizona Diamondbacks",
         "team.abbreviation": "ARI"
@@ -3557,8 +3557,8 @@
         "event.date": "2025-03-23T20:10Z",
         "event.shortName": "SD @ ARI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
@@ -3568,8 +3568,8 @@
         "event.date": "2025-03-24T00:10Z",
         "event.shortName": "LAA @ LAD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "19",
         "team.displayName": "Los Angeles Dodgers",
         "team.abbreviation": "LAD"
@@ -3579,8 +3579,8 @@
         "event.date": "2025-03-24T00:10Z",
         "event.shortName": "LAA @ LAD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "3",
         "team.displayName": "Los Angeles Angels",
         "team.abbreviation": "LAA"
@@ -3590,8 +3590,8 @@
         "event.date": "2025-03-24T16:35Z",
         "event.shortName": "TB @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
         "team.id": "22",
         "team.displayName": "Philadelphia Phillies",
         "team.abbreviation": "PHI"
@@ -3601,8 +3601,8 @@
         "event.date": "2025-03-24T16:35Z",
         "event.shortName": "TB @ PHI",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "30",
         "team.displayName": "Tampa Bay Rays",
         "team.abbreviation": "TB"
@@ -3612,8 +3612,8 @@
         "event.date": "2025-03-24T17:05Z",
         "event.shortName": "PIT @ MIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
         "team.id": "9",
         "team.displayName": "Minnesota Twins",
         "team.abbreviation": "MIN"
@@ -3623,8 +3623,8 @@
         "event.date": "2025-03-24T17:05Z",
         "event.shortName": "PIT @ MIN",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "1",
         "team.id": "23",
         "team.displayName": "Pittsburgh Pirates",
         "team.abbreviation": "PIT"
@@ -3656,8 +3656,8 @@
         "event.date": "2025-03-24T17:10Z",
         "event.shortName": "NYY @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
@@ -3667,8 +3667,8 @@
         "event.date": "2025-03-24T17:10Z",
         "event.shortName": "NYY @ NYM",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "6",
         "team.id": "10",
         "team.displayName": "New York Yankees",
         "team.abbreviation": "NYY"
@@ -3676,32 +3676,32 @@
     {
         "event.id": "401737596",
         "event.date": "2025-03-24T19:05Z",
-        "event.shortName": "CHW @ ATH",
+        "event.shortName": "ATH @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
+        "comp.status.period": 9,
+        "comp.competitors.score": "8",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
     },
     {
         "event.id": "401737596",
         "event.date": "2025-03-24T19:05Z",
-        "event.shortName": "CHW @ ATH",
+        "event.shortName": "ATH @ CHW",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
+        "comp.status.period": 9,
+        "comp.competitors.score": "5",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
     },
     {
         "event.id": "401704599",
         "event.date": "2025-03-24T19:10Z",
         "event.shortName": "MIL @ COL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "2",
         "team.id": "27",
         "team.displayName": "Colorado Rockies",
         "team.abbreviation": "COL"
@@ -3711,8 +3711,8 @@
         "event.date": "2025-03-24T19:10Z",
         "event.shortName": "MIL @ COL",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "8",
         "team.displayName": "Milwaukee Brewers",
         "team.abbreviation": "MIL"
@@ -3722,8 +3722,8 @@
         "event.date": "2025-03-24T19:10Z",
         "event.shortName": "SEA @ SD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
@@ -3733,8 +3733,8 @@
         "event.date": "2025-03-24T19:10Z",
         "event.shortName": "SEA @ SD",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "7",
         "team.id": "12",
         "team.displayName": "Seattle Mariners",
         "team.abbreviation": "SEA"
@@ -3744,8 +3744,8 @@
         "event.date": "2025-03-24T20:05Z",
         "event.shortName": "ATL @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "4",
         "team.id": "16",
         "team.displayName": "Chicago Cubs",
         "team.abbreviation": "CHC"
@@ -3755,8 +3755,8 @@
         "event.date": "2025-03-24T20:05Z",
         "event.shortName": "ATL @ CHC",
         "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
+        "comp.status.period": 9,
+        "comp.competitors.score": "13",
         "team.id": "15",
         "team.displayName": "Atlanta Braves",
         "team.abbreviation": "ATL"
@@ -3785,7 +3785,7 @@
     },
     {
         "event.id": "401704606",
-        "event.date": "2025-03-25T01:00Z",
+        "event.date": "2025-03-25T01:07Z",
         "event.shortName": "LAD @ LAA",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -3796,7 +3796,7 @@
     },
     {
         "event.id": "401704606",
-        "event.date": "2025-03-25T01:00Z",
+        "event.date": "2025-03-25T01:07Z",
         "event.shortName": "LAD @ LAA",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -3961,7 +3961,7 @@
     },
     {
         "event.id": "401715748",
-        "event.date": "2025-03-26T00:00Z",
+        "event.date": "2025-03-26T00:05Z",
         "event.shortName": "DET @ SF",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -3972,7 +3972,7 @@
     },
     {
         "event.id": "401715748",
-        "event.date": "2025-03-26T00:00Z",
+        "event.date": "2025-03-26T00:05Z",
         "event.shortName": "DET @ SF",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -3983,7 +3983,7 @@
     },
     {
         "event.id": "401704610",
-        "event.date": "2025-03-26T01:00Z",
+        "event.date": "2025-03-26T01:07Z",
         "event.shortName": "LAD @ LAA",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -3994,7 +3994,7 @@
     },
     {
         "event.id": "401704610",
-        "event.date": "2025-03-26T01:00Z",
+        "event.date": "2025-03-26T01:07Z",
         "event.shortName": "LAD @ LAA",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -5390,7 +5390,7 @@
         "team.abbreviation": "DET"
     },
     {
-        "event.id": "401694971",
+        "event.id": "401764519",
         "event.date": "2025-04-01T02:05Z",
         "event.shortName": "CHC @ ATH",
         "comp.status.displayClock": "0:00",
@@ -5401,7 +5401,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401694971",
+        "event.id": "401764519",
         "event.date": "2025-04-01T02:05Z",
         "event.shortName": "CHC @ ATH",
         "comp.status.displayClock": "0:00",
@@ -5676,7 +5676,7 @@
         "team.abbreviation": "DET"
     },
     {
-        "event.id": "401694984",
+        "event.id": "401764520",
         "event.date": "2025-04-02T02:05Z",
         "event.shortName": "CHC @ ATH",
         "comp.status.displayClock": "0:00",
@@ -5687,7 +5687,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401694984",
+        "event.id": "401764520",
         "event.date": "2025-04-02T02:05Z",
         "event.shortName": "CHC @ ATH",
         "comp.status.displayClock": "0:00",
@@ -5852,7 +5852,7 @@
         "team.abbreviation": "WSH"
     },
     {
-        "event.id": "401694999",
+        "event.id": "401764521",
         "event.date": "2025-04-02T19:35Z",
         "event.shortName": "CHC @ ATH",
         "comp.status.displayClock": "0:00",
@@ -5863,7 +5863,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401694999",
+        "event.id": "401764521",
         "event.date": "2025-04-02T19:35Z",
         "event.shortName": "CHC @ ATH",
         "comp.status.displayClock": "0:00",
@@ -7348,7 +7348,7 @@
         "team.abbreviation": "CIN"
     },
     {
-        "event.id": "401695061",
+        "event.id": "401764522",
         "event.date": "2025-04-08T02:05Z",
         "event.shortName": "SD @ ATH",
         "comp.status.displayClock": "0:00",
@@ -7359,7 +7359,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695061",
+        "event.id": "401764522",
         "event.date": "2025-04-08T02:05Z",
         "event.shortName": "SD @ ATH",
         "comp.status.displayClock": "0:00",
@@ -7678,7 +7678,7 @@
         "team.abbreviation": "CIN"
     },
     {
-        "event.id": "401695076",
+        "event.id": "401764523",
         "event.date": "2025-04-09T02:05Z",
         "event.shortName": "SD @ ATH",
         "comp.status.displayClock": "0:00",
@@ -7689,7 +7689,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695076",
+        "event.id": "401764523",
         "event.date": "2025-04-09T02:05Z",
         "event.shortName": "SD @ ATH",
         "comp.status.displayClock": "0:00",
@@ -7766,7 +7766,7 @@
         "team.abbreviation": "TEX"
     },
     {
-        "event.id": "401695091",
+        "event.id": "401764524",
         "event.date": "2025-04-09T19:35Z",
         "event.shortName": "SD @ ATH",
         "comp.status.displayClock": "0:00",
@@ -7777,7 +7777,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695091",
+        "event.id": "401764524",
         "event.date": "2025-04-09T19:35Z",
         "event.shortName": "SD @ ATH",
         "comp.status.displayClock": "0:00",
@@ -8448,7 +8448,7 @@
         "team.abbreviation": "TEX"
     },
     {
-        "event.id": "401695111",
+        "event.id": "401764525",
         "event.date": "2025-04-12T02:05Z",
         "event.shortName": "NYM @ ATH",
         "comp.status.displayClock": "0:00",
@@ -8459,7 +8459,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695111",
+        "event.id": "401764525",
         "event.date": "2025-04-12T02:05Z",
         "event.shortName": "NYM @ ATH",
         "comp.status.displayClock": "0:00",
@@ -8580,7 +8580,7 @@
         "team.abbreviation": "TOR"
     },
     {
-        "event.id": "401695126",
+        "event.id": "401764526",
         "event.date": "2025-04-12T20:05Z",
         "event.shortName": "NYM @ ATH",
         "comp.status.displayClock": "0:00",
@@ -8591,7 +8591,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695126",
+        "event.id": "401764526",
         "event.date": "2025-04-12T20:05Z",
         "event.shortName": "NYM @ ATH",
         "comp.status.displayClock": "0:00",
@@ -9042,7 +9042,7 @@
         "team.abbreviation": "PHI"
     },
     {
-        "event.id": "401695141",
+        "event.id": "401764527",
         "event.date": "2025-04-13T20:05Z",
         "event.shortName": "NYM @ ATH",
         "comp.status.displayClock": "0:00",
@@ -9053,7 +9053,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695141",
+        "event.id": "401764527",
         "event.date": "2025-04-13T20:05Z",
         "event.shortName": "NYM @ ATH",
         "comp.status.displayClock": "0:00",
@@ -11726,7 +11726,7 @@
         "team.abbreviation": "MIL"
     },
     {
-        "event.id": "401695260",
+        "event.id": "401764528",
         "event.date": "2025-04-23T02:05Z",
         "event.shortName": "TEX @ ATH",
         "comp.status.displayClock": "0:00",
@@ -11737,7 +11737,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695260",
+        "event.id": "401764528",
         "event.date": "2025-04-23T02:05Z",
         "event.shortName": "TEX @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12056,7 +12056,7 @@
         "team.abbreviation": "MIL"
     },
     {
-        "event.id": "401695275",
+        "event.id": "401764529",
         "event.date": "2025-04-24T02:05Z",
         "event.shortName": "TEX @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12067,7 +12067,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695275",
+        "event.id": "401764529",
         "event.date": "2025-04-24T02:05Z",
         "event.shortName": "TEX @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12232,7 +12232,7 @@
         "team.abbreviation": "TB"
     },
     {
-        "event.id": "401695283",
+        "event.id": "401764530",
         "event.date": "2025-04-25T02:05Z",
         "event.shortName": "TEX @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12243,7 +12243,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695283",
+        "event.id": "401764530",
         "event.date": "2025-04-25T02:05Z",
         "event.shortName": "TEX @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12518,7 +12518,7 @@
         "team.abbreviation": "TB"
     },
     {
-        "event.id": "401695294",
+        "event.id": "401764531",
         "event.date": "2025-04-26T02:05Z",
         "event.shortName": "CHW @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12529,7 +12529,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695294",
+        "event.id": "401764531",
         "event.date": "2025-04-26T02:05Z",
         "event.shortName": "CHW @ ATH",
         "comp.status.displayClock": "0:00",
@@ -12738,28 +12738,6 @@
         "team.abbreviation": "PHI"
     },
     {
-        "event.id": "401695309",
-        "event.date": "2025-04-26T20:05Z",
-        "event.shortName": "CHW @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
-    },
-    {
-        "event.id": "401695309",
-        "event.date": "2025-04-26T20:05Z",
-        "event.shortName": "CHW @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
-    },
-    {
         "event.id": "401695313",
         "event.date": "2025-04-26T20:05Z",
         "event.shortName": "TEX @ SF",
@@ -12780,6 +12758,28 @@
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401764532",
+        "event.date": "2025-04-26T20:05Z",
+        "event.shortName": "CHW @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
+    },
+    {
+        "event.id": "401764532",
+        "event.date": "2025-04-26T20:05Z",
+        "event.shortName": "CHW @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
     },
     {
         "event.id": "401695300",
@@ -13090,28 +13090,6 @@
         "team.abbreviation": "CIN"
     },
     {
-        "event.id": "401695324",
-        "event.date": "2025-04-27T20:05Z",
-        "event.shortName": "CHW @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
-    },
-    {
-        "event.id": "401695324",
-        "event.date": "2025-04-27T20:05Z",
-        "event.shortName": "CHW @ ATH",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "4",
-        "team.displayName": "Chicago White Sox",
-        "team.abbreviation": "CHW"
-    },
-    {
         "event.id": "401695328",
         "event.date": "2025-04-27T20:05Z",
         "event.shortName": "TEX @ SF",
@@ -13132,6 +13110,28 @@
         "team.id": "13",
         "team.displayName": "Texas Rangers",
         "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401764533",
+        "event.date": "2025-04-27T20:05Z",
+        "event.shortName": "CHW @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
+    },
+    {
+        "event.id": "401764533",
+        "event.date": "2025-04-27T20:05Z",
+        "event.shortName": "CHW @ ATH",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "4",
+        "team.displayName": "Chicago White Sox",
+        "team.abbreviation": "CHW"
     },
     {
         "event.id": "401695323",
@@ -14080,28 +14080,6 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695376",
-        "event.date": "2025-05-01T04:00Z",
-        "event.shortName": "COL @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "26",
-        "team.displayName": "San Francisco Giants",
-        "team.abbreviation": "SF"
-    },
-    {
-        "event.id": "401695376",
-        "event.date": "2025-05-01T04:00Z",
-        "event.shortName": "COL @ SF",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "27",
-        "team.displayName": "Colorado Rockies",
-        "team.abbreviation": "COL"
-    },
-    {
         "event.id": "401695369",
         "event.date": "2025-05-01T16:35Z",
         "event.shortName": "CHC @ PIT",
@@ -14320,6 +14298,28 @@
         "team.id": "6",
         "team.displayName": "Detroit Tigers",
         "team.abbreviation": "DET"
+    },
+    {
+        "event.id": "401695376",
+        "event.date": "2025-05-02T01:45Z",
+        "event.shortName": "COL @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "26",
+        "team.displayName": "San Francisco Giants",
+        "team.abbreviation": "SF"
+    },
+    {
+        "event.id": "401695376",
+        "event.date": "2025-05-02T01:45Z",
+        "event.shortName": "COL @ SF",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "27",
+        "team.displayName": "Colorado Rockies",
+        "team.abbreviation": "COL"
     },
     {
         "event.id": "401695386",
@@ -14982,28 +14982,6 @@
         "team.abbreviation": "DET"
     },
     {
-        "event.id": "401695415",
-        "event.date": "2025-05-04T04:00Z",
-        "event.shortName": "TB @ NYY",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
-    },
-    {
-        "event.id": "401695415",
-        "event.date": "2025-05-04T04:00Z",
-        "event.shortName": "TB @ NYY",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "30",
-        "team.displayName": "Tampa Bay Rays",
-        "team.abbreviation": "TB"
-    },
-    {
         "event.id": "401695410",
         "event.date": "2025-05-04T17:35Z",
         "event.shortName": "KC @ BAL",
@@ -15068,6 +15046,28 @@
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
+    },
+    {
+        "event.id": "401695415",
+        "event.date": "2025-05-04T17:35Z",
+        "event.shortName": "TB @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401695415",
+        "event.date": "2025-05-04T17:35Z",
+        "event.shortName": "TB @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "30",
+        "team.displayName": "Tampa Bay Rays",
+        "team.abbreviation": "TB"
     },
     {
         "event.id": "401695409",
@@ -15510,7 +15510,7 @@
         "team.abbreviation": "NYM"
     },
     {
-        "event.id": "401695432",
+        "event.id": "401764534",
         "event.date": "2025-05-06T02:05Z",
         "event.shortName": "SEA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -15521,7 +15521,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695432",
+        "event.id": "401764534",
         "event.date": "2025-05-06T02:05Z",
         "event.shortName": "SEA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -15840,7 +15840,7 @@
         "team.abbreviation": "NYM"
     },
     {
-        "event.id": "401695446",
+        "event.id": "401764535",
         "event.date": "2025-05-07T02:05Z",
         "event.shortName": "SEA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -15851,7 +15851,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695446",
+        "event.id": "401764535",
         "event.date": "2025-05-07T02:05Z",
         "event.shortName": "SEA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -15950,7 +15950,7 @@
         "team.abbreviation": "SF"
     },
     {
-        "event.id": "401695461",
+        "event.id": "401764536",
         "event.date": "2025-05-07T19:35Z",
         "event.shortName": "SEA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -15961,7 +15961,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695461",
+        "event.id": "401764536",
         "event.date": "2025-05-07T19:35Z",
         "event.shortName": "SEA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -16676,7 +16676,7 @@
         "team.abbreviation": "TOR"
     },
     {
-        "event.id": "401695484",
+        "event.id": "401764537",
         "event.date": "2025-05-10T02:05Z",
         "event.shortName": "NYY @ ATH",
         "comp.status.displayClock": "0:00",
@@ -16687,7 +16687,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695484",
+        "event.id": "401764537",
         "event.date": "2025-05-10T02:05Z",
         "event.shortName": "NYY @ ATH",
         "comp.status.displayClock": "0:00",
@@ -16742,7 +16742,7 @@
         "team.abbreviation": "STL"
     },
     {
-        "event.id": "401695499",
+        "event.id": "401764538",
         "event.date": "2025-05-10T20:05Z",
         "event.shortName": "NYY @ ATH",
         "comp.status.displayClock": "0:00",
@@ -16753,7 +16753,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695499",
+        "event.id": "401764538",
         "event.date": "2025-05-10T20:05Z",
         "event.shortName": "NYY @ ATH",
         "comp.status.displayClock": "0:00",
@@ -17028,6 +17028,28 @@
         "team.abbreviation": "TOR"
     },
     {
+        "event.id": "401695502",
+        "event.date": "2025-05-11T15:35Z",
+        "event.shortName": "CHC @ NYM",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "21",
+        "team.displayName": "New York Mets",
+        "team.abbreviation": "NYM"
+    },
+    {
+        "event.id": "401695502",
+        "event.date": "2025-05-11T15:35Z",
+        "event.shortName": "CHC @ NYM",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "16",
+        "team.displayName": "Chicago Cubs",
+        "team.abbreviation": "CHC"
+    },
+    {
         "event.id": "401695501",
         "event.date": "2025-05-11T17:35Z",
         "event.shortName": "ATL @ PIT",
@@ -17070,28 +17092,6 @@
         "team.id": "24",
         "team.displayName": "St. Louis Cardinals",
         "team.abbreviation": "STL"
-    },
-    {
-        "event.id": "401695502",
-        "event.date": "2025-05-11T17:40Z",
-        "event.shortName": "CHC @ NYM",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "21",
-        "team.displayName": "New York Mets",
-        "team.abbreviation": "NYM"
-    },
-    {
-        "event.id": "401695502",
-        "event.date": "2025-05-11T17:40Z",
-        "event.shortName": "CHC @ NYM",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "16",
-        "team.displayName": "Chicago Cubs",
-        "team.abbreviation": "CHC"
     },
     {
         "event.id": "401695503",
@@ -17248,7 +17248,7 @@
         "team.abbreviation": "SD"
     },
     {
-        "event.id": "401695514",
+        "event.id": "401764539",
         "event.date": "2025-05-11T20:05Z",
         "event.shortName": "NYY @ ATH",
         "comp.status.displayClock": "0:00",
@@ -17259,7 +17259,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695514",
+        "event.id": "401764539",
         "event.date": "2025-05-11T20:05Z",
         "event.shortName": "NYY @ ATH",
         "comp.status.displayClock": "0:00",
@@ -19052,6 +19052,28 @@
         "team.abbreviation": "LAA"
     },
     {
+        "event.id": "401695601",
+        "event.date": "2025-05-18T17:05Z",
+        "event.shortName": "HOU @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "13",
+        "team.displayName": "Texas Rangers",
+        "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401695601",
+        "event.date": "2025-05-18T17:05Z",
+        "event.shortName": "HOU @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "18",
+        "team.displayName": "Houston Astros",
+        "team.abbreviation": "HOU"
+    },
+    {
         "event.id": "401695593",
         "event.date": "2025-05-18T17:35Z",
         "event.shortName": "ATL @ BOS",
@@ -19248,28 +19270,6 @@
         "team.id": "4",
         "team.displayName": "Chicago White Sox",
         "team.abbreviation": "CHW"
-    },
-    {
-        "event.id": "401695601",
-        "event.date": "2025-05-18T18:35Z",
-        "event.shortName": "HOU @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "13",
-        "team.displayName": "Texas Rangers",
-        "team.abbreviation": "TEX"
-    },
-    {
-        "event.id": "401695601",
-        "event.date": "2025-05-18T18:35Z",
-        "event.shortName": "HOU @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "18",
-        "team.displayName": "Houston Astros",
-        "team.abbreviation": "HOU"
     },
     {
         "event.id": "401695606",
@@ -19602,7 +19602,7 @@
         "team.abbreviation": "KC"
     },
     {
-        "event.id": "401695617",
+        "event.id": "401764540",
         "event.date": "2025-05-20T02:05Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -19613,7 +19613,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695617",
+        "event.id": "401764540",
         "event.date": "2025-05-20T02:05Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -19932,7 +19932,7 @@
         "team.abbreviation": "KC"
     },
     {
-        "event.id": "401695632",
+        "event.id": "401764541",
         "event.date": "2025-05-21T02:05Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -19943,7 +19943,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695632",
+        "event.id": "401764541",
         "event.date": "2025-05-21T02:05Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -20262,7 +20262,7 @@
         "team.abbreviation": "PHI"
     },
     {
-        "event.id": "401695647",
+        "event.id": "401764542",
         "event.date": "2025-05-22T02:05Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -20273,7 +20273,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695647",
+        "event.id": "401764542",
         "event.date": "2025-05-22T02:05Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -20372,7 +20372,7 @@
         "team.abbreviation": "PHI"
     },
     {
-        "event.id": "401695658",
+        "event.id": "401764543",
         "event.date": "2025-05-22T19:35Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -20383,7 +20383,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695658",
+        "event.id": "401764543",
         "event.date": "2025-05-22T19:35Z",
         "event.shortName": "LAA @ ATH",
         "comp.status.displayClock": "0:00",
@@ -20812,7 +20812,7 @@
         "team.abbreviation": "MIA"
     },
     {
-        "event.id": "401695673",
+        "event.id": "401764544",
         "event.date": "2025-05-24T02:05Z",
         "event.shortName": "PHI @ ATH",
         "comp.status.displayClock": "0:00",
@@ -20823,7 +20823,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695673",
+        "event.id": "401764544",
         "event.date": "2025-05-24T02:05Z",
         "event.shortName": "PHI @ ATH",
         "comp.status.displayClock": "0:00",
@@ -21120,7 +21120,7 @@
         "team.abbreviation": "LAD"
     },
     {
-        "event.id": "401695688",
+        "event.id": "401764545",
         "event.date": "2025-05-25T02:05Z",
         "event.shortName": "PHI @ ATH",
         "comp.status.displayClock": "0:00",
@@ -21131,7 +21131,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695688",
+        "event.id": "401764545",
         "event.date": "2025-05-25T02:05Z",
         "event.shortName": "PHI @ ATH",
         "comp.status.displayClock": "0:00",
@@ -21162,6 +21162,28 @@
         "team.id": "28",
         "team.displayName": "Miami Marlins",
         "team.abbreviation": "MIA"
+    },
+    {
+        "event.id": "401695691",
+        "event.date": "2025-05-25T15:35Z",
+        "event.shortName": "CLE @ DET",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "6",
+        "team.displayName": "Detroit Tigers",
+        "team.abbreviation": "DET"
+    },
+    {
+        "event.id": "401695691",
+        "event.date": "2025-05-25T15:35Z",
+        "event.shortName": "CLE @ DET",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "5",
+        "team.displayName": "Cleveland Guardians",
+        "team.abbreviation": "CLE"
     },
     {
         "event.id": "401695689",
@@ -21250,28 +21272,6 @@
         "team.id": "16",
         "team.displayName": "Chicago Cubs",
         "team.abbreviation": "CHC"
-    },
-    {
-        "event.id": "401695691",
-        "event.date": "2025-05-25T17:40Z",
-        "event.shortName": "CLE @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "6",
-        "team.displayName": "Detroit Tigers",
-        "team.abbreviation": "DET"
-    },
-    {
-        "event.id": "401695691",
-        "event.date": "2025-05-25T17:40Z",
-        "event.shortName": "CLE @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "5",
-        "team.displayName": "Cleveland Guardians",
-        "team.abbreviation": "CLE"
     },
     {
         "event.id": "401695696",
@@ -21406,7 +21406,7 @@
         "team.abbreviation": "NYY"
     },
     {
-        "event.id": "401695703",
+        "event.id": "401764546",
         "event.date": "2025-05-25T20:05Z",
         "event.shortName": "PHI @ ATH",
         "comp.status.displayClock": "0:00",
@@ -21417,7 +21417,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695703",
+        "event.id": "401764546",
         "event.date": "2025-05-25T20:05Z",
         "event.shortName": "PHI @ ATH",
         "comp.status.displayClock": "0:00",
@@ -23166,6 +23166,28 @@
         "team.abbreviation": "WSH"
     },
     {
+        "event.id": "401695789",
+        "event.date": "2025-06-01T17:05Z",
+        "event.shortName": "STL @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "13",
+        "team.displayName": "Texas Rangers",
+        "team.abbreviation": "TEX"
+    },
+    {
+        "event.id": "401695789",
+        "event.date": "2025-06-01T17:05Z",
+        "event.shortName": "STL @ TEX",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "24",
+        "team.displayName": "St. Louis Cardinals",
+        "team.abbreviation": "STL"
+    },
+    {
         "event.id": "401695781",
         "event.date": "2025-06-01T17:35Z",
         "event.shortName": "BOS @ ATL",
@@ -23386,28 +23408,6 @@
         "team.abbreviation": "CIN"
     },
     {
-        "event.id": "401695789",
-        "event.date": "2025-06-01T18:35Z",
-        "event.shortName": "STL @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "13",
-        "team.displayName": "Texas Rangers",
-        "team.abbreviation": "TEX"
-    },
-    {
-        "event.id": "401695789",
-        "event.date": "2025-06-01T18:35Z",
-        "event.shortName": "STL @ TEX",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "24",
-        "team.displayName": "St. Louis Cardinals",
-        "team.abbreviation": "STL"
-    },
-    {
         "event.id": "401695791",
         "event.date": "2025-06-01T20:10Z",
         "event.shortName": "MIN @ SEA",
@@ -23606,7 +23606,7 @@
         "team.abbreviation": "SD"
     },
     {
-        "event.id": "401695799",
+        "event.id": "401764547",
         "event.date": "2025-06-03T02:05Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -23617,7 +23617,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695799",
+        "event.id": "401764547",
         "event.date": "2025-06-03T02:05Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -23936,7 +23936,7 @@
         "team.abbreviation": "SD"
     },
     {
-        "event.id": "401695814",
+        "event.id": "401764548",
         "event.date": "2025-06-04T02:05Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -23947,7 +23947,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695814",
+        "event.id": "401764548",
         "event.date": "2025-06-04T02:05Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -24266,7 +24266,7 @@
         "team.abbreviation": "SD"
     },
     {
-        "event.id": "401695829",
+        "event.id": "401764549",
         "event.date": "2025-06-05T02:05Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -24277,7 +24277,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695829",
+        "event.id": "401764549",
         "event.date": "2025-06-05T02:05Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -24376,7 +24376,7 @@
         "team.abbreviation": "PHI"
     },
     {
-        "event.id": "401695841",
+        "event.id": "401764550",
         "event.date": "2025-06-05T19:35Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -24387,7 +24387,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695841",
+        "event.id": "401764550",
         "event.date": "2025-06-05T19:35Z",
         "event.shortName": "MIN @ ATH",
         "comp.status.displayClock": "0:00",
@@ -24860,7 +24860,7 @@
         "team.abbreviation": "SEA"
     },
     {
-        "event.id": "401695857",
+        "event.id": "401764551",
         "event.date": "2025-06-07T02:05Z",
         "event.shortName": "BAL @ ATH",
         "comp.status.displayClock": "0:00",
@@ -24871,7 +24871,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695857",
+        "event.id": "401764551",
         "event.date": "2025-06-07T02:05Z",
         "event.shortName": "BAL @ ATH",
         "comp.status.displayClock": "0:00",
@@ -25212,7 +25212,7 @@
         "team.abbreviation": "NYM"
     },
     {
-        "event.id": "401695872",
+        "event.id": "401764552",
         "event.date": "2025-06-08T02:05Z",
         "event.shortName": "BAL @ ATH",
         "comp.status.displayClock": "0:00",
@@ -25223,7 +25223,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695872",
+        "event.id": "401764552",
         "event.date": "2025-06-08T02:05Z",
         "event.shortName": "BAL @ ATH",
         "comp.status.displayClock": "0:00",
@@ -25254,6 +25254,28 @@
         "team.id": "28",
         "team.displayName": "Miami Marlins",
         "team.abbreviation": "MIA"
+    },
+    {
+        "event.id": "401695883",
+        "event.date": "2025-06-08T17:05Z",
+        "event.shortName": "SD @ MIL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "8",
+        "team.displayName": "Milwaukee Brewers",
+        "team.abbreviation": "MIL"
+    },
+    {
+        "event.id": "401695883",
+        "event.date": "2025-06-08T17:05Z",
+        "event.shortName": "SD @ MIL",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "25",
+        "team.displayName": "San Diego Padres",
+        "team.abbreviation": "SD"
     },
     {
         "event.id": "401695875",
@@ -25410,28 +25432,6 @@
         "team.abbreviation": "KC"
     },
     {
-        "event.id": "401695883",
-        "event.date": "2025-06-08T18:10Z",
-        "event.shortName": "SD @ MIL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "8",
-        "team.displayName": "Milwaukee Brewers",
-        "team.abbreviation": "MIL"
-    },
-    {
-        "event.id": "401695883",
-        "event.date": "2025-06-08T18:10Z",
-        "event.shortName": "SD @ MIL",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "25",
-        "team.displayName": "San Diego Padres",
-        "team.abbreviation": "SD"
-    },
-    {
         "event.id": "401695884",
         "event.date": "2025-06-08T18:10Z",
         "event.shortName": "TOR @ MIN",
@@ -25520,7 +25520,7 @@
         "team.abbreviation": "ATL"
     },
     {
-        "event.id": "401695887",
+        "event.id": "401764553",
         "event.date": "2025-06-08T20:05Z",
         "event.shortName": "BAL @ ATH",
         "comp.status.displayClock": "0:00",
@@ -25531,7 +25531,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695887",
+        "event.id": "401764553",
         "event.date": "2025-06-08T20:05Z",
         "event.shortName": "BAL @ ATH",
         "comp.status.displayClock": "0:00",
@@ -27258,26 +27258,26 @@
         "team.abbreviation": "SF"
     },
     {
-        "event.id": "401695970",
-        "event.date": "2025-06-15T04:00Z",
-        "event.shortName": "NYY @ BOS",
+        "event.id": "401695967",
+        "event.date": "2025-06-15T16:05Z",
+        "event.shortName": "CIN @ DET",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
         "comp.competitors.score": "0",
-        "team.id": "2",
-        "team.displayName": "Boston Red Sox",
-        "team.abbreviation": "BOS"
+        "team.id": "6",
+        "team.displayName": "Detroit Tigers",
+        "team.abbreviation": "DET"
     },
     {
-        "event.id": "401695970",
-        "event.date": "2025-06-15T04:00Z",
-        "event.shortName": "NYY @ BOS",
+        "event.id": "401695967",
+        "event.date": "2025-06-15T16:05Z",
+        "event.shortName": "CIN @ DET",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
         "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
+        "team.id": "17",
+        "team.displayName": "Cincinnati Reds",
+        "team.abbreviation": "CIN"
     },
     {
         "event.id": "401695966",
@@ -27346,6 +27346,28 @@
         "team.abbreviation": "MIA"
     },
     {
+        "event.id": "401695970",
+        "event.date": "2025-06-15T17:35Z",
+        "event.shortName": "NYY @ BOS",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "2",
+        "team.displayName": "Boston Red Sox",
+        "team.abbreviation": "BOS"
+    },
+    {
+        "event.id": "401695970",
+        "event.date": "2025-06-15T17:35Z",
+        "event.shortName": "NYY @ BOS",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
         "event.id": "401695972",
         "event.date": "2025-06-15T17:35Z",
         "event.shortName": "TOR @ PHI",
@@ -27366,28 +27388,6 @@
         "team.id": "14",
         "team.displayName": "Toronto Blue Jays",
         "team.abbreviation": "TOR"
-    },
-    {
-        "event.id": "401695967",
-        "event.date": "2025-06-15T17:40Z",
-        "event.shortName": "CIN @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "6",
-        "team.displayName": "Detroit Tigers",
-        "team.abbreviation": "DET"
-    },
-    {
-        "event.id": "401695967",
-        "event.date": "2025-06-15T17:40Z",
-        "event.shortName": "CIN @ DET",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "17",
-        "team.displayName": "Cincinnati Reds",
-        "team.abbreviation": "CIN"
     },
     {
         "event.id": "401695971",
@@ -27698,7 +27698,7 @@
         "team.abbreviation": "BOS"
     },
     {
-        "event.id": "401695986",
+        "event.id": "401764554",
         "event.date": "2025-06-17T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -27709,7 +27709,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401695986",
+        "event.id": "401764554",
         "event.date": "2025-06-17T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28028,7 +28028,7 @@
         "team.abbreviation": "CLE"
     },
     {
-        "event.id": "401696001",
+        "event.id": "401764555",
         "event.date": "2025-06-18T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28039,7 +28039,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401696001",
+        "event.id": "401764555",
         "event.date": "2025-06-18T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28358,7 +28358,7 @@
         "team.abbreviation": "CLE"
     },
     {
-        "event.id": "401696016",
+        "event.id": "401764556",
         "event.date": "2025-06-19T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28369,7 +28369,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401696016",
+        "event.id": "401764556",
         "event.date": "2025-06-19T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28666,7 +28666,7 @@
         "team.abbreviation": "BAL"
     },
     {
-        "event.id": "401696030",
+        "event.id": "401764557",
         "event.date": "2025-06-20T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28677,7 +28677,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401696030",
+        "event.id": "401764557",
         "event.date": "2025-06-20T02:05Z",
         "event.shortName": "HOU @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28974,7 +28974,7 @@
         "team.abbreviation": "KC"
     },
     {
-        "event.id": "401696043",
+        "event.id": "401764558",
         "event.date": "2025-06-21T02:05Z",
         "event.shortName": "CLE @ ATH",
         "comp.status.displayClock": "0:00",
@@ -28985,7 +28985,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401696043",
+        "event.id": "401764558",
         "event.date": "2025-06-21T02:05Z",
         "event.shortName": "CLE @ ATH",
         "comp.status.displayClock": "0:00",
@@ -29326,7 +29326,7 @@
         "team.abbreviation": "HOU"
     },
     {
-        "event.id": "401696058",
+        "event.id": "401764559",
         "event.date": "2025-06-22T02:05Z",
         "event.shortName": "CLE @ ATH",
         "comp.status.displayClock": "0:00",
@@ -29337,7 +29337,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401696058",
+        "event.id": "401764559",
         "event.date": "2025-06-22T02:05Z",
         "event.shortName": "CLE @ ATH",
         "comp.status.displayClock": "0:00",
@@ -29371,7 +29371,7 @@
     },
     {
         "event.id": "401696063",
-        "event.date": "2025-06-22T04:00Z",
+        "event.date": "2025-06-22T15:35Z",
         "event.shortName": "BAL @ NYY",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -29382,7 +29382,7 @@
     },
     {
         "event.id": "401696063",
-        "event.date": "2025-06-22T04:00Z",
+        "event.date": "2025-06-22T15:35Z",
         "event.shortName": "BAL @ NYY",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
@@ -29590,7 +29590,7 @@
         "team.abbreviation": "BOS"
     },
     {
-        "event.id": "401696073",
+        "event.id": "401764560",
         "event.date": "2025-06-22T20:05Z",
         "event.shortName": "CLE @ ATH",
         "comp.status.displayClock": "0:00",
@@ -29601,7 +29601,7 @@
         "team.abbreviation": "ATH"
     },
     {
-        "event.id": "401696073",
+        "event.id": "401764560",
         "event.date": "2025-06-22T20:05Z",
         "event.shortName": "CLE @ ATH",
         "comp.status.displayClock": "0:00",
@@ -31416,26 +31416,26 @@
         "team.abbreviation": "WSH"
     },
     {
-        "event.id": "401696157",
-        "event.date": "2025-06-29T04:00Z",
-        "event.shortName": "ATH @ NYY",
+        "event.id": "401696160",
+        "event.date": "2025-06-29T16:05Z",
+        "event.shortName": "STL @ CLE",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
         "comp.competitors.score": "0",
-        "team.id": "10",
-        "team.displayName": "New York Yankees",
-        "team.abbreviation": "NYY"
+        "team.id": "5",
+        "team.displayName": "Cleveland Guardians",
+        "team.abbreviation": "CLE"
     },
     {
-        "event.id": "401696157",
-        "event.date": "2025-06-29T04:00Z",
-        "event.shortName": "ATH @ NYY",
+        "event.id": "401696160",
+        "event.date": "2025-06-29T16:05Z",
+        "event.shortName": "STL @ CLE",
         "comp.status.displayClock": "0:00",
         "comp.status.period": 1,
         "comp.competitors.score": "0",
-        "team.id": "11",
-        "team.displayName": "Athletics",
-        "team.abbreviation": "ATH"
+        "team.id": "24",
+        "team.displayName": "St. Louis Cardinals",
+        "team.abbreviation": "STL"
     },
     {
         "event.id": "401696156",
@@ -31458,6 +31458,28 @@
         "team.id": "21",
         "team.displayName": "New York Mets",
         "team.abbreviation": "NYM"
+    },
+    {
+        "event.id": "401696157",
+        "event.date": "2025-06-29T17:35Z",
+        "event.shortName": "ATH @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "10",
+        "team.displayName": "New York Yankees",
+        "team.abbreviation": "NYY"
+    },
+    {
+        "event.id": "401696157",
+        "event.date": "2025-06-29T17:35Z",
+        "event.shortName": "ATH @ NYY",
+        "comp.status.displayClock": "0:00",
+        "comp.status.period": 1,
+        "comp.competitors.score": "0",
+        "team.id": "11",
+        "team.displayName": "Athletics",
+        "team.abbreviation": "ATH"
     },
     {
         "event.id": "401696158",
@@ -31568,28 +31590,6 @@
         "team.id": "25",
         "team.displayName": "San Diego Padres",
         "team.abbreviation": "SD"
-    },
-    {
-        "event.id": "401696160",
-        "event.date": "2025-06-29T17:40Z",
-        "event.shortName": "STL @ CLE",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "5",
-        "team.displayName": "Cleveland Guardians",
-        "team.abbreviation": "CLE"
-    },
-    {
-        "event.id": "401696160",
-        "event.date": "2025-06-29T17:40Z",
-        "event.shortName": "STL @ CLE",
-        "comp.status.displayClock": "0:00",
-        "comp.status.period": 1,
-        "comp.competitors.score": "0",
-        "team.id": "24",
-        "team.displayName": "St. Louis Cardinals",
-        "team.abbreviation": "STL"
     },
     {
         "event.id": "401696163",

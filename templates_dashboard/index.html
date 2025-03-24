@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html>
+    <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Robby Locks</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --primary-color: #3a6ea5;
+            --secondary-color: #004e92;
+            --accent-color: #ff6b6b;
+            --light-gray: #f5f5f5;
+            --mid-gray: #e0e0e0;
+            --dark-gray: #555;
+            --text-color: #333;
+            --radius: 8px;
+            --selected-color: #007BFF;
+            --page-padding: 15px;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text-color);
+            background-color: #fff;
+            line-height: 1.5;
+            padding: 0;
+            max-width: 100%;
+            margin: 0 auto;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: white;
+            margin: 1rem 0;
+            padding: 0.5rem;
+        }
+        
+        h3 {
+            font-size: 1rem;
+            font-weight: 500;
+            margin: 0.8rem 0;
+            color: var(--dark-gray);
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        
+        .container {
+            padding: 10px var(--page-padding);
+        }
+        
+        .success-message {
+            background-color: #d4edda;
+            color: #155724;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: var(--radius);
+            font-size: 0.9rem;
+            text-align: center;
+        }
+        
+        .debug-info {
+            background-color: #f8d7da;
+            color: #721c24;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: var(--radius);
+            font-size: 0.9rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1rem;
+        }
+        
+        label {
+            display: block;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+            color: var(--dark-gray);
+        }
+        
+        input[type="date"], select {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid var(--mid-gray);
+            border-radius: var(--radius);
+            font-size: 1rem;
+            background-color: white;
+            -webkit-appearance: none;
+            appearance: none;
+        }
+        
+        select {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23333' d='M3.8 4.4c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4l3 3c.4.4 1 .4 1.4 0l3-3c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L6 6.8 3.8 4.4z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 12px center;
+            padding-right: 30px;
+        }
+        
+        .btn {
+            display: block;
+            width: 100%;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 12px 15px;
+            font-size: 1rem;
+            font-weight: 500;
+            text-align: center;
+            border-radius: var(--radius);
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: background-color 0.2s, transform 0.1s;
+            margin: 1rem 0;
+        }
+        
+        .btn:active {
+            transform: translateY(1px);
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+        }
+        
+        .game-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            background-color: var(--light-gray);
+            border-radius: var(--radius);
+            margin: 10px 0;
+            padding: 12px 10px;
+        }
+        
+        .game-container.expired {
+            opacity: 0.8;
+            background-color: #eaeaea;
+        }
+        
+        .team-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 40%;
+        }
+        
+        .team-name {
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-align: center;
+            margin-top: 6px;
+            line-height: 1.2;
+        }
+        
+        .team-abbreviation {
+            font-size: 0.7rem;
+            color: var(--dark-gray);
+        }
+        
+        .game-time {
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: var(--dark-gray);
+            text-align: center;
+            width: 20%;
+            position: relative;
+        }
+        
+        .time-label {
+            font-size: 0.65rem;
+            color: var(--dark-gray);
+            opacity: 0.7;
+        }
+        
+        .expired-label {
+            font-size: 0.65rem;
+            color: #d32f2f;
+            font-weight: bold;
+            margin-top: 4px;
+        }
+        
+        .team-button {
+            width: 100%;
+            padding: 8px 0;
+            margin: 5px 0;
+            background-color: white;
+            color: var(--primary-color);
+            border: 1px solid var(--primary-color);
+            border-radius: var(--radius);
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }
+        
+        .team-button.selected {
+            background-color: #007BFF;
+            color: white;
+        }
+        
+        .team-button:disabled {
+            background-color: var(--mid-gray);
+            border-color: var(--mid-gray);
+            color: var(--dark-gray);
+            cursor: not-allowed;
+        }
+        
+        .team-button:disabled.selected {
+            background-color: #007BFF;
+            border-color: #007BFF;
+            color: white;
+        }
+        
+        hr {
+            border: none;
+            border-top: 1px solid var(--mid-gray);
+            margin: 1rem 0;
+        }
+        
+        .hidden-radio {
+            position: absolute;
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+        .divider {
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: var(--dark-gray);
+        }
+        
+        .lock-btn {
+            background-color: var(--secondary-color);
+            position: fixed;
+            bottom: 20px;
+            left: var(--page-padding);
+            right: var(--page-padding);
+            width: calc(100% - (var(--page-padding) * 2));
+            z-index: 100;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        
+        .spacer {
+            height: 70px;
+        }
+        
+        .no-games {
+            text-align: center;
+            margin: 20px 0;
+            padding: 20px;
+            background-color: var(--light-gray);
+            border-radius: var(--radius);
+            color: var(--dark-gray);
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Robby Locks & Rocks</h1>
+</div>
+
+<div class="container">
+    {% if saved %}
+        <div class="success-message">Selections saved successfully!</div>
+    {% endif %}
+
+    <form method="POST" action="{{ url_for('index') }}">
+        <div class="form-group">
+            <label for="game_date">Game Date:</label>
+            <input type="date" id="game_date" name="game_date" value="{{ today_str }}" required>
+        </div>
+
+        <div class="form-group">
+            <label for="sport_selector">Select Sport:</label>
+            <select name="sport_selector" id="sport_selector" required>
+                <option value="MLB" {% if sport == "MLB" %}selected{% endif %}>MLB</option>
+                <option value="NBA" {% if sport == "NBA" %}selected{% endif %}>NBA</option>
+                <option value="NHL" {% if sport == "NHL" %}selected{% endif %}>NHL</option>
+                <option value="MarchMadness" {% if sport == "MarchMadness" %}selected{% endif %}>March Madness</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn">Load Games</button>
+
+        <!-- Display data about the games data -->
+        <div class="debug-info">
+            <p>Sport: {{ sport }}</p>
+            <p>Date: {{ today_str }}</p>
+            <p>Number of games: {{ games|length }}</p>
+        </div>
+
+        {% if games %}
+        <hr>
+        <h3>Select your winners:</h3>
+
+        <div class="games-list">
+            {% for game in games %}
+                {% set is_expired = game.disable_game %}
+                <div class="game-container {% if is_expired %}expired{% endif %}">
+                    <div class="team-container">
+                        <button type="button" id="btn_{{ game.event_id }}_1" 
+                                class="team-button {% if game.event_id in selected_games and selected_games[game.event_id]['Value.winner'] == game.team_1_name %}selected{% endif %}" 
+                                onclick="selectWinner('{{ game.event_id }}', '{{ game.team_1_name }}', 1)" 
+                                {% if is_expired or game.event_id in selected_games %}disabled{% endif %}>
+                            {% if game.event_id in selected_games and selected_games[game.event_id]['Value.winner'] == game.team_1_name %}Selected{% else %}Select{% endif %}
+                        </button>
+                        <input type="radio" class="hidden-radio" id="radio_{{ game.event_id }}_1" 
+                               name="winner_{{ game.event_id }}" value="{{ game.team_1_name }}"
+                               {% if game.event_id in selected_games and selected_games[game.event_id]['Value.winner'] == game.team_1_name %}checked{% endif %}
+                               {% if is_expired or game.event_id in selected_games %}disabled{% endif %}>
+                        <div class="team-name">
+                            {{ game.team_1_name }}
+                            <span class="team-abbreviation">({{ game.team_1_abbreviation }})</span>
+                        </div>
+                    </div>
+
+                    <div class="game-time">
+                        <div class="time-label">Game Time</div>
+                        {{ game.event_date }}
+                        {% if is_expired %}
+                            <div class="expired-label">Locked</div>
+                        {% endif %}
+                    </div>
+
+                    <div class="team-container">
+                        <button type="button" id="btn_{{ game.event_id }}_2" 
+                                class="team-button {% if game.event_id in selected_games and selected_games[game.event_id]['Value.winner'] == game.team_2_name %}selected{% endif %}" 
+                                onclick="selectWinner('{{ game.event_id }}', '{{ game.team_2_name }}', 2)" 
+                                {% if is_expired or game.event_id in selected_games %}disabled{% endif %}>
+                            {% if game.event_id in selected_games and selected_games[game.event_id]['Value.winner'] == game.team_2_name %}Selected{% else %}Select{% endif %}
+                        </button>
+                        <input type="radio" class="hidden-radio" id="radio_{{ game.event_id }}_2" 
+                               name="winner_{{ game.event_id }}" value="{{ game.team_2_name }}"
+                               {% if game.event_id in selected_games and selected_games[game.event_id]['Value.winner'] == game.team_2_name %}checked{% endif %}
+                               {% if is_expired or game.event_id in selected_games %}disabled{% endif %}>
+                        <div class="team-name">
+                            {{ game.team_2_name }}
+                            <span class="team-abbreviation">({{ game.team_2_abbreviation }})</span>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="spacer"></div>
+        <!-- Name attribute is crucial for the server to process picks -->
+        <button type="submit" name="lock_picks" class="btn lock-btn">Lock In My Picks</button>
+        {% else %}
+        <div class="no-games">
+            <p>No games found for {{ sport }} on {{ today_str }}.</p>
+            <p>Try selecting a different date or sport.</p>
+        </div>
+        {% endif %}
+    </form>
+</div>
+
+<script>
+    // Function to check if a game's start time + 20 minutes has passed
+    function checkGameExpiration() {
+        const now = new Date();
+        
+        document.querySelectorAll('.game-container').forEach(container => {
+            const gameTimeEl = container.querySelector('.game-time');
+            const gameTimeText = gameTimeEl.textContent.trim();
+            
+            // Skip if already locked
+            if (gameTimeEl.querySelector('.expired-label')) return;
+            
+            const gameDateMatch = gameTimeText.match(/Game Time\s+(.+)/);
+            if (gameDateMatch) {
+                const gameTime = new Date(gameDateMatch[1]);
+                const cutoffTime = new Date(gameTime.getTime() + (20 * 60 * 1000));
+                if (now > cutoffTime) {
+                    container.classList.add('expired');
+                    const expiredLabel = document.createElement('div');
+                    expiredLabel.className = 'expired-label';
+                    expiredLabel.textContent = 'Locked';
+                    gameTimeEl.appendChild(expiredLabel);
+                    
+                    // Disable buttons and radios
+                    container.querySelectorAll('.team-button').forEach(btn => btn.disabled = true);
+                    container.querySelectorAll('input[type="radio"]').forEach(radio => radio.disabled = true);
+                }
+            }
+        });
+    }
+    
+    function selectWinner(eventId, teamName, btnNum) {
+        let radio1 = document.getElementById(`radio_${eventId}_1`);
+        let radio2 = document.getElementById(`radio_${eventId}_2`);
+        let btn1 = document.getElementById(`btn_${eventId}_1`);
+        let btn2 = document.getElementById(`btn_${eventId}_2`);
+
+        if (btnNum === 1) {
+            radio1.checked = true;
+            btn1.classList.add("selected");
+            btn2.classList.remove("selected");
+        } else {
+            radio2.checked = true;
+            btn2.classList.add("selected");
+            btn1.classList.remove("selected");
+        }
+    }
+    
+    window.onload = checkGameExpiration;
+    setInterval(checkGameExpiration, 60000); // check every minute
+</script>
+
+</body>
+</html>

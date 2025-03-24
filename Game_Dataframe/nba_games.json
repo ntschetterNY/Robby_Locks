@@ -1,6 +1,6 @@
 [
     {
-        "game.id": "401705520",
+        "event.id": "401705520",
         "event.date": "2025-03-13T23:00Z",
         "event.name": "WSH @ DET",
         "team.id": "8",
@@ -11,7 +11,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705520",
+        "event.id": "401705520",
         "event.date": "2025-03-13T23:00Z",
         "event.name": "WSH @ DET",
         "team.id": "27",
@@ -22,7 +22,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705521",
+        "event.id": "401705521",
         "event.date": "2025-03-13T23:30Z",
         "event.name": "LAL @ MIL",
         "team.id": "15",
@@ -33,7 +33,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705521",
+        "event.id": "401705521",
         "event.date": "2025-03-13T23:30Z",
         "event.name": "LAL @ MIL",
         "team.id": "13",
@@ -44,7 +44,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705522",
+        "event.id": "401705522",
         "event.date": "2025-03-14T00:00Z",
         "event.name": "BKN @ CHI",
         "team.id": "4",
@@ -55,7 +55,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705522",
+        "event.id": "401705522",
         "event.date": "2025-03-14T00:00Z",
         "event.name": "BKN @ CHI",
         "team.id": "17",
@@ -66,7 +66,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705707",
+        "event.id": "401705707",
         "event.date": "2025-03-14T00:00Z",
         "event.name": "ORL @ NO",
         "team.id": "3",
@@ -77,7 +77,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705707",
+        "event.id": "401705707",
         "event.date": "2025-03-14T00:00Z",
         "event.name": "ORL @ NO",
         "team.id": "19",
@@ -88,7 +88,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705523",
+        "event.id": "401705523",
         "event.date": "2025-03-14T02:00Z",
         "event.name": "SAC @ GS",
         "team.id": "9",
@@ -99,7 +99,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705523",
+        "event.id": "401705523",
         "event.date": "2025-03-14T02:00Z",
         "event.name": "SAC @ GS",
         "team.id": "23",
@@ -110,7 +110,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705524",
+        "event.id": "401705524",
         "event.date": "2025-03-14T23:00Z",
         "event.name": "BOS @ MIA",
         "team.id": "14",
@@ -121,7 +121,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705524",
+        "event.id": "401705524",
         "event.date": "2025-03-14T23:00Z",
         "event.name": "BOS @ MIA",
         "team.id": "2",
@@ -132,7 +132,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705525",
+        "event.id": "401705525",
         "event.date": "2025-03-14T23:00Z",
         "event.name": "IND @ PHI",
         "team.id": "20",
@@ -143,7 +143,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705525",
+        "event.id": "401705525",
         "event.date": "2025-03-14T23:00Z",
         "event.name": "IND @ PHI",
         "team.id": "11",
@@ -154,7 +154,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705526",
+        "event.id": "401705526",
         "event.date": "2025-03-14T23:30Z",
         "event.name": "LAC @ ATL",
         "team.id": "1",
@@ -165,7 +165,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705526",
+        "event.id": "401705526",
         "event.date": "2025-03-14T23:30Z",
         "event.name": "LAC @ ATL",
         "team.id": "12",
@@ -176,7 +176,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705527",
+        "event.id": "401705527",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "DAL @ HOU",
         "team.id": "10",
@@ -187,7 +187,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705527",
+        "event.id": "401705527",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "DAL @ HOU",
         "team.id": "6",
@@ -198,7 +198,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705528",
+        "event.id": "401705528",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "CLE @ MEM",
         "team.id": "29",
@@ -209,7 +209,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705528",
+        "event.id": "401705528",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "CLE @ MEM",
         "team.id": "5",
@@ -220,7 +220,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705529",
+        "event.id": "401705529",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "ORL @ MIN",
         "team.id": "16",
@@ -231,7 +231,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705529",
+        "event.id": "401705529",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "ORL @ MIN",
         "team.id": "19",
@@ -242,7 +242,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705530",
+        "event.id": "401705530",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "CHA @ SA",
         "team.id": "24",
@@ -253,7 +253,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705530",
+        "event.id": "401705530",
         "event.date": "2025-03-15T00:00Z",
         "event.name": "CHA @ SA",
         "team.id": "30",
@@ -264,7 +264,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705531",
+        "event.id": "401705531",
         "event.date": "2025-03-15T01:30Z",
         "event.name": "LAL @ DEN",
         "team.id": "7",
@@ -275,7 +275,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705531",
+        "event.id": "401705531",
         "event.date": "2025-03-15T01:30Z",
         "event.name": "LAL @ DEN",
         "team.id": "13",
@@ -286,7 +286,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705532",
+        "event.id": "401705532",
         "event.date": "2025-03-15T01:30Z",
         "event.name": "TOR @ UTAH",
         "team.id": "26",
@@ -297,7 +297,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705532",
+        "event.id": "401705532",
         "event.date": "2025-03-15T01:30Z",
         "event.name": "TOR @ UTAH",
         "team.id": "28",
@@ -308,7 +308,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705533",
+        "event.id": "401705533",
         "event.date": "2025-03-15T02:00Z",
         "event.name": "SAC @ PHX",
         "team.id": "21",
@@ -319,7 +319,7 @@
         "status.period": 4
     },
     {
-        "game.id": "401705533",
+        "event.id": "401705533",
         "event.date": "2025-03-15T02:00Z",
         "event.name": "SAC @ PHX",
         "team.id": "23",
@@ -330,1525 +330,1525 @@
         "status.period": 4
     },
     {
-        "game.id": "401705534",
+        "event.id": "401705534",
         "event.date": "2025-03-15T22:00Z",
         "event.name": "BOS @ BKN",
         "team.id": "17",
         "team.name": "Brooklyn Nets",
         "team.abbreviation": "BKN",
-        "competitors.score": "0",
+        "competitors.score": "113",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705534",
+        "event.id": "401705534",
         "event.date": "2025-03-15T22:00Z",
         "event.name": "BOS @ BKN",
         "team.id": "2",
         "team.name": "Boston Celtics",
         "team.abbreviation": "BOS",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705535",
+        "event.id": "401705535",
         "event.date": "2025-03-15T23:00Z",
         "event.name": "OKC @ DET",
         "team.id": "8",
         "team.name": "Detroit Pistons",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "107",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705535",
+        "event.id": "401705535",
         "event.date": "2025-03-15T23:00Z",
         "event.name": "OKC @ DET",
         "team.id": "25",
         "team.name": "Oklahoma City Thunder",
         "team.abbreviation": "OKC",
-        "competitors.score": "0",
+        "competitors.score": "113",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705536",
+        "event.id": "401705536",
         "event.date": "2025-03-16T00:00Z",
         "event.name": "CHI @ HOU",
         "team.id": "10",
         "team.name": "Houston Rockets",
         "team.abbreviation": "HOU",
-        "competitors.score": "0",
+        "competitors.score": "117",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705536",
+        "event.id": "401705536",
         "event.date": "2025-03-16T00:00Z",
         "event.name": "CHI @ HOU",
         "team.id": "4",
         "team.name": "Chicago Bulls",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
+        "competitors.score": "114",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705537",
+        "event.id": "401705537",
         "event.date": "2025-03-16T00:00Z",
         "event.name": "MIA @ MEM",
         "team.id": "29",
         "team.name": "Memphis Grizzlies",
         "team.abbreviation": "MEM",
-        "competitors.score": "0",
+        "competitors.score": "125",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705537",
+        "event.id": "401705537",
         "event.date": "2025-03-16T00:00Z",
         "event.name": "MIA @ MEM",
         "team.id": "14",
         "team.name": "Miami Heat",
         "team.abbreviation": "MIA",
-        "competitors.score": "0",
+        "competitors.score": "91",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705538",
+        "event.id": "401705538",
         "event.date": "2025-03-16T00:00Z",
         "event.name": "IND @ MIL",
         "team.id": "15",
         "team.name": "Milwaukee Bucks",
         "team.abbreviation": "MIL",
-        "competitors.score": "0",
+        "competitors.score": "126",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705538",
+        "event.id": "401705538",
         "event.date": "2025-03-16T00:00Z",
         "event.name": "IND @ MIL",
         "team.id": "11",
         "team.name": "Indiana Pacers",
         "team.abbreviation": "IND",
-        "competitors.score": "0",
+        "competitors.score": "119",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705539",
+        "event.id": "401705539",
         "event.date": "2025-03-16T00:30Z",
         "event.name": "NO @ SA",
         "team.id": "24",
         "team.name": "San Antonio Spurs",
         "team.abbreviation": "SA",
-        "competitors.score": "0",
+        "competitors.score": "119",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705539",
+        "event.id": "401705539",
         "event.date": "2025-03-16T00:30Z",
         "event.name": "NO @ SA",
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
         "team.abbreviation": "NO",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705540",
+        "event.id": "401705540",
         "event.date": "2025-03-16T00:30Z",
         "event.name": "NY @ GS",
         "team.id": "9",
         "team.name": "Golden State Warriors",
         "team.abbreviation": "GS",
-        "competitors.score": "0",
+        "competitors.score": "97",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705540",
+        "event.id": "401705540",
         "event.date": "2025-03-16T00:30Z",
         "event.name": "NY @ GS",
         "team.id": "18",
         "team.name": "New York Knicks",
         "team.abbreviation": "NY",
-        "competitors.score": "0",
+        "competitors.score": "94",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705541",
+        "event.id": "401705541",
         "event.date": "2025-03-16T01:00Z",
         "event.name": "WSH @ DEN",
         "team.id": "7",
         "team.name": "Denver Nuggets",
         "team.abbreviation": "DEN",
-        "competitors.score": "0",
+        "competitors.score": "123",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705541",
+        "event.id": "401705541",
         "event.date": "2025-03-16T01:00Z",
         "event.name": "WSH @ DEN",
         "team.id": "27",
         "team.name": "Washington Wizards",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "126",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705542",
+        "event.id": "401705542",
         "event.date": "2025-03-16T17:00Z",
         "event.name": "PHI @ DAL",
         "team.id": "6",
         "team.name": "Dallas Mavericks",
         "team.abbreviation": "DAL",
-        "competitors.score": "0",
+        "competitors.score": "125",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705542",
+        "event.id": "401705542",
         "event.date": "2025-03-16T17:00Z",
         "event.name": "PHI @ DAL",
         "team.id": "20",
         "team.name": "Philadelphia 76ers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "130",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705545",
+        "event.id": "401705545",
         "event.date": "2025-03-16T17:00Z",
         "event.name": "ORL @ CLE",
         "team.id": "5",
         "team.name": "Cleveland Cavaliers",
         "team.abbreviation": "CLE",
-        "competitors.score": "0",
+        "competitors.score": "103",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705545",
+        "event.id": "401705545",
         "event.date": "2025-03-16T17:00Z",
         "event.name": "ORL @ CLE",
         "team.id": "19",
         "team.name": "Orlando Magic",
         "team.abbreviation": "ORL",
-        "competitors.score": "0",
+        "competitors.score": "108",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705543",
+        "event.id": "401705543",
         "event.date": "2025-03-16T19:30Z",
         "event.name": "PHX @ LAL",
         "team.id": "13",
         "team.name": "Los Angeles Lakers",
         "team.abbreviation": "LAL",
-        "competitors.score": "0",
+        "competitors.score": "107",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705543",
+        "event.id": "401705543",
         "event.date": "2025-03-16T19:30Z",
         "event.name": "PHX @ LAL",
         "team.id": "21",
         "team.name": "Phoenix Suns",
         "team.abbreviation": "PHX",
-        "competitors.score": "0",
+        "competitors.score": "96",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705544",
+        "event.id": "401705544",
         "event.date": "2025-03-16T22:00Z",
         "event.name": "ATL @ BKN",
         "team.id": "17",
         "team.name": "Brooklyn Nets",
         "team.abbreviation": "BKN",
-        "competitors.score": "0",
+        "competitors.score": "122",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705544",
+        "event.id": "401705544",
         "event.date": "2025-03-16T22:00Z",
         "event.name": "ATL @ BKN",
         "team.id": "1",
         "team.name": "Atlanta Hawks",
         "team.abbreviation": "ATL",
-        "competitors.score": "0",
+        "competitors.score": "114",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705546",
+        "event.id": "401705546",
         "event.date": "2025-03-16T22:00Z",
         "event.name": "TOR @ POR",
         "team.id": "22",
         "team.name": "Portland Trail Blazers",
         "team.abbreviation": "POR",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705546",
+        "event.id": "401705546",
         "event.date": "2025-03-16T22:00Z",
         "event.name": "TOR @ POR",
         "team.id": "28",
         "team.name": "Toronto Raptors",
         "team.abbreviation": "TOR",
-        "competitors.score": "0",
+        "competitors.score": "102",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705547",
+        "event.id": "401705547",
         "event.date": "2025-03-16T23:00Z",
         "event.name": "UTAH @ MIN",
         "team.id": "16",
         "team.name": "Minnesota Timberwolves",
         "team.abbreviation": "MIN",
-        "competitors.score": "0",
+        "competitors.score": "128",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705547",
+        "event.id": "401705547",
         "event.date": "2025-03-16T23:00Z",
         "event.name": "UTAH @ MIN",
         "team.id": "26",
         "team.name": "Utah Jazz",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "102",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401748706",
+        "event.id": "401748706",
         "event.date": "2025-03-16T23:00Z",
         "event.name": "CHA @ LAC",
         "team.id": "12",
         "team.name": "LA Clippers",
         "team.abbreviation": "LAC",
-        "competitors.score": "0",
+        "competitors.score": "123",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401748706",
+        "event.id": "401748706",
         "event.date": "2025-03-16T23:00Z",
         "event.name": "CHA @ LAC",
         "team.id": "30",
         "team.name": "Charlotte Hornets",
         "team.abbreviation": "CHA",
-        "competitors.score": "0",
+        "competitors.score": "88",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705548",
+        "event.id": "401705548",
         "event.date": "2025-03-17T01:00Z",
         "event.name": "OKC @ MIL",
         "team.id": "15",
         "team.name": "Milwaukee Bucks",
         "team.abbreviation": "MIL",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705548",
+        "event.id": "401705548",
         "event.date": "2025-03-17T01:00Z",
         "event.name": "OKC @ MIL",
         "team.id": "25",
         "team.name": "Oklahoma City Thunder",
         "team.abbreviation": "OKC",
-        "competitors.score": "0",
+        "competitors.score": "121",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705550",
+        "event.id": "401705550",
         "event.date": "2025-03-17T23:30Z",
         "event.name": "MIA @ NY",
         "team.id": "18",
         "team.name": "New York Knicks",
         "team.abbreviation": "NY",
-        "competitors.score": "0",
+        "competitors.score": "116",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705550",
+        "event.id": "401705550",
         "event.date": "2025-03-17T23:30Z",
         "event.name": "MIA @ NY",
         "team.id": "14",
         "team.name": "Miami Heat",
         "team.abbreviation": "MIA",
-        "competitors.score": "0",
+        "competitors.score": "95",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705551",
+        "event.id": "401705551",
         "event.date": "2025-03-18T00:00Z",
         "event.name": "PHI @ HOU",
         "team.id": "10",
         "team.name": "Houston Rockets",
         "team.abbreviation": "HOU",
-        "competitors.score": "0",
+        "competitors.score": "144",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 5
     },
     {
-        "game.id": "401705551",
+        "event.id": "401705551",
         "event.date": "2025-03-18T00:00Z",
         "event.name": "PHI @ HOU",
         "team.id": "20",
         "team.name": "Philadelphia 76ers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "137",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 5
     },
     {
-        "game.id": "401705552",
+        "event.id": "401705552",
         "event.date": "2025-03-18T00:00Z",
         "event.name": "IND @ MIN",
         "team.id": "16",
         "team.name": "Minnesota Timberwolves",
         "team.abbreviation": "MIN",
-        "competitors.score": "0",
+        "competitors.score": "130",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 5
     },
     {
-        "game.id": "401705552",
+        "event.id": "401705552",
         "event.date": "2025-03-18T00:00Z",
         "event.name": "IND @ MIN",
         "team.id": "11",
         "team.name": "Indiana Pacers",
         "team.abbreviation": "IND",
-        "competitors.score": "0",
+        "competitors.score": "132",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 5
     },
     {
-        "game.id": "401705553",
+        "event.id": "401705553",
         "event.date": "2025-03-18T00:00Z",
         "event.name": "DET @ NO",
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
         "team.abbreviation": "NO",
-        "competitors.score": "0",
+        "competitors.score": "81",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705553",
+        "event.id": "401705553",
         "event.date": "2025-03-18T00:00Z",
         "event.name": "DET @ NO",
         "team.id": "8",
         "team.name": "Detroit Pistons",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "127",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705555",
+        "event.id": "401705555",
         "event.date": "2025-03-18T01:00Z",
         "event.name": "CHI @ UTAH",
         "team.id": "26",
         "team.name": "Utah Jazz",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "97",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705555",
+        "event.id": "401705555",
         "event.date": "2025-03-18T01:00Z",
         "event.name": "CHI @ UTAH",
         "team.id": "4",
         "team.name": "Chicago Bulls",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
+        "competitors.score": "111",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705556",
+        "event.id": "401705556",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "DEN @ GS",
         "team.id": "9",
         "team.name": "Golden State Warriors",
         "team.abbreviation": "GS",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705556",
+        "event.id": "401705556",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "DEN @ GS",
         "team.id": "7",
         "team.name": "Denver Nuggets",
         "team.abbreviation": "DEN",
-        "competitors.score": "0",
+        "competitors.score": "114",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705557",
+        "event.id": "401705557",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "TOR @ PHX",
         "team.id": "21",
         "team.name": "Phoenix Suns",
         "team.abbreviation": "PHX",
-        "competitors.score": "0",
+        "competitors.score": "129",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705557",
+        "event.id": "401705557",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "TOR @ PHX",
         "team.id": "28",
         "team.name": "Toronto Raptors",
         "team.abbreviation": "TOR",
-        "competitors.score": "0",
+        "competitors.score": "89",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705558",
+        "event.id": "401705558",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "MEM @ SAC",
         "team.id": "23",
         "team.name": "Sacramento Kings",
         "team.abbreviation": "SAC",
-        "competitors.score": "0",
+        "competitors.score": "132",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705558",
+        "event.id": "401705558",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "MEM @ SAC",
         "team.id": "29",
         "team.name": "Memphis Grizzlies",
         "team.abbreviation": "MEM",
-        "competitors.score": "0",
+        "competitors.score": "122",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705561",
+        "event.id": "401705561",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "WSH @ POR",
         "team.id": "22",
         "team.name": "Portland Trail Blazers",
         "team.abbreviation": "POR",
-        "competitors.score": "0",
+        "competitors.score": "112",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705561",
+        "event.id": "401705561",
         "event.date": "2025-03-18T02:00Z",
         "event.name": "WSH @ POR",
         "team.id": "27",
         "team.name": "Washington Wizards",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "97",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401754705",
+        "event.id": "401754705",
         "event.date": "2025-03-18T02:30Z",
         "event.name": "SA @ LAL",
         "team.id": "13",
         "team.name": "Los Angeles Lakers",
         "team.abbreviation": "LAL",
-        "competitors.score": "0",
+        "competitors.score": "125",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401754705",
+        "event.id": "401754705",
         "event.date": "2025-03-18T02:30Z",
         "event.name": "SA @ LAL",
         "team.id": "24",
         "team.name": "San Antonio Spurs",
         "team.abbreviation": "SA",
-        "competitors.score": "0",
+        "competitors.score": "109",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705559",
+        "event.id": "401705559",
         "event.date": "2025-03-18T23:00Z",
         "event.name": "ATL @ CHA",
         "team.id": "30",
         "team.name": "Charlotte Hornets",
         "team.abbreviation": "CHA",
-        "competitors.score": "0",
+        "competitors.score": "102",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705559",
+        "event.id": "401705559",
         "event.date": "2025-03-18T23:00Z",
         "event.name": "ATL @ CHA",
         "team.id": "1",
         "team.name": "Atlanta Hawks",
         "team.abbreviation": "ATL",
-        "competitors.score": "0",
+        "competitors.score": "134",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705560",
+        "event.id": "401705560",
         "event.date": "2025-03-18T23:30Z",
         "event.name": "BKN @ BOS",
         "team.id": "2",
         "team.name": "Boston Celtics",
         "team.abbreviation": "BOS",
-        "competitors.score": "0",
+        "competitors.score": "104",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705560",
+        "event.id": "401705560",
         "event.date": "2025-03-18T23:30Z",
         "event.name": "BKN @ BOS",
         "team.id": "17",
         "team.name": "Brooklyn Nets",
         "team.abbreviation": "BKN",
-        "competitors.score": "0",
+        "competitors.score": "96",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705578",
+        "event.id": "401705578",
         "event.date": "2025-03-19T02:00Z",
         "event.name": "MIL @ GS",
         "team.id": "9",
         "team.name": "Golden State Warriors",
         "team.abbreviation": "GS",
-        "competitors.score": "0",
+        "competitors.score": "104",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705578",
+        "event.id": "401705578",
         "event.date": "2025-03-19T02:00Z",
         "event.name": "MIL @ GS",
         "team.id": "15",
         "team.name": "Milwaukee Bucks",
         "team.abbreviation": "MIL",
-        "competitors.score": "0",
+        "competitors.score": "93",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705563",
+        "event.id": "401705563",
         "event.date": "2025-03-19T02:30Z",
         "event.name": "CLE @ LAC",
         "team.id": "12",
         "team.name": "LA Clippers",
         "team.abbreviation": "LAC",
-        "competitors.score": "0",
+        "competitors.score": "132",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705563",
+        "event.id": "401705563",
         "event.date": "2025-03-19T02:30Z",
         "event.name": "CLE @ LAC",
         "team.id": "5",
         "team.name": "Cleveland Cavaliers",
         "team.abbreviation": "CLE",
-        "competitors.score": "0",
+        "competitors.score": "119",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705564",
+        "event.id": "401705564",
         "event.date": "2025-03-19T23:00Z",
         "event.name": "DAL @ IND",
         "team.id": "11",
         "team.name": "Indiana Pacers",
         "team.abbreviation": "IND",
-        "competitors.score": "0",
+        "competitors.score": "135",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705564",
+        "event.id": "401705564",
         "event.date": "2025-03-19T23:00Z",
         "event.name": "DAL @ IND",
         "team.id": "6",
         "team.name": "Dallas Mavericks",
         "team.abbreviation": "DAL",
-        "competitors.score": "0",
+        "competitors.score": "131",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705565",
+        "event.id": "401705565",
         "event.date": "2025-03-19T23:00Z",
         "event.name": "HOU @ ORL",
         "team.id": "19",
         "team.name": "Orlando Magic",
         "team.abbreviation": "ORL",
-        "competitors.score": "0",
+        "competitors.score": "108",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705565",
+        "event.id": "401705565",
         "event.date": "2025-03-19T23:00Z",
         "event.name": "HOU @ ORL",
         "team.id": "10",
         "team.name": "Houston Rockets",
         "team.abbreviation": "HOU",
-        "competitors.score": "0",
+        "competitors.score": "116",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705566",
+        "event.id": "401705566",
         "event.date": "2025-03-19T23:30Z",
         "event.name": "DET @ MIA",
         "team.id": "14",
         "team.name": "Miami Heat",
         "team.abbreviation": "MIA",
-        "competitors.score": "0",
+        "competitors.score": "113",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705566",
+        "event.id": "401705566",
         "event.date": "2025-03-19T23:30Z",
         "event.name": "DET @ MIA",
         "team.id": "8",
         "team.name": "Detroit Pistons",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "116",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705567",
+        "event.id": "401705567",
         "event.date": "2025-03-20T00:00Z",
         "event.name": "NO @ MIN",
         "team.id": "16",
         "team.name": "Minnesota Timberwolves",
         "team.abbreviation": "MIN",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705567",
+        "event.id": "401705567",
         "event.date": "2025-03-20T00:00Z",
         "event.name": "NO @ MIN",
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
         "team.abbreviation": "NO",
-        "competitors.score": "0",
+        "competitors.score": "119",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705568",
+        "event.id": "401705568",
         "event.date": "2025-03-20T00:00Z",
         "event.name": "PHI @ OKC",
         "team.id": "25",
         "team.name": "Oklahoma City Thunder",
         "team.abbreviation": "OKC",
-        "competitors.score": "0",
+        "competitors.score": "133",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705568",
+        "event.id": "401705568",
         "event.date": "2025-03-20T00:00Z",
         "event.name": "PHI @ OKC",
         "team.id": "20",
         "team.name": "Philadelphia 76ers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "100",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705569",
+        "event.id": "401705569",
         "event.date": "2025-03-20T00:00Z",
         "event.name": "NY @ SA",
         "team.id": "24",
         "team.name": "San Antonio Spurs",
         "team.abbreviation": "SA",
-        "competitors.score": "0",
+        "competitors.score": "120",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705569",
+        "event.id": "401705569",
         "event.date": "2025-03-20T00:00Z",
         "event.name": "NY @ SA",
         "team.id": "18",
         "team.name": "New York Knicks",
         "team.abbreviation": "NY",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705193",
+        "event.id": "401705193",
         "event.date": "2025-03-20T01:00Z",
         "event.name": "WSH @ UTAH",
         "team.id": "26",
         "team.name": "Utah Jazz",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "128",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705193",
+        "event.id": "401705193",
         "event.date": "2025-03-20T01:00Z",
         "event.name": "WSH @ UTAH",
         "team.id": "27",
         "team.name": "Washington Wizards",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "112",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705572",
+        "event.id": "401705572",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "DEN @ LAL",
         "team.id": "13",
         "team.name": "Los Angeles Lakers",
         "team.abbreviation": "LAL",
-        "competitors.score": "0",
+        "competitors.score": "120",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705572",
+        "event.id": "401705572",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "DEN @ LAL",
         "team.id": "7",
         "team.name": "Denver Nuggets",
         "team.abbreviation": "DEN",
-        "competitors.score": "0",
+        "competitors.score": "108",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705573",
+        "event.id": "401705573",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "CHI @ PHX",
         "team.id": "21",
         "team.name": "Phoenix Suns",
         "team.abbreviation": "PHX",
-        "competitors.score": "0",
+        "competitors.score": "127",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705573",
+        "event.id": "401705573",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "CHI @ PHX",
         "team.id": "4",
         "team.name": "Chicago Bulls",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
+        "competitors.score": "121",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705574",
+        "event.id": "401705574",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "MEM @ POR",
         "team.id": "22",
         "team.name": "Portland Trail Blazers",
         "team.abbreviation": "POR",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705574",
+        "event.id": "401705574",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "MEM @ POR",
         "team.id": "29",
         "team.name": "Memphis Grizzlies",
         "team.abbreviation": "MEM",
-        "competitors.score": "0",
+        "competitors.score": "99",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705575",
+        "event.id": "401705575",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "CLE @ SAC",
         "team.id": "23",
         "team.name": "Sacramento Kings",
         "team.abbreviation": "SAC",
-        "competitors.score": "0",
+        "competitors.score": "123",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705575",
+        "event.id": "401705575",
         "event.date": "2025-03-20T02:00Z",
         "event.name": "CLE @ SAC",
         "team.id": "5",
         "team.name": "Cleveland Cavaliers",
         "team.abbreviation": "CLE",
-        "competitors.score": "0",
+        "competitors.score": "119",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705576",
+        "event.id": "401705576",
         "event.date": "2025-03-20T23:00Z",
         "event.name": "NY @ CHA",
         "team.id": "30",
         "team.name": "Charlotte Hornets",
         "team.abbreviation": "CHA",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705576",
+        "event.id": "401705576",
         "event.date": "2025-03-20T23:00Z",
         "event.name": "NY @ CHA",
         "team.id": "18",
         "team.name": "New York Knicks",
         "team.abbreviation": "NY",
-        "competitors.score": "0",
+        "competitors.score": "98",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705577",
+        "event.id": "401705577",
         "event.date": "2025-03-20T23:00Z",
         "event.name": "BKN @ IND",
         "team.id": "11",
         "team.name": "Indiana Pacers",
         "team.abbreviation": "IND",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 5
     },
     {
-        "game.id": "401705577",
+        "event.id": "401705577",
         "event.date": "2025-03-20T23:00Z",
         "event.name": "BKN @ IND",
         "team.id": "17",
         "team.name": "Brooklyn Nets",
         "team.abbreviation": "BKN",
-        "competitors.score": "0",
+        "competitors.score": "99",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 5
     },
     {
-        "game.id": "401705571",
+        "event.id": "401705571",
         "event.date": "2025-03-21T02:00Z",
         "event.name": "TOR @ GS",
         "team.id": "9",
         "team.name": "Golden State Warriors",
         "team.abbreviation": "GS",
-        "competitors.score": "0",
+        "competitors.score": "117",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705571",
+        "event.id": "401705571",
         "event.date": "2025-03-21T02:00Z",
         "event.name": "TOR @ GS",
         "team.id": "28",
         "team.name": "Toronto Raptors",
         "team.abbreviation": "TOR",
-        "competitors.score": "0",
+        "competitors.score": "114",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705579",
+        "event.id": "401705579",
         "event.date": "2025-03-21T02:00Z",
         "event.name": "CHI @ SAC",
         "team.id": "23",
         "team.name": "Sacramento Kings",
         "team.abbreviation": "SAC",
-        "competitors.score": "0",
+        "competitors.score": "116",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705579",
+        "event.id": "401705579",
         "event.date": "2025-03-21T02:00Z",
         "event.name": "CHI @ SAC",
         "team.id": "4",
         "team.name": "Chicago Bulls",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
+        "competitors.score": "128",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705562",
+        "event.id": "401705562",
         "event.date": "2025-03-21T02:30Z",
         "event.name": "MIL @ LAL",
         "team.id": "13",
         "team.name": "Los Angeles Lakers",
         "team.abbreviation": "LAL",
-        "competitors.score": "0",
+        "competitors.score": "89",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705562",
+        "event.id": "401705562",
         "event.date": "2025-03-21T02:30Z",
         "event.name": "MIL @ LAL",
         "team.id": "15",
         "team.name": "Milwaukee Bucks",
         "team.abbreviation": "MIL",
-        "competitors.score": "0",
+        "competitors.score": "118",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705580",
+        "event.id": "401705580",
         "event.date": "2025-03-21T23:00Z",
         "event.name": "ORL @ WSH",
         "team.id": "27",
         "team.name": "Washington Wizards",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705580",
+        "event.id": "401705580",
         "event.date": "2025-03-21T23:00Z",
         "event.name": "ORL @ WSH",
         "team.id": "19",
         "team.name": "Orlando Magic",
         "team.abbreviation": "ORL",
-        "competitors.score": "0",
+        "competitors.score": "120",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705581",
+        "event.id": "401705581",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "HOU @ MIA",
         "team.id": "14",
         "team.name": "Miami Heat",
         "team.abbreviation": "MIA",
-        "competitors.score": "0",
+        "competitors.score": "98",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705581",
+        "event.id": "401705581",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "HOU @ MIA",
         "team.id": "10",
         "team.name": "Houston Rockets",
         "team.abbreviation": "HOU",
-        "competitors.score": "0",
+        "competitors.score": "102",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705582",
+        "event.id": "401705582",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "NO @ MIN",
         "team.id": "16",
         "team.name": "Minnesota Timberwolves",
         "team.abbreviation": "MIN",
-        "competitors.score": "0",
+        "competitors.score": "134",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705582",
+        "event.id": "401705582",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "NO @ MIN",
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
         "team.abbreviation": "NO",
-        "competitors.score": "0",
+        "competitors.score": "93",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705583",
+        "event.id": "401705583",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "CHA @ OKC",
         "team.id": "25",
         "team.name": "Oklahoma City Thunder",
         "team.abbreviation": "OKC",
-        "competitors.score": "0",
+        "competitors.score": "141",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705583",
+        "event.id": "401705583",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "CHA @ OKC",
         "team.id": "30",
         "team.name": "Charlotte Hornets",
         "team.abbreviation": "CHA",
-        "competitors.score": "0",
+        "competitors.score": "106",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705584",
+        "event.id": "401705584",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "PHI @ SA",
         "team.id": "24",
         "team.name": "San Antonio Spurs",
         "team.abbreviation": "SA",
-        "competitors.score": "0",
+        "competitors.score": "128",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705584",
+        "event.id": "401705584",
         "event.date": "2025-03-22T00:00Z",
         "event.name": "PHI @ SA",
         "team.id": "20",
         "team.name": "Philadelphia 76ers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "120",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705585",
+        "event.id": "401705585",
         "event.date": "2025-03-22T00:30Z",
         "event.name": "DET @ DAL",
         "team.id": "6",
         "team.name": "Dallas Mavericks",
         "team.abbreviation": "DAL",
-        "competitors.score": "0",
+        "competitors.score": "123",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705585",
+        "event.id": "401705585",
         "event.date": "2025-03-22T00:30Z",
         "event.name": "DET @ DAL",
         "team.id": "8",
         "team.name": "Detroit Pistons",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "117",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705586",
+        "event.id": "401705586",
         "event.date": "2025-03-22T01:30Z",
         "event.name": "BOS @ UTAH",
         "team.id": "26",
         "team.name": "Utah Jazz",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "99",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705586",
+        "event.id": "401705586",
         "event.date": "2025-03-22T01:30Z",
         "event.name": "BOS @ UTAH",
         "team.id": "2",
         "team.name": "Boston Celtics",
         "team.abbreviation": "BOS",
-        "competitors.score": "0",
+        "competitors.score": "121",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705587",
+        "event.id": "401705587",
         "event.date": "2025-03-22T02:00Z",
         "event.name": "CLE @ PHX",
         "team.id": "21",
         "team.name": "Phoenix Suns",
         "team.abbreviation": "PHX",
-        "competitors.score": "0",
+        "competitors.score": "123",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705587",
+        "event.id": "401705587",
         "event.date": "2025-03-22T02:00Z",
         "event.name": "CLE @ PHX",
         "team.id": "5",
         "team.name": "Cleveland Cavaliers",
         "team.abbreviation": "CLE",
-        "competitors.score": "0",
+        "competitors.score": "112",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705588",
+        "event.id": "401705588",
         "event.date": "2025-03-22T02:00Z",
         "event.name": "DEN @ POR",
         "team.id": "22",
         "team.name": "Portland Trail Blazers",
         "team.abbreviation": "POR",
-        "competitors.score": "0",
+        "competitors.score": "128",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705588",
+        "event.id": "401705588",
         "event.date": "2025-03-22T02:00Z",
         "event.name": "DEN @ POR",
         "team.id": "7",
         "team.name": "Denver Nuggets",
         "team.abbreviation": "DEN",
-        "competitors.score": "0",
+        "competitors.score": "109",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705589",
+        "event.id": "401705589",
         "event.date": "2025-03-22T02:30Z",
         "event.name": "MEM @ LAC",
         "team.id": "12",
         "team.name": "LA Clippers",
         "team.abbreviation": "LAC",
-        "competitors.score": "0",
+        "competitors.score": "128",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705589",
+        "event.id": "401705589",
         "event.date": "2025-03-22T02:30Z",
         "event.name": "MEM @ LAC",
         "team.id": "29",
         "team.name": "Memphis Grizzlies",
         "team.abbreviation": "MEM",
-        "competitors.score": "0",
+        "competitors.score": "108",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705590",
+        "event.id": "401705590",
         "event.date": "2025-03-22T21:00Z",
         "event.name": "BKN @ IND",
         "team.id": "11",
         "team.name": "Indiana Pacers",
         "team.abbreviation": "IND",
-        "competitors.score": "0",
+        "competitors.score": "108",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705590",
+        "event.id": "401705590",
         "event.date": "2025-03-22T21:00Z",
         "event.name": "BKN @ IND",
         "team.id": "17",
         "team.name": "Brooklyn Nets",
         "team.abbreviation": "BKN",
-        "competitors.score": "0",
+        "competitors.score": "103",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705591",
+        "event.id": "401705591",
         "event.date": "2025-03-22T23:00Z",
         "event.name": "GS @ ATL",
         "team.id": "1",
         "team.name": "Atlanta Hawks",
         "team.abbreviation": "ATL",
-        "competitors.score": "0",
+        "competitors.score": "124",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705591",
+        "event.id": "401705591",
         "event.date": "2025-03-22T23:00Z",
         "event.name": "GS @ ATL",
         "team.id": "9",
         "team.name": "Golden State Warriors",
         "team.abbreviation": "GS",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705592",
+        "event.id": "401705592",
         "event.date": "2025-03-23T00:00Z",
         "event.name": "WSH @ NY",
         "team.id": "18",
         "team.name": "New York Knicks",
         "team.abbreviation": "NY",
-        "competitors.score": "0",
+        "competitors.score": "122",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705592",
+        "event.id": "401705592",
         "event.date": "2025-03-23T00:00Z",
         "event.name": "WSH @ NY",
         "team.id": "27",
         "team.name": "Washington Wizards",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "103",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705593",
+        "event.id": "401705593",
         "event.date": "2025-03-23T02:00Z",
         "event.name": "MIL @ SAC",
         "team.id": "23",
         "team.name": "Sacramento Kings",
         "team.abbreviation": "SAC",
-        "competitors.score": "0",
+        "competitors.score": "108",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705593",
+        "event.id": "401705593",
         "event.date": "2025-03-23T02:00Z",
         "event.name": "MIL @ SAC",
         "team.id": "15",
         "team.name": "Milwaukee Bucks",
         "team.abbreviation": "MIL",
-        "competitors.score": "0",
+        "competitors.score": "114",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705594",
+        "event.id": "401705594",
         "event.date": "2025-03-23T02:30Z",
         "event.name": "CHI @ LAL",
         "team.id": "13",
         "team.name": "Los Angeles Lakers",
         "team.abbreviation": "LAL",
-        "competitors.score": "0",
+        "competitors.score": "115",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705594",
+        "event.id": "401705594",
         "event.date": "2025-03-23T02:30Z",
         "event.name": "CHI @ LAL",
         "team.id": "4",
         "team.name": "Chicago Bulls",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
+        "competitors.score": "146",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705595",
+        "event.id": "401705595",
         "event.date": "2025-03-23T19:00Z",
         "event.name": "NO @ DET",
         "team.id": "8",
         "team.name": "Detroit Pistons",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "136",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705595",
+        "event.id": "401705595",
         "event.date": "2025-03-23T19:00Z",
         "event.name": "NO @ DET",
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
         "team.abbreviation": "NO",
-        "competitors.score": "0",
+        "competitors.score": "130",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705596",
+        "event.id": "401705596",
         "event.date": "2025-03-23T19:30Z",
         "event.name": "CLE @ UTAH",
         "team.id": "26",
         "team.name": "Utah Jazz",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "91",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705596",
+        "event.id": "401705596",
         "event.date": "2025-03-23T19:30Z",
         "event.name": "CLE @ UTAH",
         "team.id": "5",
         "team.name": "Cleveland Cavaliers",
         "team.abbreviation": "CLE",
-        "competitors.score": "0",
+        "competitors.score": "120",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705597",
+        "event.id": "401705597",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "PHI @ ATL",
         "team.id": "1",
         "team.name": "Atlanta Hawks",
         "team.abbreviation": "ATL",
-        "competitors.score": "0",
+        "competitors.score": "132",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705597",
+        "event.id": "401705597",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "PHI @ ATL",
         "team.id": "20",
         "team.name": "Philadelphia 76ers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "119",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705598",
+        "event.id": "401705598",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "CHA @ MIA",
         "team.id": "14",
         "team.name": "Miami Heat",
         "team.abbreviation": "MIA",
-        "competitors.score": "0",
+        "competitors.score": "122",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705598",
+        "event.id": "401705598",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "CHA @ MIA",
         "team.id": "30",
         "team.name": "Charlotte Hornets",
         "team.abbreviation": "CHA",
-        "competitors.score": "0",
+        "competitors.score": "105",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705599",
+        "event.id": "401705599",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "SA @ TOR",
         "team.id": "28",
         "team.name": "Toronto Raptors",
         "team.abbreviation": "TOR",
-        "competitors.score": "0",
+        "competitors.score": "89",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705599",
+        "event.id": "401705599",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "SA @ TOR",
         "team.id": "24",
         "team.name": "San Antonio Spurs",
         "team.abbreviation": "SA",
-        "competitors.score": "0",
+        "competitors.score": "123",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705600",
+        "event.id": "401705600",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "BOS @ POR",
         "team.id": "22",
         "team.name": "Portland Trail Blazers",
         "team.abbreviation": "POR",
-        "competitors.score": "0",
+        "competitors.score": "116",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705600",
+        "event.id": "401705600",
         "event.date": "2025-03-23T22:00Z",
         "event.name": "BOS @ POR",
         "team.id": "2",
         "team.name": "Boston Celtics",
         "team.abbreviation": "BOS",
-        "competitors.score": "0",
+        "competitors.score": "129",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705601",
+        "event.id": "401705601",
         "event.date": "2025-03-23T23:00Z",
         "event.name": "DEN @ HOU",
         "team.id": "10",
         "team.name": "Houston Rockets",
         "team.abbreviation": "HOU",
-        "competitors.score": "0",
+        "competitors.score": "111",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705601",
+        "event.id": "401705601",
         "event.date": "2025-03-23T23:00Z",
         "event.name": "DEN @ HOU",
         "team.id": "7",
         "team.name": "Denver Nuggets",
         "team.abbreviation": "DEN",
-        "competitors.score": "0",
+        "competitors.score": "116",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705602",
+        "event.id": "401705602",
         "event.date": "2025-03-24T01:00Z",
         "event.name": "OKC @ LAC",
         "team.id": "12",
         "team.name": "LA Clippers",
         "team.abbreviation": "LAC",
-        "competitors.score": "0",
+        "competitors.score": "101",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705602",
+        "event.id": "401705602",
         "event.date": "2025-03-24T01:00Z",
         "event.name": "OKC @ LAC",
         "team.id": "25",
         "team.name": "Oklahoma City Thunder",
         "team.abbreviation": "OKC",
-        "competitors.score": "0",
+        "competitors.score": "103",
         "status.clock": "0.0",
-        "status.period": 0
+        "status.period": 4
     },
     {
-        "game.id": "401705603",
+        "event.id": "401705603",
         "event.date": "2025-03-24T23:00Z",
         "event.name": "MIN @ IND",
         "team.id": "11",
@@ -1859,7 +1859,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705603",
+        "event.id": "401705603",
         "event.date": "2025-03-24T23:00Z",
         "event.name": "MIN @ IND",
         "team.id": "16",
@@ -1870,7 +1870,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705604",
+        "event.id": "401705604",
         "event.date": "2025-03-24T23:00Z",
         "event.name": "LAL @ ORL",
         "team.id": "19",
@@ -1881,7 +1881,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705604",
+        "event.id": "401705604",
         "event.date": "2025-03-24T23:00Z",
         "event.name": "LAL @ ORL",
         "team.id": "13",
@@ -1892,7 +1892,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705605",
+        "event.id": "401705605",
         "event.date": "2025-03-24T23:00Z",
         "event.name": "TOR @ WSH",
         "team.id": "27",
@@ -1903,7 +1903,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705605",
+        "event.id": "401705605",
         "event.date": "2025-03-24T23:00Z",
         "event.name": "TOR @ WSH",
         "team.id": "28",
@@ -1914,7 +1914,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705606",
+        "event.id": "401705606",
         "event.date": "2025-03-24T23:30Z",
         "event.name": "DAL @ BKN",
         "team.id": "17",
@@ -1925,7 +1925,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705606",
+        "event.id": "401705606",
         "event.date": "2025-03-24T23:30Z",
         "event.name": "DAL @ BKN",
         "team.id": "6",
@@ -1936,7 +1936,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705607",
+        "event.id": "401705607",
         "event.date": "2025-03-25T00:00Z",
         "event.name": "PHI @ NO",
         "team.id": "3",
@@ -1947,7 +1947,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705607",
+        "event.id": "401705607",
         "event.date": "2025-03-25T00:00Z",
         "event.name": "PHI @ NO",
         "team.id": "20",
@@ -1958,7 +1958,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705608",
+        "event.id": "401705608",
         "event.date": "2025-03-25T01:00Z",
         "event.name": "CHI @ DEN",
         "team.id": "7",
@@ -1969,7 +1969,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705608",
+        "event.id": "401705608",
         "event.date": "2025-03-25T01:00Z",
         "event.name": "CHI @ DEN",
         "team.id": "4",
@@ -1980,7 +1980,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705609",
+        "event.id": "401705609",
         "event.date": "2025-03-25T02:00Z",
         "event.name": "MIL @ PHX",
         "team.id": "21",
@@ -1991,7 +1991,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705609",
+        "event.id": "401705609",
         "event.date": "2025-03-25T02:00Z",
         "event.name": "MIL @ PHX",
         "team.id": "15",
@@ -2002,7 +2002,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705610",
+        "event.id": "401705610",
         "event.date": "2025-03-25T02:00Z",
         "event.name": "BOS @ SAC",
         "team.id": "23",
@@ -2013,7 +2013,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705610",
+        "event.id": "401705610",
         "event.date": "2025-03-25T02:00Z",
         "event.name": "BOS @ SAC",
         "team.id": "2",
@@ -2024,7 +2024,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705611",
+        "event.id": "401705611",
         "event.date": "2025-03-25T23:00Z",
         "event.name": "ORL @ CHA",
         "team.id": "30",
@@ -2035,7 +2035,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705611",
+        "event.id": "401705611",
         "event.date": "2025-03-25T23:00Z",
         "event.name": "ORL @ CHA",
         "team.id": "19",
@@ -2046,7 +2046,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705612",
+        "event.id": "401705612",
         "event.date": "2025-03-25T23:00Z",
         "event.name": "SA @ DET",
         "team.id": "8",
@@ -2057,7 +2057,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705612",
+        "event.id": "401705612",
         "event.date": "2025-03-25T23:00Z",
         "event.name": "SA @ DET",
         "team.id": "24",
@@ -2068,7 +2068,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705613",
+        "event.id": "401705613",
         "event.date": "2025-03-25T23:30Z",
         "event.name": "GS @ MIA",
         "team.id": "14",
@@ -2079,7 +2079,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705613",
+        "event.id": "401705613",
         "event.date": "2025-03-25T23:30Z",
         "event.name": "GS @ MIA",
         "team.id": "9",
@@ -2090,7 +2090,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705614",
+        "event.id": "401705614",
         "event.date": "2025-03-25T23:30Z",
         "event.name": "DAL @ NY",
         "team.id": "18",
@@ -2101,7 +2101,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705614",
+        "event.id": "401705614",
         "event.date": "2025-03-25T23:30Z",
         "event.name": "DAL @ NY",
         "team.id": "6",
@@ -2112,7 +2112,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705615",
+        "event.id": "401705615",
         "event.date": "2025-03-26T00:00Z",
         "event.name": "ATL @ HOU",
         "team.id": "10",
@@ -2123,7 +2123,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705615",
+        "event.id": "401705615",
         "event.date": "2025-03-26T00:00Z",
         "event.name": "ATL @ HOU",
         "team.id": "1",
@@ -2134,7 +2134,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705616",
+        "event.id": "401705616",
         "event.date": "2025-03-26T01:00Z",
         "event.name": "MEM @ UTAH",
         "team.id": "26",
@@ -2145,7 +2145,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705616",
+        "event.id": "401705616",
         "event.date": "2025-03-26T01:00Z",
         "event.name": "MEM @ UTAH",
         "team.id": "29",
@@ -2156,7 +2156,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705617",
+        "event.id": "401705617",
         "event.date": "2025-03-26T02:00Z",
         "event.name": "CLE @ POR",
         "team.id": "22",
@@ -2167,7 +2167,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705617",
+        "event.id": "401705617",
         "event.date": "2025-03-26T02:00Z",
         "event.name": "CLE @ POR",
         "team.id": "5",
@@ -2178,7 +2178,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705618",
+        "event.id": "401705618",
         "event.date": "2025-03-26T02:00Z",
         "event.name": "OKC @ SAC",
         "team.id": "23",
@@ -2189,7 +2189,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705618",
+        "event.id": "401705618",
         "event.date": "2025-03-26T02:00Z",
         "event.name": "OKC @ SAC",
         "team.id": "25",
@@ -2200,7 +2200,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705619",
+        "event.id": "401705619",
         "event.date": "2025-03-26T23:00Z",
         "event.name": "WSH @ PHI",
         "team.id": "20",
@@ -2211,7 +2211,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705619",
+        "event.id": "401705619",
         "event.date": "2025-03-26T23:00Z",
         "event.name": "WSH @ PHI",
         "team.id": "27",
@@ -2222,7 +2222,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705620",
+        "event.id": "401705620",
         "event.date": "2025-03-26T23:30Z",
         "event.name": "TOR @ BKN",
         "team.id": "17",
@@ -2233,7 +2233,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705620",
+        "event.id": "401705620",
         "event.date": "2025-03-26T23:30Z",
         "event.name": "TOR @ BKN",
         "team.id": "28",
@@ -2244,7 +2244,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705621",
+        "event.id": "401705621",
         "event.date": "2025-03-26T23:30Z",
         "event.name": "LAL @ IND",
         "team.id": "11",
@@ -2255,7 +2255,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705621",
+        "event.id": "401705621",
         "event.date": "2025-03-26T23:30Z",
         "event.name": "LAL @ IND",
         "team.id": "13",
@@ -2266,7 +2266,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705622",
+        "event.id": "401705622",
         "event.date": "2025-03-26T23:30Z",
         "event.name": "LAC @ NY",
         "team.id": "18",
@@ -2277,7 +2277,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705622",
+        "event.id": "401705622",
         "event.date": "2025-03-26T23:30Z",
         "event.name": "LAC @ NY",
         "team.id": "12",
@@ -2288,7 +2288,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705623",
+        "event.id": "401705623",
         "event.date": "2025-03-27T01:00Z",
         "event.name": "MIL @ DEN",
         "team.id": "7",
@@ -2299,7 +2299,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705623",
+        "event.id": "401705623",
         "event.date": "2025-03-27T01:00Z",
         "event.name": "MIL @ DEN",
         "team.id": "15",
@@ -2310,7 +2310,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705624",
+        "event.id": "401705624",
         "event.date": "2025-03-27T02:00Z",
         "event.name": "BOS @ PHX",
         "team.id": "21",
@@ -2321,7 +2321,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705624",
+        "event.id": "401705624",
         "event.date": "2025-03-27T02:00Z",
         "event.name": "BOS @ PHX",
         "team.id": "2",
@@ -2332,7 +2332,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705625",
+        "event.id": "401705625",
         "event.date": "2025-03-27T23:00Z",
         "event.name": "SA @ CLE",
         "team.id": "5",
@@ -2343,7 +2343,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705625",
+        "event.id": "401705625",
         "event.date": "2025-03-27T23:00Z",
         "event.name": "SA @ CLE",
         "team.id": "24",
@@ -2354,7 +2354,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705626",
+        "event.id": "401705626",
         "event.date": "2025-03-27T23:00Z",
         "event.name": "DAL @ ORL",
         "team.id": "19",
@@ -2365,7 +2365,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705626",
+        "event.id": "401705626",
         "event.date": "2025-03-27T23:00Z",
         "event.name": "DAL @ ORL",
         "team.id": "6",
@@ -2376,7 +2376,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705627",
+        "event.id": "401705627",
         "event.date": "2025-03-27T23:00Z",
         "event.name": "IND @ WSH",
         "team.id": "27",
@@ -2387,7 +2387,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705627",
+        "event.id": "401705627",
         "event.date": "2025-03-27T23:00Z",
         "event.name": "IND @ WSH",
         "team.id": "11",
@@ -2398,7 +2398,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705628",
+        "event.id": "401705628",
         "event.date": "2025-03-27T23:30Z",
         "event.name": "ATL @ MIA",
         "team.id": "14",
@@ -2409,7 +2409,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705628",
+        "event.id": "401705628",
         "event.date": "2025-03-27T23:30Z",
         "event.name": "ATL @ MIA",
         "team.id": "1",
@@ -2420,7 +2420,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705629",
+        "event.id": "401705629",
         "event.date": "2025-03-28T00:00Z",
         "event.name": "LAL @ CHI",
         "team.id": "4",
@@ -2431,7 +2431,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705629",
+        "event.id": "401705629",
         "event.date": "2025-03-28T00:00Z",
         "event.name": "LAL @ CHI",
         "team.id": "13",
@@ -2442,7 +2442,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705630",
+        "event.id": "401705630",
         "event.date": "2025-03-28T00:00Z",
         "event.name": "MEM @ OKC",
         "team.id": "25",
@@ -2453,7 +2453,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705630",
+        "event.id": "401705630",
         "event.date": "2025-03-28T00:00Z",
         "event.name": "MEM @ OKC",
         "team.id": "29",
@@ -2464,7 +2464,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705631",
+        "event.id": "401705631",
         "event.date": "2025-03-28T01:00Z",
         "event.name": "HOU @ UTAH",
         "team.id": "26",
@@ -2475,7 +2475,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705631",
+        "event.id": "401705631",
         "event.date": "2025-03-28T01:00Z",
         "event.name": "HOU @ UTAH",
         "team.id": "10",
@@ -2486,7 +2486,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705632",
+        "event.id": "401705632",
         "event.date": "2025-03-28T02:00Z",
         "event.name": "POR @ SAC",
         "team.id": "23",
@@ -2497,7 +2497,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705632",
+        "event.id": "401705632",
         "event.date": "2025-03-28T02:00Z",
         "event.name": "POR @ SAC",
         "team.id": "22",
@@ -2508,7 +2508,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705633",
+        "event.id": "401705633",
         "event.date": "2025-03-28T23:00Z",
         "event.name": "CLE @ DET",
         "team.id": "8",
@@ -2519,7 +2519,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705633",
+        "event.id": "401705633",
         "event.date": "2025-03-28T23:00Z",
         "event.name": "CLE @ DET",
         "team.id": "5",
@@ -2530,7 +2530,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705634",
+        "event.id": "401705634",
         "event.date": "2025-03-28T23:30Z",
         "event.name": "LAC @ BKN",
         "team.id": "17",
@@ -2541,7 +2541,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705634",
+        "event.id": "401705634",
         "event.date": "2025-03-28T23:30Z",
         "event.name": "LAC @ BKN",
         "team.id": "12",
@@ -2552,7 +2552,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705635",
+        "event.id": "401705635",
         "event.date": "2025-03-28T23:30Z",
         "event.name": "CHA @ TOR",
         "team.id": "28",
@@ -2563,7 +2563,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705635",
+        "event.id": "401705635",
         "event.date": "2025-03-28T23:30Z",
         "event.name": "CHA @ TOR",
         "team.id": "30",
@@ -2574,7 +2574,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705636",
+        "event.id": "401705636",
         "event.date": "2025-03-29T00:00Z",
         "event.name": "NY @ MIL",
         "team.id": "15",
@@ -2585,7 +2585,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705636",
+        "event.id": "401705636",
         "event.date": "2025-03-29T00:00Z",
         "event.name": "NY @ MIL",
         "team.id": "18",
@@ -2596,7 +2596,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705637",
+        "event.id": "401705637",
         "event.date": "2025-03-29T00:00Z",
         "event.name": "PHX @ MIN",
         "team.id": "16",
@@ -2607,7 +2607,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705637",
+        "event.id": "401705637",
         "event.date": "2025-03-29T00:00Z",
         "event.name": "PHX @ MIN",
         "team.id": "21",
@@ -2618,7 +2618,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705638",
+        "event.id": "401705638",
         "event.date": "2025-03-29T00:00Z",
         "event.name": "GS @ NO",
         "team.id": "3",
@@ -2629,7 +2629,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705638",
+        "event.id": "401705638",
         "event.date": "2025-03-29T00:00Z",
         "event.name": "GS @ NO",
         "team.id": "9",
@@ -2640,7 +2640,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705639",
+        "event.id": "401705639",
         "event.date": "2025-03-29T01:00Z",
         "event.name": "UTAH @ DEN",
         "team.id": "7",
@@ -2651,7 +2651,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705639",
+        "event.id": "401705639",
         "event.date": "2025-03-29T01:00Z",
         "event.name": "UTAH @ DEN",
         "team.id": "26",
@@ -2662,7 +2662,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705640",
+        "event.id": "401705640",
         "event.date": "2025-03-29T21:00Z",
         "event.name": "SAC @ ORL",
         "team.id": "19",
@@ -2673,7 +2673,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705640",
+        "event.id": "401705640",
         "event.date": "2025-03-29T21:00Z",
         "event.name": "SAC @ ORL",
         "team.id": "23",
@@ -2684,7 +2684,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705641",
+        "event.id": "401705641",
         "event.date": "2025-03-29T23:00Z",
         "event.name": "BKN @ WSH",
         "team.id": "27",
@@ -2695,7 +2695,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705641",
+        "event.id": "401705641",
         "event.date": "2025-03-29T23:00Z",
         "event.name": "BKN @ WSH",
         "team.id": "17",
@@ -2706,7 +2706,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705642",
+        "event.id": "401705642",
         "event.date": "2025-03-29T23:30Z",
         "event.name": "MIA @ PHI",
         "team.id": "20",
@@ -2717,7 +2717,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705642",
+        "event.id": "401705642",
         "event.date": "2025-03-29T23:30Z",
         "event.name": "MIA @ PHI",
         "team.id": "14",
@@ -2728,7 +2728,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705643",
+        "event.id": "401705643",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "DAL @ CHI",
         "team.id": "4",
@@ -2739,7 +2739,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705643",
+        "event.id": "401705643",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "DAL @ CHI",
         "team.id": "6",
@@ -2750,7 +2750,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705644",
+        "event.id": "401705644",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "LAL @ MEM",
         "team.id": "29",
@@ -2761,7 +2761,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705644",
+        "event.id": "401705644",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "LAL @ MEM",
         "team.id": "13",
@@ -2772,7 +2772,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705645",
+        "event.id": "401705645",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "IND @ OKC",
         "team.id": "25",
@@ -2783,7 +2783,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705645",
+        "event.id": "401705645",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "IND @ OKC",
         "team.id": "11",
@@ -2794,7 +2794,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705646",
+        "event.id": "401705646",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "BOS @ SA",
         "team.id": "24",
@@ -2805,7 +2805,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705646",
+        "event.id": "401705646",
         "event.date": "2025-03-30T00:00Z",
         "event.name": "BOS @ SA",
         "team.id": "2",
@@ -2816,7 +2816,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705647",
+        "event.id": "401705647",
         "event.date": "2025-03-30T19:30Z",
         "event.name": "LAC @ CLE",
         "team.id": "5",
@@ -2827,7 +2827,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705647",
+        "event.id": "401705647",
         "event.date": "2025-03-30T19:30Z",
         "event.name": "LAC @ CLE",
         "team.id": "12",
@@ -2838,7 +2838,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705648",
+        "event.id": "401705648",
         "event.date": "2025-03-30T22:00Z",
         "event.name": "POR @ NY",
         "team.id": "18",
@@ -2849,7 +2849,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705648",
+        "event.id": "401705648",
         "event.date": "2025-03-30T22:00Z",
         "event.name": "POR @ NY",
         "team.id": "22",
@@ -2860,7 +2860,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705649",
+        "event.id": "401705649",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "ATL @ MIL",
         "team.id": "15",
@@ -2871,7 +2871,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705649",
+        "event.id": "401705649",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "ATL @ MIL",
         "team.id": "1",
@@ -2882,7 +2882,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705650",
+        "event.id": "401705650",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "DET @ MIN",
         "team.id": "16",
@@ -2893,7 +2893,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705650",
+        "event.id": "401705650",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "DET @ MIN",
         "team.id": "8",
@@ -2904,7 +2904,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705651",
+        "event.id": "401705651",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "CHA @ NO",
         "team.id": "3",
@@ -2915,7 +2915,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705651",
+        "event.id": "401705651",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "CHA @ NO",
         "team.id": "30",
@@ -2926,7 +2926,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705652",
+        "event.id": "401705652",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "GS @ SA",
         "team.id": "24",
@@ -2937,7 +2937,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705652",
+        "event.id": "401705652",
         "event.date": "2025-03-30T23:00Z",
         "event.name": "GS @ SA",
         "team.id": "9",
@@ -2948,7 +2948,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705653",
+        "event.id": "401705653",
         "event.date": "2025-03-30T23:30Z",
         "event.name": "TOR @ PHI",
         "team.id": "20",
@@ -2959,7 +2959,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705653",
+        "event.id": "401705653",
         "event.date": "2025-03-30T23:30Z",
         "event.name": "TOR @ PHI",
         "team.id": "28",
@@ -2970,7 +2970,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705654",
+        "event.id": "401705654",
         "event.date": "2025-03-31T01:00Z",
         "event.name": "HOU @ PHX",
         "team.id": "21",
@@ -2981,7 +2981,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705654",
+        "event.id": "401705654",
         "event.date": "2025-03-31T01:00Z",
         "event.name": "HOU @ PHX",
         "team.id": "10",
@@ -2992,7 +2992,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705655",
+        "event.id": "401705655",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "UTAH @ CHA",
         "team.id": "30",
@@ -3003,7 +3003,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705655",
+        "event.id": "401705655",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "UTAH @ CHA",
         "team.id": "26",
@@ -3014,7 +3014,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705656",
+        "event.id": "401705656",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "SAC @ IND",
         "team.id": "11",
@@ -3025,7 +3025,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705656",
+        "event.id": "401705656",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "SAC @ IND",
         "team.id": "23",
@@ -3036,7 +3036,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705657",
+        "event.id": "401705657",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "LAC @ ORL",
         "team.id": "19",
@@ -3047,7 +3047,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705657",
+        "event.id": "401705657",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "LAC @ ORL",
         "team.id": "12",
@@ -3058,7 +3058,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705658",
+        "event.id": "401705658",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "MIA @ WSH",
         "team.id": "27",
@@ -3069,7 +3069,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705658",
+        "event.id": "401705658",
         "event.date": "2025-03-31T23:00Z",
         "event.name": "MIA @ WSH",
         "team.id": "14",
@@ -3080,7 +3080,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705659",
+        "event.id": "401705659",
         "event.date": "2025-03-31T23:30Z",
         "event.name": "BOS @ MEM",
         "team.id": "29",
@@ -3091,7 +3091,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705659",
+        "event.id": "401705659",
         "event.date": "2025-03-31T23:30Z",
         "event.name": "BOS @ MEM",
         "team.id": "2",
@@ -3102,7 +3102,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705660",
+        "event.id": "401705660",
         "event.date": "2025-04-01T00:00Z",
         "event.name": "CHI @ OKC",
         "team.id": "25",
@@ -3113,7 +3113,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705660",
+        "event.id": "401705660",
         "event.date": "2025-04-01T00:00Z",
         "event.name": "CHI @ OKC",
         "team.id": "4",
@@ -3124,7 +3124,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705661",
+        "event.id": "401705661",
         "event.date": "2025-04-01T00:30Z",
         "event.name": "BKN @ DAL",
         "team.id": "6",
@@ -3135,7 +3135,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705661",
+        "event.id": "401705661",
         "event.date": "2025-04-01T00:30Z",
         "event.name": "BKN @ DAL",
         "team.id": "17",
@@ -3146,7 +3146,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705662",
+        "event.id": "401705662",
         "event.date": "2025-04-01T02:00Z",
         "event.name": "HOU @ LAL",
         "team.id": "13",
@@ -3157,7 +3157,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705662",
+        "event.id": "401705662",
         "event.date": "2025-04-01T02:00Z",
         "event.name": "HOU @ LAL",
         "team.id": "10",
@@ -3168,7 +3168,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705663",
+        "event.id": "401705663",
         "event.date": "2025-04-01T23:30Z",
         "event.name": "POR @ ATL",
         "team.id": "1",
@@ -3179,7 +3179,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705663",
+        "event.id": "401705663",
         "event.date": "2025-04-01T23:30Z",
         "event.name": "POR @ ATL",
         "team.id": "22",
@@ -3190,7 +3190,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705664",
+        "event.id": "401705664",
         "event.date": "2025-04-01T23:30Z",
         "event.name": "PHI @ NY",
         "team.id": "18",
@@ -3201,7 +3201,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705664",
+        "event.id": "401705664",
         "event.date": "2025-04-01T23:30Z",
         "event.name": "PHI @ NY",
         "team.id": "20",
@@ -3212,7 +3212,29 @@
         "status.period": 0
     },
     {
-        "game.id": "401705554",
+        "event.id": "401705667",
+        "event.date": "2025-04-01T23:30Z",
+        "event.name": "PHX @ MIL",
+        "team.id": "15",
+        "team.name": "Milwaukee Bucks",
+        "team.abbreviation": "MIL",
+        "competitors.score": "0",
+        "status.clock": "0.0",
+        "status.period": 0
+    },
+    {
+        "event.id": "401705667",
+        "event.date": "2025-04-01T23:30Z",
+        "event.name": "PHX @ MIL",
+        "team.id": "21",
+        "team.name": "Phoenix Suns",
+        "team.abbreviation": "PHX",
+        "competitors.score": "0",
+        "status.clock": "0.0",
+        "status.period": 0
+    },
+    {
+        "event.id": "401705554",
         "event.date": "2025-04-02T00:00Z",
         "event.name": "ORL @ SA",
         "team.id": "24",
@@ -3223,7 +3245,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705554",
+        "event.id": "401705554",
         "event.date": "2025-04-02T00:00Z",
         "event.name": "ORL @ SA",
         "team.id": "19",
@@ -3234,7 +3256,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705665",
+        "event.id": "401705665",
         "event.date": "2025-04-02T00:00Z",
         "event.name": "TOR @ CHI",
         "team.id": "4",
@@ -3245,7 +3267,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705665",
+        "event.id": "401705665",
         "event.date": "2025-04-02T00:00Z",
         "event.name": "TOR @ CHI",
         "team.id": "28",
@@ -3256,7 +3278,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705666",
+        "event.id": "401705666",
         "event.date": "2025-04-02T00:00Z",
         "event.name": "GS @ MEM",
         "team.id": "29",
@@ -3267,7 +3289,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705666",
+        "event.id": "401705666",
         "event.date": "2025-04-02T00:00Z",
         "event.name": "GS @ MEM",
         "team.id": "9",
@@ -3278,29 +3300,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705667",
-        "event.date": "2025-04-02T00:00Z",
-        "event.name": "PHX @ MIL",
-        "team.id": "15",
-        "team.name": "Milwaukee Bucks",
-        "team.abbreviation": "MIL",
-        "competitors.score": "0",
-        "status.clock": "0.0",
-        "status.period": 0
-    },
-    {
-        "game.id": "401705667",
-        "event.date": "2025-04-02T00:00Z",
-        "event.name": "PHX @ MIL",
-        "team.id": "21",
-        "team.name": "Phoenix Suns",
-        "team.abbreviation": "PHX",
-        "competitors.score": "0",
-        "status.clock": "0.0",
-        "status.period": 0
-    },
-    {
-        "game.id": "401705668",
+        "event.id": "401705668",
         "event.date": "2025-04-02T02:00Z",
         "event.name": "MIN @ DEN",
         "team.id": "7",
@@ -3311,7 +3311,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705668",
+        "event.id": "401705668",
         "event.date": "2025-04-02T02:00Z",
         "event.name": "MIN @ DEN",
         "team.id": "16",
@@ -3322,7 +3322,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705669",
+        "event.id": "401705669",
         "event.date": "2025-04-02T23:00Z",
         "event.name": "NY @ CLE",
         "team.id": "5",
@@ -3333,7 +3333,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705669",
+        "event.id": "401705669",
         "event.date": "2025-04-02T23:00Z",
         "event.name": "NY @ CLE",
         "team.id": "18",
@@ -3344,7 +3344,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705670",
+        "event.id": "401705670",
         "event.date": "2025-04-02T23:00Z",
         "event.name": "CHA @ IND",
         "team.id": "11",
@@ -3355,7 +3355,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705670",
+        "event.id": "401705670",
         "event.date": "2025-04-02T23:00Z",
         "event.name": "CHA @ IND",
         "team.id": "30",
@@ -3366,7 +3366,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705671",
+        "event.id": "401705671",
         "event.date": "2025-04-02T23:00Z",
         "event.name": "SAC @ WSH",
         "team.id": "27",
@@ -3377,7 +3377,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705671",
+        "event.id": "401705671",
         "event.date": "2025-04-02T23:00Z",
         "event.name": "SAC @ WSH",
         "team.id": "23",
@@ -3388,7 +3388,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705672",
+        "event.id": "401705672",
         "event.date": "2025-04-02T23:30Z",
         "event.name": "MIA @ BOS",
         "team.id": "2",
@@ -3399,7 +3399,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705672",
+        "event.id": "401705672",
         "event.date": "2025-04-02T23:30Z",
         "event.name": "MIA @ BOS",
         "team.id": "14",
@@ -3410,7 +3410,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705673",
+        "event.id": "401705673",
         "event.date": "2025-04-03T00:00Z",
         "event.name": "UTAH @ HOU",
         "team.id": "10",
@@ -3421,7 +3421,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705673",
+        "event.id": "401705673",
         "event.date": "2025-04-03T00:00Z",
         "event.name": "UTAH @ HOU",
         "team.id": "26",
@@ -3432,29 +3432,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705674",
-        "event.date": "2025-04-03T00:00Z",
-        "event.name": "DET @ OKC",
-        "team.id": "25",
-        "team.name": "Oklahoma City Thunder",
-        "team.abbreviation": "OKC",
-        "competitors.score": "0",
-        "status.clock": "0.0",
-        "status.period": 0
-    },
-    {
-        "game.id": "401705674",
-        "event.date": "2025-04-03T00:00Z",
-        "event.name": "DET @ OKC",
-        "team.id": "8",
-        "team.name": "Detroit Pistons",
-        "team.abbreviation": "DET",
-        "competitors.score": "0",
-        "status.clock": "0.0",
-        "status.period": 0
-    },
-    {
-        "game.id": "401705675",
+        "event.id": "401705675",
         "event.date": "2025-04-03T00:30Z",
         "event.name": "ATL @ DAL",
         "team.id": "6",
@@ -3465,7 +3443,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705675",
+        "event.id": "401705675",
         "event.date": "2025-04-03T00:30Z",
         "event.name": "ATL @ DAL",
         "team.id": "1",
@@ -3476,7 +3454,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705676",
+        "event.id": "401705676",
         "event.date": "2025-04-03T01:00Z",
         "event.name": "SA @ DEN",
         "team.id": "7",
@@ -3487,7 +3465,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705676",
+        "event.id": "401705676",
         "event.date": "2025-04-03T01:00Z",
         "event.name": "SA @ DEN",
         "team.id": "24",
@@ -3498,8 +3476,30 @@
         "status.period": 0
     },
     {
-        "game.id": "401705677",
-        "event.date": "2025-04-03T02:00Z",
+        "event.id": "401705674",
+        "event.date": "2025-04-03T01:30Z",
+        "event.name": "DET @ OKC",
+        "team.id": "25",
+        "team.name": "Oklahoma City Thunder",
+        "team.abbreviation": "OKC",
+        "competitors.score": "0",
+        "status.clock": "0.0",
+        "status.period": 0
+    },
+    {
+        "event.id": "401705674",
+        "event.date": "2025-04-03T01:30Z",
+        "event.name": "DET @ OKC",
+        "team.id": "8",
+        "team.name": "Detroit Pistons",
+        "team.abbreviation": "DET",
+        "competitors.score": "0",
+        "status.clock": "0.0",
+        "status.period": 0
+    },
+    {
+        "event.id": "401705677",
+        "event.date": "2025-04-03T02:30Z",
         "event.name": "NO @ LAC",
         "team.id": "12",
         "team.name": "LA Clippers",
@@ -3509,8 +3509,8 @@
         "status.period": 0
     },
     {
-        "game.id": "401705677",
-        "event.date": "2025-04-03T02:00Z",
+        "event.id": "401705677",
+        "event.date": "2025-04-03T02:30Z",
         "event.name": "NO @ LAC",
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
@@ -3520,7 +3520,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705678",
+        "event.id": "401705678",
         "event.date": "2025-04-03T23:00Z",
         "event.name": "ORL @ WSH",
         "team.id": "27",
@@ -3531,7 +3531,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705678",
+        "event.id": "401705678",
         "event.date": "2025-04-03T23:00Z",
         "event.name": "ORL @ WSH",
         "team.id": "19",
@@ -3542,7 +3542,29 @@
         "status.period": 0
     },
     {
-        "game.id": "401705679",
+        "event.id": "401705681",
+        "event.date": "2025-04-03T23:00Z",
+        "event.name": "MIL @ PHI",
+        "team.id": "20",
+        "team.name": "Philadelphia 76ers",
+        "team.abbreviation": "PHI",
+        "competitors.score": "0",
+        "status.clock": "0.0",
+        "status.period": 0
+    },
+    {
+        "event.id": "401705681",
+        "event.date": "2025-04-03T23:00Z",
+        "event.name": "MIL @ PHI",
+        "team.id": "15",
+        "team.name": "Milwaukee Bucks",
+        "team.abbreviation": "MIL",
+        "competitors.score": "0",
+        "status.clock": "0.0",
+        "status.period": 0
+    },
+    {
+        "event.id": "401705679",
         "event.date": "2025-04-03T23:30Z",
         "event.name": "MIN @ BKN",
         "team.id": "17",
@@ -3553,7 +3575,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705679",
+        "event.id": "401705679",
         "event.date": "2025-04-03T23:30Z",
         "event.name": "MIN @ BKN",
         "team.id": "16",
@@ -3564,7 +3586,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705680",
+        "event.id": "401705680",
         "event.date": "2025-04-03T23:30Z",
         "event.name": "MEM @ MIA",
         "team.id": "14",
@@ -3575,7 +3597,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705680",
+        "event.id": "401705680",
         "event.date": "2025-04-03T23:30Z",
         "event.name": "MEM @ MIA",
         "team.id": "29",
@@ -3586,29 +3608,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705681",
-        "event.date": "2025-04-03T23:30Z",
-        "event.name": "MIL @ PHI",
-        "team.id": "20",
-        "team.name": "Philadelphia 76ers",
-        "team.abbreviation": "PHI",
-        "competitors.score": "0",
-        "status.clock": "0.0",
-        "status.period": 0
-    },
-    {
-        "game.id": "401705681",
-        "event.date": "2025-04-03T23:30Z",
-        "event.name": "MIL @ PHI",
-        "team.id": "15",
-        "team.name": "Milwaukee Bucks",
-        "team.abbreviation": "MIL",
-        "competitors.score": "0",
-        "status.clock": "0.0",
-        "status.period": 0
-    },
-    {
-        "game.id": "401705682",
+        "event.id": "401705682",
         "event.date": "2025-04-03T23:30Z",
         "event.name": "POR @ TOR",
         "team.id": "28",
@@ -3619,7 +3619,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705682",
+        "event.id": "401705682",
         "event.date": "2025-04-03T23:30Z",
         "event.name": "POR @ TOR",
         "team.id": "22",
@@ -3630,7 +3630,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705683",
+        "event.id": "401705683",
         "event.date": "2025-04-04T02:00Z",
         "event.name": "GS @ LAL",
         "team.id": "13",
@@ -3641,7 +3641,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705683",
+        "event.id": "401705683",
         "event.date": "2025-04-04T02:00Z",
         "event.name": "GS @ LAL",
         "team.id": "9",
@@ -3652,7 +3652,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705684",
+        "event.id": "401705684",
         "event.date": "2025-04-04T23:00Z",
         "event.name": "SAC @ CHA",
         "team.id": "30",
@@ -3663,7 +3663,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705684",
+        "event.id": "401705684",
         "event.date": "2025-04-04T23:00Z",
         "event.name": "SAC @ CHA",
         "team.id": "23",
@@ -3674,7 +3674,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705685",
+        "event.id": "401705685",
         "event.date": "2025-04-04T23:00Z",
         "event.name": "UTAH @ IND",
         "team.id": "11",
@@ -3685,7 +3685,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705685",
+        "event.id": "401705685",
         "event.date": "2025-04-04T23:00Z",
         "event.name": "UTAH @ IND",
         "team.id": "26",
@@ -3696,7 +3696,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705686",
+        "event.id": "401705686",
         "event.date": "2025-04-04T23:30Z",
         "event.name": "PHX @ BOS",
         "team.id": "2",
@@ -3707,7 +3707,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705686",
+        "event.id": "401705686",
         "event.date": "2025-04-04T23:30Z",
         "event.name": "PHX @ BOS",
         "team.id": "21",
@@ -3718,7 +3718,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705687",
+        "event.id": "401705687",
         "event.date": "2025-04-04T23:30Z",
         "event.name": "DET @ TOR",
         "team.id": "28",
@@ -3729,7 +3729,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705687",
+        "event.id": "401705687",
         "event.date": "2025-04-04T23:30Z",
         "event.name": "DET @ TOR",
         "team.id": "8",
@@ -3740,7 +3740,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705688",
+        "event.id": "401705688",
         "event.date": "2025-04-05T00:00Z",
         "event.name": "POR @ CHI",
         "team.id": "4",
@@ -3751,7 +3751,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705688",
+        "event.id": "401705688",
         "event.date": "2025-04-05T00:00Z",
         "event.name": "POR @ CHI",
         "team.id": "22",
@@ -3762,7 +3762,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705689",
+        "event.id": "401705689",
         "event.date": "2025-04-05T00:00Z",
         "event.name": "OKC @ HOU",
         "team.id": "10",
@@ -3773,7 +3773,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705689",
+        "event.id": "401705689",
         "event.date": "2025-04-05T00:00Z",
         "event.name": "OKC @ HOU",
         "team.id": "25",
@@ -3784,7 +3784,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705690",
+        "event.id": "401705690",
         "event.date": "2025-04-05T00:00Z",
         "event.name": "CLE @ SA",
         "team.id": "24",
@@ -3795,7 +3795,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705690",
+        "event.id": "401705690",
         "event.date": "2025-04-05T00:00Z",
         "event.name": "CLE @ SA",
         "team.id": "5",
@@ -3806,7 +3806,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705691",
+        "event.id": "401705691",
         "event.date": "2025-04-05T02:00Z",
         "event.name": "DEN @ GS",
         "team.id": "9",
@@ -3817,7 +3817,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705691",
+        "event.id": "401705691",
         "event.date": "2025-04-05T02:00Z",
         "event.name": "DEN @ GS",
         "team.id": "7",
@@ -3828,7 +3828,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705692",
+        "event.id": "401705692",
         "event.date": "2025-04-05T02:30Z",
         "event.name": "NO @ LAL",
         "team.id": "13",
@@ -3839,7 +3839,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705692",
+        "event.id": "401705692",
         "event.date": "2025-04-05T02:30Z",
         "event.name": "NO @ LAL",
         "team.id": "3",
@@ -3850,7 +3850,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705693",
+        "event.id": "401705693",
         "event.date": "2025-04-05T02:30Z",
         "event.name": "DAL @ LAC",
         "team.id": "12",
@@ -3861,7 +3861,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705693",
+        "event.id": "401705693",
         "event.date": "2025-04-05T02:30Z",
         "event.name": "DAL @ LAC",
         "team.id": "6",
@@ -3872,7 +3872,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705694",
+        "event.id": "401705694",
         "event.date": "2025-04-05T19:00Z",
         "event.name": "NY @ ATL",
         "team.id": "1",
@@ -3883,7 +3883,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705694",
+        "event.id": "401705694",
         "event.date": "2025-04-05T19:00Z",
         "event.name": "NY @ ATL",
         "team.id": "18",
@@ -3894,7 +3894,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705695",
+        "event.id": "401705695",
         "event.date": "2025-04-05T23:00Z",
         "event.name": "MEM @ DET",
         "team.id": "8",
@@ -3905,7 +3905,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705695",
+        "event.id": "401705695",
         "event.date": "2025-04-05T23:00Z",
         "event.name": "MEM @ DET",
         "team.id": "29",
@@ -3916,7 +3916,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705696",
+        "event.id": "401705696",
         "event.date": "2025-04-05T23:00Z",
         "event.name": "MIN @ PHI",
         "team.id": "20",
@@ -3927,7 +3927,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705696",
+        "event.id": "401705696",
         "event.date": "2025-04-05T23:00Z",
         "event.name": "MIN @ PHI",
         "team.id": "16",
@@ -3938,7 +3938,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705697",
+        "event.id": "401705697",
         "event.date": "2025-04-06T00:00Z",
         "event.name": "MIL @ MIA",
         "team.id": "14",
@@ -3949,7 +3949,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705697",
+        "event.id": "401705697",
         "event.date": "2025-04-06T00:00Z",
         "event.name": "MIL @ MIA",
         "team.id": "15",
@@ -3960,7 +3960,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705698",
+        "event.id": "401705698",
         "event.date": "2025-04-06T02:30Z",
         "event.name": "DAL @ LAC",
         "team.id": "12",
@@ -3971,7 +3971,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705698",
+        "event.id": "401705698",
         "event.date": "2025-04-06T02:30Z",
         "event.name": "DAL @ LAC",
         "team.id": "6",
@@ -3982,7 +3982,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705699",
+        "event.id": "401705699",
         "event.date": "2025-04-06T17:00Z",
         "event.name": "CHI @ CHA",
         "team.id": "30",
@@ -3993,7 +3993,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705699",
+        "event.id": "401705699",
         "event.date": "2025-04-06T17:00Z",
         "event.name": "CHI @ CHA",
         "team.id": "4",
@@ -4004,7 +4004,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705700",
+        "event.id": "401705700",
         "event.date": "2025-04-06T19:30Z",
         "event.name": "TOR @ BKN",
         "team.id": "17",
@@ -4015,7 +4015,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705700",
+        "event.id": "401705700",
         "event.date": "2025-04-06T19:30Z",
         "event.name": "TOR @ BKN",
         "team.id": "28",
@@ -4026,7 +4026,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705701",
+        "event.id": "401705701",
         "event.date": "2025-04-06T19:30Z",
         "event.name": "LAL @ OKC",
         "team.id": "25",
@@ -4037,7 +4037,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705701",
+        "event.id": "401705701",
         "event.date": "2025-04-06T19:30Z",
         "event.name": "LAL @ OKC",
         "team.id": "13",
@@ -4048,7 +4048,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705702",
+        "event.id": "401705702",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "UTAH @ ATL",
         "team.id": "1",
@@ -4059,7 +4059,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705702",
+        "event.id": "401705702",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "UTAH @ ATL",
         "team.id": "26",
@@ -4070,7 +4070,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705703",
+        "event.id": "401705703",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "WSH @ BOS",
         "team.id": "2",
@@ -4081,7 +4081,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705703",
+        "event.id": "401705703",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "WSH @ BOS",
         "team.id": "27",
@@ -4092,7 +4092,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705704",
+        "event.id": "401705704",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "SAC @ CLE",
         "team.id": "5",
@@ -4103,7 +4103,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705704",
+        "event.id": "401705704",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "SAC @ CLE",
         "team.id": "23",
@@ -4114,7 +4114,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705705",
+        "event.id": "401705705",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "SA @ POR",
         "team.id": "22",
@@ -4125,7 +4125,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705705",
+        "event.id": "401705705",
         "event.date": "2025-04-06T22:00Z",
         "event.name": "SA @ POR",
         "team.id": "24",
@@ -4136,7 +4136,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705706",
+        "event.id": "401705706",
         "event.date": "2025-04-06T23:00Z",
         "event.name": "PHX @ NY",
         "team.id": "18",
@@ -4147,7 +4147,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705706",
+        "event.id": "401705706",
         "event.date": "2025-04-06T23:00Z",
         "event.name": "PHX @ NY",
         "team.id": "21",
@@ -4158,7 +4158,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705708",
+        "event.id": "401705708",
         "event.date": "2025-04-07T00:00Z",
         "event.name": "IND @ DEN",
         "team.id": "7",
@@ -4169,7 +4169,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705708",
+        "event.id": "401705708",
         "event.date": "2025-04-07T00:00Z",
         "event.name": "IND @ DEN",
         "team.id": "11",
@@ -4180,7 +4180,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705709",
+        "event.id": "401705709",
         "event.date": "2025-04-07T00:30Z",
         "event.name": "HOU @ GS",
         "team.id": "9",
@@ -4191,7 +4191,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705709",
+        "event.id": "401705709",
         "event.date": "2025-04-07T00:30Z",
         "event.name": "HOU @ GS",
         "team.id": "10",
@@ -4202,7 +4202,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401754706",
+        "event.id": "401754706",
         "event.date": "2025-04-07T00:30Z",
         "event.name": "MIL @ NO",
         "team.id": "3",
@@ -4213,7 +4213,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401754706",
+        "event.id": "401754706",
         "event.date": "2025-04-07T00:30Z",
         "event.name": "MIL @ NO",
         "team.id": "15",
@@ -4224,7 +4224,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705710",
+        "event.id": "401705710",
         "event.date": "2025-04-07T23:00Z",
         "event.name": "SAC @ DET",
         "team.id": "8",
@@ -4235,7 +4235,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705710",
+        "event.id": "401705710",
         "event.date": "2025-04-07T23:00Z",
         "event.name": "SAC @ DET",
         "team.id": "23",
@@ -4246,7 +4246,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705711",
+        "event.id": "401705711",
         "event.date": "2025-04-07T23:30Z",
         "event.name": "PHI @ MIA",
         "team.id": "14",
@@ -4257,7 +4257,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705711",
+        "event.id": "401705711",
         "event.date": "2025-04-07T23:30Z",
         "event.name": "PHI @ MIA",
         "team.id": "20",
@@ -4268,7 +4268,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705712",
+        "event.id": "401705712",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "MEM @ CHA",
         "team.id": "30",
@@ -4279,7 +4279,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705712",
+        "event.id": "401705712",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "MEM @ CHA",
         "team.id": "29",
@@ -4290,7 +4290,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705713",
+        "event.id": "401705713",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "CHI @ CLE",
         "team.id": "5",
@@ -4301,7 +4301,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705713",
+        "event.id": "401705713",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "CHI @ CLE",
         "team.id": "4",
@@ -4312,7 +4312,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705714",
+        "event.id": "401705714",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "WSH @ IND",
         "team.id": "11",
@@ -4323,7 +4323,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705714",
+        "event.id": "401705714",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "WSH @ IND",
         "team.id": "27",
@@ -4334,7 +4334,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705715",
+        "event.id": "401705715",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "ATL @ ORL",
         "team.id": "19",
@@ -4345,7 +4345,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705715",
+        "event.id": "401705715",
         "event.date": "2025-04-08T23:00Z",
         "event.name": "ATL @ ORL",
         "team.id": "1",
@@ -4356,7 +4356,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705716",
+        "event.id": "401705716",
         "event.date": "2025-04-08T23:30Z",
         "event.name": "NO @ BKN",
         "team.id": "17",
@@ -4367,7 +4367,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705716",
+        "event.id": "401705716",
         "event.date": "2025-04-08T23:30Z",
         "event.name": "NO @ BKN",
         "team.id": "3",
@@ -4378,7 +4378,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705717",
+        "event.id": "401705717",
         "event.date": "2025-04-08T23:30Z",
         "event.name": "BOS @ NY",
         "team.id": "18",
@@ -4389,7 +4389,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705717",
+        "event.id": "401705717",
         "event.date": "2025-04-08T23:30Z",
         "event.name": "BOS @ NY",
         "team.id": "2",
@@ -4400,7 +4400,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705718",
+        "event.id": "401705718",
         "event.date": "2025-04-09T00:00Z",
         "event.name": "MIN @ MIL",
         "team.id": "15",
@@ -4411,7 +4411,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705718",
+        "event.id": "401705718",
         "event.date": "2025-04-09T00:00Z",
         "event.name": "MIN @ MIL",
         "team.id": "16",
@@ -4422,7 +4422,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705719",
+        "event.id": "401705719",
         "event.date": "2025-04-09T00:00Z",
         "event.name": "LAL @ OKC",
         "team.id": "25",
@@ -4433,7 +4433,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705719",
+        "event.id": "401705719",
         "event.date": "2025-04-09T00:00Z",
         "event.name": "LAL @ OKC",
         "team.id": "13",
@@ -4444,7 +4444,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705720",
+        "event.id": "401705720",
         "event.date": "2025-04-09T02:00Z",
         "event.name": "GS @ PHX",
         "team.id": "21",
@@ -4455,7 +4455,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705720",
+        "event.id": "401705720",
         "event.date": "2025-04-09T02:00Z",
         "event.name": "GS @ PHX",
         "team.id": "9",
@@ -4466,7 +4466,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705721",
+        "event.id": "401705721",
         "event.date": "2025-04-09T02:30Z",
         "event.name": "SA @ LAC",
         "team.id": "12",
@@ -4477,7 +4477,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705721",
+        "event.id": "401705721",
         "event.date": "2025-04-09T02:30Z",
         "event.name": "SA @ LAC",
         "team.id": "24",
@@ -4488,7 +4488,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705722",
+        "event.id": "401705722",
         "event.date": "2025-04-09T23:00Z",
         "event.name": "BOS @ ORL",
         "team.id": "19",
@@ -4499,7 +4499,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705722",
+        "event.id": "401705722",
         "event.date": "2025-04-09T23:00Z",
         "event.name": "BOS @ ORL",
         "team.id": "2",
@@ -4510,7 +4510,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705723",
+        "event.id": "401705723",
         "event.date": "2025-04-09T23:00Z",
         "event.name": "PHI @ WSH",
         "team.id": "27",
@@ -4521,7 +4521,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705723",
+        "event.id": "401705723",
         "event.date": "2025-04-09T23:00Z",
         "event.name": "PHI @ WSH",
         "team.id": "20",
@@ -4532,7 +4532,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705724",
+        "event.id": "401705724",
         "event.date": "2025-04-09T23:30Z",
         "event.name": "CHA @ TOR",
         "team.id": "28",
@@ -4543,7 +4543,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705724",
+        "event.id": "401705724",
         "event.date": "2025-04-09T23:30Z",
         "event.name": "CHA @ TOR",
         "team.id": "30",
@@ -4554,7 +4554,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705725",
+        "event.id": "401705725",
         "event.date": "2025-04-09T23:30Z",
         "event.name": "LAL @ DAL",
         "team.id": "6",
@@ -4565,7 +4565,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705725",
+        "event.id": "401705725",
         "event.date": "2025-04-09T23:30Z",
         "event.name": "LAL @ DAL",
         "team.id": "13",
@@ -4576,7 +4576,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705726",
+        "event.id": "401705726",
         "event.date": "2025-04-10T00:00Z",
         "event.name": "MIA @ CHI",
         "team.id": "4",
@@ -4587,7 +4587,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705726",
+        "event.id": "401705726",
         "event.date": "2025-04-10T00:00Z",
         "event.name": "MIA @ CHI",
         "team.id": "14",
@@ -4598,7 +4598,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705728",
+        "event.id": "401705728",
         "event.date": "2025-04-10T01:00Z",
         "event.name": "POR @ UTAH",
         "team.id": "26",
@@ -4609,7 +4609,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705728",
+        "event.id": "401705728",
         "event.date": "2025-04-10T01:00Z",
         "event.name": "POR @ UTAH",
         "team.id": "22",
@@ -4620,7 +4620,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705729",
+        "event.id": "401705729",
         "event.date": "2025-04-10T02:00Z",
         "event.name": "SA @ GS",
         "team.id": "9",
@@ -4631,7 +4631,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705729",
+        "event.id": "401705729",
         "event.date": "2025-04-10T02:00Z",
         "event.name": "SA @ GS",
         "team.id": "24",
@@ -4642,7 +4642,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705730",
+        "event.id": "401705730",
         "event.date": "2025-04-10T02:00Z",
         "event.name": "OKC @ PHX",
         "team.id": "21",
@@ -4653,7 +4653,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705730",
+        "event.id": "401705730",
         "event.date": "2025-04-10T02:00Z",
         "event.name": "OKC @ PHX",
         "team.id": "25",
@@ -4664,7 +4664,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705731",
+        "event.id": "401705731",
         "event.date": "2025-04-10T02:00Z",
         "event.name": "DEN @ SAC",
         "team.id": "23",
@@ -4675,7 +4675,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705731",
+        "event.id": "401705731",
         "event.date": "2025-04-10T02:00Z",
         "event.name": "DEN @ SAC",
         "team.id": "7",
@@ -4686,7 +4686,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705732",
+        "event.id": "401705732",
         "event.date": "2025-04-10T02:30Z",
         "event.name": "HOU @ LAC",
         "team.id": "12",
@@ -4697,7 +4697,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705732",
+        "event.id": "401705732",
         "event.date": "2025-04-10T02:30Z",
         "event.name": "HOU @ LAC",
         "team.id": "10",
@@ -4708,7 +4708,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705733",
+        "event.id": "401705733",
         "event.date": "2025-04-10T23:00Z",
         "event.name": "NY @ DET",
         "team.id": "8",
@@ -4719,7 +4719,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705733",
+        "event.id": "401705733",
         "event.date": "2025-04-10T23:00Z",
         "event.name": "NY @ DET",
         "team.id": "18",
@@ -4730,7 +4730,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705734",
+        "event.id": "401705734",
         "event.date": "2025-04-10T23:00Z",
         "event.name": "CLE @ IND",
         "team.id": "11",
@@ -4741,7 +4741,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705734",
+        "event.id": "401705734",
         "event.date": "2025-04-10T23:00Z",
         "event.name": "CLE @ IND",
         "team.id": "5",
@@ -4752,7 +4752,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705735",
+        "event.id": "401705735",
         "event.date": "2025-04-10T23:30Z",
         "event.name": "ATL @ BKN",
         "team.id": "17",
@@ -4763,7 +4763,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705735",
+        "event.id": "401705735",
         "event.date": "2025-04-10T23:30Z",
         "event.name": "ATL @ BKN",
         "team.id": "1",
@@ -4774,7 +4774,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705727",
+        "event.id": "401705727",
         "event.date": "2025-04-11T00:00Z",
         "event.name": "NO @ MIL",
         "team.id": "15",
@@ -4785,7 +4785,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705727",
+        "event.id": "401705727",
         "event.date": "2025-04-11T00:00Z",
         "event.name": "NO @ MIL",
         "team.id": "3",
@@ -4796,7 +4796,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705736",
+        "event.id": "401705736",
         "event.date": "2025-04-11T01:30Z",
         "event.name": "MIN @ MEM",
         "team.id": "29",
@@ -4807,7 +4807,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705736",
+        "event.id": "401705736",
         "event.date": "2025-04-11T01:30Z",
         "event.name": "MIN @ MEM",
         "team.id": "16",
@@ -4818,7 +4818,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705737",
+        "event.id": "401705737",
         "event.date": "2025-04-11T23:00Z",
         "event.name": "MIL @ DET",
         "team.id": "8",
@@ -4829,7 +4829,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705737",
+        "event.id": "401705737",
         "event.date": "2025-04-11T23:00Z",
         "event.name": "MIL @ DET",
         "team.id": "15",
@@ -4840,7 +4840,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705738",
+        "event.id": "401705738",
         "event.date": "2025-04-11T23:00Z",
         "event.name": "ORL @ IND",
         "team.id": "11",
@@ -4851,7 +4851,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705738",
+        "event.id": "401705738",
         "event.date": "2025-04-11T23:00Z",
         "event.name": "ORL @ IND",
         "team.id": "19",
@@ -4862,7 +4862,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705739",
+        "event.id": "401705739",
         "event.date": "2025-04-11T23:00Z",
         "event.name": "ATL @ PHI",
         "team.id": "20",
@@ -4873,7 +4873,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705739",
+        "event.id": "401705739",
         "event.date": "2025-04-11T23:00Z",
         "event.name": "ATL @ PHI",
         "team.id": "1",
@@ -4884,7 +4884,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705740",
+        "event.id": "401705740",
         "event.date": "2025-04-11T23:30Z",
         "event.name": "CHA @ BOS",
         "team.id": "2",
@@ -4895,7 +4895,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705740",
+        "event.id": "401705740",
         "event.date": "2025-04-11T23:30Z",
         "event.name": "CHA @ BOS",
         "team.id": "30",
@@ -4906,7 +4906,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705741",
+        "event.id": "401705741",
         "event.date": "2025-04-11T23:30Z",
         "event.name": "CLE @ NY",
         "team.id": "18",
@@ -4917,7 +4917,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705741",
+        "event.id": "401705741",
         "event.date": "2025-04-11T23:30Z",
         "event.name": "CLE @ NY",
         "team.id": "5",
@@ -4928,7 +4928,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705742",
+        "event.id": "401705742",
         "event.date": "2025-04-12T00:00Z",
         "event.name": "WSH @ CHI",
         "team.id": "4",
@@ -4939,7 +4939,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705742",
+        "event.id": "401705742",
         "event.date": "2025-04-12T00:00Z",
         "event.name": "WSH @ CHI",
         "team.id": "27",
@@ -4950,7 +4950,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705743",
+        "event.id": "401705743",
         "event.date": "2025-04-12T00:00Z",
         "event.name": "MIA @ NO",
         "team.id": "3",
@@ -4961,7 +4961,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705743",
+        "event.id": "401705743",
         "event.date": "2025-04-12T00:00Z",
         "event.name": "MIA @ NO",
         "team.id": "14",
@@ -4972,7 +4972,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705744",
+        "event.id": "401705744",
         "event.date": "2025-04-12T00:30Z",
         "event.name": "TOR @ DAL",
         "team.id": "6",
@@ -4983,7 +4983,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705744",
+        "event.id": "401705744",
         "event.date": "2025-04-12T00:30Z",
         "event.name": "TOR @ DAL",
         "team.id": "28",
@@ -4994,7 +4994,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705745",
+        "event.id": "401705745",
         "event.date": "2025-04-12T01:00Z",
         "event.name": "BKN @ MIN",
         "team.id": "16",
@@ -5005,7 +5005,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705745",
+        "event.id": "401705745",
         "event.date": "2025-04-12T01:00Z",
         "event.name": "BKN @ MIN",
         "team.id": "17",
@@ -5016,7 +5016,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705746",
+        "event.id": "401705746",
         "event.date": "2025-04-12T01:00Z",
         "event.name": "MEM @ DEN",
         "team.id": "7",
@@ -5027,7 +5027,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705746",
+        "event.id": "401705746",
         "event.date": "2025-04-12T01:00Z",
         "event.name": "MEM @ DEN",
         "team.id": "29",
@@ -5038,7 +5038,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705747",
+        "event.id": "401705747",
         "event.date": "2025-04-12T01:30Z",
         "event.name": "OKC @ UTAH",
         "team.id": "26",
@@ -5049,7 +5049,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705747",
+        "event.id": "401705747",
         "event.date": "2025-04-12T01:30Z",
         "event.name": "OKC @ UTAH",
         "team.id": "25",
@@ -5060,7 +5060,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705748",
+        "event.id": "401705748",
         "event.date": "2025-04-12T02:00Z",
         "event.name": "SA @ PHX",
         "team.id": "21",
@@ -5071,7 +5071,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705748",
+        "event.id": "401705748",
         "event.date": "2025-04-12T02:00Z",
         "event.name": "SA @ PHX",
         "team.id": "24",
@@ -5082,7 +5082,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705749",
+        "event.id": "401705749",
         "event.date": "2025-04-12T02:00Z",
         "event.name": "GS @ POR",
         "team.id": "22",
@@ -5093,7 +5093,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705749",
+        "event.id": "401705749",
         "event.date": "2025-04-12T02:00Z",
         "event.name": "GS @ POR",
         "team.id": "9",
@@ -5104,7 +5104,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705750",
+        "event.id": "401705750",
         "event.date": "2025-04-12T02:00Z",
         "event.name": "LAC @ SAC",
         "team.id": "23",
@@ -5115,7 +5115,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705750",
+        "event.id": "401705750",
         "event.date": "2025-04-12T02:00Z",
         "event.name": "LAC @ SAC",
         "team.id": "12",
@@ -5126,7 +5126,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705751",
+        "event.id": "401705751",
         "event.date": "2025-04-12T02:30Z",
         "event.name": "HOU @ LAL",
         "team.id": "13",
@@ -5137,7 +5137,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705751",
+        "event.id": "401705751",
         "event.date": "2025-04-12T02:30Z",
         "event.name": "HOU @ LAL",
         "team.id": "10",
@@ -5148,7 +5148,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705752",
+        "event.id": "401705752",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "ORL @ ATL",
         "team.id": "1",
@@ -5159,7 +5159,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705752",
+        "event.id": "401705752",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "ORL @ ATL",
         "team.id": "19",
@@ -5170,7 +5170,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705753",
+        "event.id": "401705753",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "CHA @ BOS",
         "team.id": "2",
@@ -5181,7 +5181,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705753",
+        "event.id": "401705753",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "CHA @ BOS",
         "team.id": "30",
@@ -5192,7 +5192,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705754",
+        "event.id": "401705754",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "NY @ BKN",
         "team.id": "17",
@@ -5203,7 +5203,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705754",
+        "event.id": "401705754",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "NY @ BKN",
         "team.id": "18",
@@ -5214,7 +5214,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705755",
+        "event.id": "401705755",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "IND @ CLE",
         "team.id": "5",
@@ -5225,7 +5225,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705755",
+        "event.id": "401705755",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "IND @ CLE",
         "team.id": "11",
@@ -5236,7 +5236,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705756",
+        "event.id": "401705756",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "WSH @ MIA",
         "team.id": "14",
@@ -5247,7 +5247,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705756",
+        "event.id": "401705756",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "WSH @ MIA",
         "team.id": "27",
@@ -5258,7 +5258,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705757",
+        "event.id": "401705757",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "CHI @ PHI",
         "team.id": "20",
@@ -5269,7 +5269,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705757",
+        "event.id": "401705757",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "CHI @ PHI",
         "team.id": "4",
@@ -5280,7 +5280,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705758",
+        "event.id": "401705758",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "DET @ MIL",
         "team.id": "15",
@@ -5291,7 +5291,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705758",
+        "event.id": "401705758",
         "event.date": "2025-04-13T17:00Z",
         "event.name": "DET @ MIL",
         "team.id": "8",
@@ -5302,7 +5302,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705759",
+        "event.id": "401705759",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "DEN @ HOU",
         "team.id": "10",
@@ -5313,7 +5313,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705759",
+        "event.id": "401705759",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "DEN @ HOU",
         "team.id": "7",
@@ -5324,7 +5324,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705760",
+        "event.id": "401705760",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "DAL @ MEM",
         "team.id": "29",
@@ -5335,7 +5335,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705760",
+        "event.id": "401705760",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "DAL @ MEM",
         "team.id": "6",
@@ -5346,7 +5346,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705761",
+        "event.id": "401705761",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "UTAH @ MIN",
         "team.id": "16",
@@ -5357,7 +5357,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705761",
+        "event.id": "401705761",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "UTAH @ MIN",
         "team.id": "26",
@@ -5368,7 +5368,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705762",
+        "event.id": "401705762",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "OKC @ NO",
         "team.id": "3",
@@ -5379,7 +5379,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705762",
+        "event.id": "401705762",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "OKC @ NO",
         "team.id": "25",
@@ -5390,7 +5390,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705763",
+        "event.id": "401705763",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "TOR @ SA",
         "team.id": "24",
@@ -5401,7 +5401,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705763",
+        "event.id": "401705763",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "TOR @ SA",
         "team.id": "28",
@@ -5412,7 +5412,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705764",
+        "event.id": "401705764",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "LAC @ GS",
         "team.id": "9",
@@ -5423,7 +5423,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705764",
+        "event.id": "401705764",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "LAC @ GS",
         "team.id": "12",
@@ -5434,7 +5434,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705765",
+        "event.id": "401705765",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "LAL @ POR",
         "team.id": "22",
@@ -5445,7 +5445,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705765",
+        "event.id": "401705765",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "LAL @ POR",
         "team.id": "13",
@@ -5456,7 +5456,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705766",
+        "event.id": "401705766",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "PHX @ SAC",
         "team.id": "23",
@@ -5467,7 +5467,7 @@
         "status.period": 0
     },
     {
-        "game.id": "401705766",
+        "event.id": "401705766",
         "event.date": "2025-04-13T19:30Z",
         "event.name": "PHX @ SAC",
         "team.id": "21",

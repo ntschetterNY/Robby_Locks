@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robby Lock or Rock - Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #1a237e;
+            --secondary-color: #3949ab;
+            --success-color: #22c55e;
+            --danger-color: #ef4444;
+            --light-color: #f8f9fa;
+            --dark-color: #212529;
+        }
+        
+        // Initialize performance chart
+        function initChart(sportName) {
+            const chartData = document.getElementById('chart-data-' + sportName);
+            if (!chartData) return;
+            
+            try {
+                // Parse the chart data
+                const dates = JSON.parse(chartData.dataset.dates || '[]');
+                const locks = JSON.parse(chartData.dataset.locks || '[]').map(n => typeof n === 'number' ? n : parseFloat(n) || 0);
+                const rocks = JSON.parse(chartData.dataset.rocks || '[]').map(n => typeof n === 'number' ? n : parseFloat(n) || 0);
+                const rates = JSON.parse(chartData.dataset.rates || '[]').map(n => typeof n === 'number' ? n : parseFloat(n) || 0);
+                
+                // Verify we have data
+                if (dates.length === 0 || (locks.length === 0 && rocks.length === 0 && rates.length === 0)) {
+                    throw new Error('No chart data available');
+                }
+                
+                const chartTypeToggle = document.getElementById('chartTypeToggle');
+                const showRate = chartTypeToggle?.checked || false;
+                
+                // Chart options
+                const options = {
+                    series: showRate 
+                        ? [{ 
+                            name: 'Success Rate (%)', 
+                            data: rates, 
+                            type: 'line',
+                            color: '#1a237e'
+                          }]
+                        : [
+                            { name: 'Locks', data: locks, type: 'column', color: '#22c55e' },
+                            { name: 'Rocks', data: rocks, type: 'column', color: '#ef4444' }
+                        ],
+                    chart: {
+                        height: 300,
+                        type: showRate ? 'line' : 'bar',
+                        stacked: !showRate,
+                        toolbar: {
+                            show: true,
+                            tools: {
+                                download: true,
+                                selection: true,
+                                zoom: true,
+                                zoomin: true,
+                                zoomout: true,
+                                pan: true,
+                                reset: true
+                            }
+                        },
+                        animations: {
+                            enabled: true,
+                            easing: 'easeinout',
+                            speed: 800,
+                            animateGradually: {
+                                enabled: true,
+                                delay: 150
+                            },
+                            dynamicAnimation: {
+                                enabled: true,
+                                speed: 350
+                            }
+                        }
+                    },
+                    plotOptions: {
+                        bar: {
+                            horizontal: false,
+                            columnWidth: '55%',
+                            borderRadius: 4
+                        },
+                    },
+                    dataLabels: {
+                        enabled: false
+                    },
+                    stroke: {
+                        width: showRate ? 3 : [0, 0],
+                        curve: 'smooth'
+                    },
+                    xaxis: {
+                        categories: dates,
+                        labels: {
+                            rotate: -45,
+                            style: {
+                                fontSize: '11px'
+                            }
+                        },
+                        axisBorder: {
+                            show: true
+                        },
+                        axisTicks: {
+                            show: true
+                        }
+                    },
+                    yaxis: {
+                        min: 0,
+                        max: showRate ? 100 : undefined,
+                        labels: {
+                            formatter: function(val) {
+                                return showRate ? val + '%' : Math.round(val);
+                            }
+                        }
+                    },
+                    colors: showRate ? ['#1a237e'] : ['#22c55e', '#ef4444'],
+                    legend: {
+                        position: 'top',
+                        horizontalAlign: 'right',
+                        onItemClick: {
+                            toggleDataSeries: true
+                        }
+                    },
+                    fill: {
+                        opacity: 1
+                    },
+                    grid: {
+                        borderColor: '#e0e0e0',
+                        row: {
+                            colors: ['#f5f5f5', 'transparent']
+                        }
+                    },
+                    tooltip: {
+                        y: {
+                            formatter: function(val) {
+                                return showRate ? val + '%' : Math.round(val);
+                            }
+                        }
+                    }
+                };
+                
+                chart = new ApexCharts(document.getElementById('performance-chart'), options);
+                chart.render();
+                
+                // Handle toggle change
+                if (chartTypeToggle) {
+                    chartTypeToggle.addEventListener('change', function() {
+                        const showRateToggled = this.checked;
+                        
+                        if (showRateToggled) {
+                            chart.updateOptions({
+                                series: [{ name: 'Success Rate (%)', data: rates, type: 'line' }],
+                                colors: ['#1a237e'],
+                                stroke: { width: 3, curve: 'smooth' },
+                                chart: { type: 'line', stacked: false },
+                                yaxis: {
+                                    max: 100,
+                                    labels: {
+                                        formatter: function(val) {
+                                            return val + '%';
+                                        }
+                                    }
+                                },
+                                tooltip: {
+                                    y: {
+                                        formatter: function(val) {
+                                            return val + '%';
+                                        }
+                                    }
+                                }
+                            });
+        
+        // Handle sport change from results panel
+        document.querySelectorAll('.change-sport-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const sportToShow = this.dataset.sport;
+                if (sportToShow === 'all') {
+                    // Show all sports results
+                    document.querySelectorAll('.sport-results').forEach(results => {
+                        results.style.display = 'block';
+                    });
+                    
+                    // Update button and title
+                    document.getElementById('view-all-results').textContent = 'Show ' + currentSport;
+                    document.getElementById('results-sport-title').textContent = 'All Sports Results';
+                } else {
+                    // Change to the specific sport
+                    changeSport(sportToShow);
+                }
+            });
+        });
+        
+        // Animate stats on scroll
+        function animateStats() {
+            const stats = document.querySelectorAll('.stats-card');
+            stats.forEach(stat => {
+                if (isElementInViewport(stat) && !stat.classList.contains('animate')) {
+                    stat.classList.add('animate');
+                    setTimeout(() => {
+                        const number = stat.querySelector('.stat-number');
+                        if (number) number.classList.add('animate');
+                    }, 300);
+                }
+            });
+        }
+        
+        // Helper function to check if element is in viewport
+        function isElementInViewport(el) {
+            const rect = el.getBoundingClientRect();
+            return (
+                rect.top >= 0 &&
+                rect.left >= 0 &&
+                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+            );
+        }
+        
+        // Add event listeners for animations
+        window.addEventListener('scroll', animateStats);
+        window.addEventListener('resize', animateStats);
+    </script>
+</body>
+</html>
+                        } else {
+                            chart.updateOptions({
+                                series: [
+                                    { name: 'Locks', data: locks, type: 'column', color: '#22c55e' },
+                                    { name: 'Rocks', data: rocks, type: 'column', color: '#ef4444' }
+                                ],
+                                colors: ['#22c55e', '#ef4444'],
+                                stroke: { width: [0, 0] },
+                                chart: { type: 'bar', stacked: true },
+                                yaxis: {
+                                    max: undefined,
+                                    labels: {
+                                        formatter: function(val) {
+                                            return Math.round(val);
+                                        }
+                                    }
+                                },
+                                tooltip: {
+                                    y: {
+                                        formatter: function(val) {
+                                            return Math.round(val);
+                                        }
+                                    }
+                                }
+                            });
+                        }
+                    });
+                }
+            } catch (error) {
+                console.error('Error initializing chart:', error);
+                const chartEl = document.getElementById('performance-chart');
+                if (chartEl) {
+                    chartEl.innerHTML = `
+                        <div class="chart-error">
+                            <i class="fas fa-exclamation-triangle me-2"></i>
+                            Error displaying chart: ${error.message || 'Missing or invalid chart data'}
+                        </div>
+                        <div class="text-center mt-4">
+                            <button id="retry-chart" class="btn btn-sm btn-primary">
+                                <i class="fas fa-sync-alt me-1"></i> Retry Loading Chart
+                            </button>
+                        </div>
+                    `;
+                    
+                    // Add retry button functionality
+                    const retryBtn = document.getElementById('retry-chart');
+                    if (retryBtn) {
+                        retryBtn.addEventListener('click', function() {
+                            initChart(currentSport);
+                        });
+                    }
+                }
+            }
+        }
+        
+        // Update chart for a different sport
+        function updateChart(sportName) {
+            const chartData = document.getElementById('chart-data-' + sportName);
+            if (!chartData || !chart) return;
+            
+            try {
+                // Parse the chart data
+                const dates = JSON.parse(chartData.dataset.dates || '[]');
+                const locks = JSON.parse(chartData.dataset.locks || '[]').map(n => typeof n === 'number' ? n : parseFloat(n) || 0);
+                const rocks = JSON.parse(chartData.dataset.rocks || '[]').map(n => typeof n === 'number' ? n : parseFloat(n) || 0);
+                const rates = JSON.parse(chartData.dataset.rates || '[]').map(n => typeof n === 'number' ? n : parseFloat(n) || 0);
+                
+                // Verify we have data
+                if (dates.length === 0) {
+                    throw new Error('No chart data available for ' + sportName);
+                }
+                
+                const chartTypeToggle = document.getElementById('chartTypeToggle');
+                const showRate = chartTypeToggle?.checked || false;
+                
+                // Update chart with new data
+                chart.updateOptions({
+                    series: showRate 
+                        ? [{ 
+                            name: 'Success Rate (%)', 
+                            data: rates
+                          }]
+                        : [
+                            { name: 'Locks', data: locks },
+                            { name: 'Rocks', data: rocks }
+                        ],
+                    xaxis: {
+                        categories: dates
+                    }
+                });
+            } catch (error) {
+                console.error('Error updating chart:', error);
+                // Handle error gracefully
+            }
+        }
+        
+        // Make team cards selectable
+        document.addEventListener('click', function(e) {
+            const teamCard = e.target.closest('.team-card');
+            if (teamCard && !teamCard.closest('.game-card').querySelector('.past-pill')) {
+                // Find the game card container
+                const gameCard = teamCard.closest('.game-card');
+                
+                // Remove selected class from any team card in this game
+                gameCard.querySelectorAll('.team-card').forEach(card => {
+                    card.classList.remove('selected');
+                });
+                
+                // Add selected class to the clicked team card
+                teamCard.classList.add('selected');
+                
+                // Show a temporary success message
+                const alertHTML = `
+                    <div class="text-center mt-2 team-selection-alert">
+                        <div class="alert alert-success py-1 px-2 mb-0 small">
+                            <i class="fas fa-check-circle me-1"></i>Pick saved!
+                        </div>
+                    </div>
+                `;
+                
+                // Remove any existing alerts
+                gameCard.querySelectorAll('.team-selection-alert').forEach(alert => {
+                    alert.remove();
+                });
+                
+                // Add the new alert
+                const cardBody = gameCard.querySelector('.card-body');
+                cardBody.insertAdjacentHTML('beforeend', alertHTML);
+                
+                // Remove the alert after 2 seconds
+                setTimeout(() => {
+                    const alerts = gameCard.querySelectorAll('.team-selection-alert');
+                    alerts.forEach(alert => {
+                        alert.remove();
+                    });
+                }, 2000);
+            }
+        });
+        
+        // Handle "View All" button for results
+        document.getElementById('view-all-results').addEventListener('click', function() {
+            // Toggle between showing all sports results and current sport results
+            const currentResultsPanel = document.getElementById('results-' + currentSport);
+            
+            if (currentResultsPanel && currentResultsPanel.style.display !== 'none') {
+                // Currently viewing current sport, switch to "all"
+                this.textContent = 'Show ' + currentSport;
+                
+                // Show results for all sports
+                document.querySelectorAll('.sport-results').forEach(results => {
+                    results.style.display = 'block';
+                });
+                
+                // Update title
+                document.getElementById('results-sport-title').textContent = 'All Sports Results';
+            } else {
+                // Currently viewing all, switch back to current sport
+                this.textContent = 'View All';
+                
+                // Hide all then show current
+                document.querySelectorAll('.sport-results').forEach(results => {
+                    results.style.display = 'none';
+                });
+                
+                if (currentResultsPanel) {
+                    currentResultsPanel.style.display = 'block';
+                }
+                
+                // Update title
+                document.getElementById('results-sport-title').textContent = currentSport + ' Recent Results';
+            }
+        });
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        
+        /* Header - Reduced height */
+        .dashboard-header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 0.75rem 0;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1.5rem;
+            max-height: 120px; /* Reduced height */
+            width: 100%;
+            overflow: hidden;
+        }
+        
+        .dashboard-header .container {
+            width: 100%;
+            max-width: 1400px;
+        }
+        
+        .dashboard-title {
+            font-weight: 700;
+            margin-bottom: 0;
+            font-size: 1.5rem; /* Smaller title */
+        }
+        
+        /* Container sizing */
+        .container {
+            max-width: 1400px;
+            width: 100%;
+            padding: 0 1rem;
+        }
+        
+        /* Cards */
+        .card {
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+            border: none;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+        }
+        
+        .card-header {
+            background-color: white;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            font-weight: 600;
+            padding: 0.75rem 1rem; /* Reduced padding */
+        }
+        
+        .card-header h5 {
+            font-size: 1rem; /* Smaller header text */
+            margin: 0;
+        }
+        
+        /* Stats cards - More compact */
+        .stats-card {
+            padding: 1rem; /* Reduced padding */
+            text-align: center;
+            border-radius: 0.75rem;
+            background-color: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+        
+        .stat-number {
+            font-size: 2rem; /* Smaller stat number */
+            font-weight: 700;
+            display: block;
+            margin-bottom: 0.25rem; /* Reduced margin */
+            transition: all 0.5s ease;
+        }
+        
+        .stat-number.animate {
+            transform: scale(1.05);
+            color: var(--primary-color);
+        }
+        
+        .stats-card.animate {
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .stat-label {
+            font-size: 0.9rem; /* Smaller label */
+            font-weight: 600;
+            color: #6c757d;
+        }
+        
+        /* Sport badges */
+        .badge-nba {
+            background-color: #1d428a;
+            color: white;
+        }
+        
+        .badge-nhl {
+            background-color: #041e42;
+            color: white;
+        }
+        
+        .badge-mlb {
+            background-color: #bf0d3e;
+            color: white;
+        }
+        
+        .badge-marchmadness {
+            background-color: #ff8200;
+            color: white;
+        }
+        
+        /* Team cards */
+        .team-card {
+            background-color: #f8f9fa;
+            border-radius: 0.5rem;
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+        
+        .team-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .team-card.selected {
+            background-color: rgba(34, 197, 94, 0.1);
+            border: 2px solid var(--success-color);
+        }
+        
+        .team-abbr {
+            font-size: 1.5rem; /* Smaller team abbreviation */
+            color: var(--primary-color);
+        }
+        
+        /* Result badges */
+        .lock-badge {
+            background-color: var(--success-color);
+            color: white;
+            font-weight: 500;
+            padding: 0.4em 0.6em; /* Smaller padding */
+        }
+        
+        .rock-badge {
+            background-color: var(--danger-color);
+            color: white;
+            font-weight: 500;
+            padding: 0.4em 0.6em; /* Smaller padding */
+        }
+        
+        .vs-badge {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: 600;
+            padding: 0.2rem 0.5rem; /* Smaller padding */
+            border-radius: 1rem;
+        }
+        
+        /* Filters - More compact */
+        .filter-card {
+            border-radius: 0.75rem;
+            margin-bottom: 1rem; /* Reduced margin */
+        }
+        
+        .sport-filter {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.25rem; /* Reduced gap */
+        }
+        
+        .sport-btn {
+            padding: 0.4rem 0.75rem; /* Smaller padding */
+            border-radius: 2rem;
+            font-weight: 600;
+            transition: all 0.2s ease;
+            flex: 1;
+            text-align: center;
+            border: 2px solid transparent;
+            font-size: 0.85rem; /* Smaller font */
+        }
+        
+        .sport-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .sport-btn.active {
+            border-color: var(--primary-color);
+        }
+        
+        /* Upcoming/Past pills */
+        .upcoming-pill, .past-pill {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            padding: 0.2rem 0.5rem; /* Smaller padding */
+            border-radius: 1rem;
+            font-size: 0.7rem; /* Smaller font */
+            font-weight: 600;
+            z-index: 10;
+        }
+        
+        .upcoming-pill {
+            background-color: var(--success-color);
+            color: white;
+        }
+        
+        .past-pill {
+            background-color: #6c757d;
+            color: white;
+        }
+        
+        /* Game history table */
+        .result-table th {
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        
+        .result-table td {
+            vertical-align: middle;
+        }
+        
+        /* Performance chart */
+        .chart-container {
+            height: 300px; /* Reduced height */
+            position: relative;
+        }
+        
+        /* Chart error */
+        .chart-error {
+            padding: 0.75rem; /* Reduced padding */
+            background-color: #f8d7da;
+            color: #721c24;
+            border-radius: 0.5rem;
+            margin-bottom: 0.75rem; /* Reduced margin */
+        }
+
+        /* Recent results */
+        .result-item {
+            padding: 0.75rem; /* Reduced padding */
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        /* Results icon for last 5 */
+        .result-icon {
+            display: inline-flex;
+            width: 24px;
+            height: 24px;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            margin-right: 2px;
+        }
+        
+        .result-icon.win {
+            background-color: var(--success-color);
+            color: white;
+        }
+        
+        .result-icon.loss {
+            background-color: var(--danger-color); 
+            color: white;
+        }
+        
+        /* Score difference badge */
+        .score-diff {
+            font-size: 0.8rem;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.5rem;
+        }
+        
+        /* Footer - smaller */
+        footer {
+            padding: 1.5rem 0; /* Reduced padding */
+            margin-top: 2rem; /* Reduced margin */
+        }
+        
+        /* Game card - hover effect */
+        .game-card {
+            transition: all 0.3s ease;
+        }
+        
+        .game-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Progress tracker */
+        .progress {
+            height: 25px;
+            border-radius: 0.5rem;
+            margin-bottom: 0.5rem;
+            overflow: hidden;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .progress-bar {
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+            font-weight: 600;
+            font-size: 0.85rem;
+            transition: width 1s ease;
+        }
+        
+        /* Weekly stats summary */
+        .weekly-stats {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        /* Circular progress */
+        .circular-progress {
+            position: relative;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: conic-gradient(var(--success-color) var(--percentage), #f0f0f0 0);
+            margin: 0 auto 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .circular-progress::before {
+            content: "";
+            position: absolute;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: white;
+        }
+        
+        .progress-value {
+            position: relative;
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--dark-color);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .dashboard-header {
+                padding: 0.75rem 0;
+                max-height: none;
+            }
+            
+            .dashboard-title {
+                font-size: 1.25rem;
+            }
+            
+            .stats-card {
+                margin-bottom: 0.75rem;
+            }
+            
+            .sport-btn {
+                font-size: 0.8rem;
+            }
+            
+            .chart-container {
+                height: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header - Reduced size -->
+    <header class="dashboard-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h1 class="dashboard-title">Robby Lock or Rock Dashboard</h1>
+                    <p class="text-light mb-0 small">Last updated: {{ now.strftime('%b %d, %Y %I:%M %p') }}</p>
+                </div>
+                
+                <!-- Overall performance - Moved to header -->
+                <div class="col-md-6 text-md-end">
+                    <h2 class="display-5 fw-bold text-light mb-0">{{ stats.overall_success_rate }}%</h2>
+                    <p class="text-light">Overall Success Rate</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <div class="container">
+        <!-- Filters - More compact -->
+        <div class="row mb-3">
+            <div class="col-md-8">
+                <div class="card filter-card">
+                    <div class="card-body py-2">
+                        <form id="filter-form" class="mb-0">
+                            <div class="row g-2 align-items-center">
+                                <!-- Sport Filter -->
+                                <div class="col-md-6">
+                                    <label class="form-label fw-bold mb-1 small"><i class="fas fa-basketball-ball me-1"></i>Select Sport</label>
+                                    <div class="sport-filter">
+                                        <a href="javascript:void(0)" onclick="changeSport('NBA')" class="sport-btn btn btn-outline-primary" id="btn-NBA">NBA</a>
+                                        <a href="javascript:void(0)" onclick="changeSport('NHL')" class="sport-btn btn btn-outline-primary" id="btn-NHL">NHL</a>
+                                        <a href="javascript:void(0)" onclick="changeSport('MLB')" class="sport-btn btn btn-outline-primary" id="btn-MLB">MLB</a>
+                                        <a href="javascript:void(0)" onclick="changeSport('MarchMadness')" class="sport-btn btn btn-outline-primary" id="btn-MarchMadness">March Madness</a>
+                                    </div>
+                                </div>
+                                
+                                <!-- Date Filter -->
+                                <div class="col-md-6">
+                                    <label for="game_date" class="form-label fw-bold mb-1 small"><i class="fas fa-calendar-alt me-1"></i>Select Date</label>
+                                    <select id="game_date" name="game_date" class="form-select form-select-sm" onchange="changeDate(this.value)">
+                                        {% for date in available_dates %}
+                                            <option value="{{ date }}" {% if date == today_str %}selected{% endif %}>{{ date }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Current Sport Stats - More prominent -->
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body py-2">
+                        <div id="sport-stats-container">
+                            {% for sport_stat in stats.sports %}
+                                <div class="sport-stat-panel" id="stat-{{ sport_stat.name }}" style="display: none;">
+                                    <div class="text-center mb-1">
+                                        <h3 class="fw-bold {% if sport_stat.success_rate >= 50 %}text-success{% else %}text-danger{% endif %}">
+                                            {{ sport_stat.success_rate }}%
+                                        </h3>
+                                        <span class="small text-muted">{{ sport_stat.name }} Success Rate</span>
+                                    </div>
+                                    
+                                    {% set total = sport_stat.locks + sport_stat.rocks %}
+                                    {% set locks_percent = (sport_stat.locks / total * 100)|round(1) if total > 0 else 0 %}
+                                    {% set rocks_percent = (sport_stat.rocks / total * 100)|round(1) if total > 0 else 0 %}
+                                    
+                                    <div class="progress" style="height: 25px;">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: {{ locks_percent }}%">
+                                            {{ sport_stat.locks }} Locks
+                                        </div>
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: {{ rocks_percent }}%">
+                                            {{ sport_stat.rocks }} Rocks
+                                        </div>
+                                    </div>
+                                    <div class="text-muted mt-1 small">Based on {{ total }} {{ sport_stat.name }} predictions</div>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="row">
+            <!-- Left Column: Games & Stats -->
+            <div class="col-lg-8">
+                <!-- Games Section -->
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center py-2">
+                        <h5 class="mb-0"><i class="fas fa-gamepad me-1"></i><span id="current-sport-title">Games</span> - <span id="current-date">{{ today_str }}</span></h5>
+                        <span class="badge bg-primary"><span id="games-count">0</span> Games</span>
+                    </div>
+                    <div class="card-body">
+                        <div id="games-container" class="row g-2">
+                            {% for sport_name in ['NBA', 'NHL', 'MLB', 'MarchMadness'] %}
+                                <div id="games-{{ sport_name }}" class="sport-games" style="display: none;">
+                                    {% set sport_games = [] %}
+                                    {% for game in games %}
+                                        {% if game.sport == sport_name %}
+                                            {% set sport_games = sport_games + [game] %}
+                                        {% endif %}
+                                    {% endfor %}
+                                    
+                                    {% if sport_games %}
+                                        {% for game in sport_games %}
+                                            <div class="col-md-6 mb-2">
+                                                <div class="card game-card h-100" data-event-id="{{ game.event_id }}" data-sport="{{ sport_name }}">
+                                                    {% if not game.disable_game %}
+                                                        <span class="upcoming-pill">Upcoming</span>
+                                                    {% else %}
+                                                        <span class="past-pill">In Progress/Completed</span>
+                                                    {% endif %}
+                                                    
+                                                    <div class="card-body py-2">
+                                                        <div class="text-center mb-2 small">
+                                                            <i class="far fa-clock me-1"></i>{{ game.event_date }}
+                                                        </div>
+                                                        
+                                                        <div class="row g-1">
+                                                            <!-- Team 1 -->
+                                                            <div class="col-5">
+                                                                <div class="team-card p-2 text-center {% if selected_games.get(game.event_id, {}).get('Value.winner') == game.team_1_name %}selected{% endif %}">
+                                                                    <div class="team-abbr my-1">{{ game.team_1_abbreviation }}</div>
+                                                                    <div class="team-name small fw-bold">{{ game.team_1_name }}</div>
+                                                                    {% if game.team_1_score %}
+                                                                        <div class="text-primary fw-bold">{{ game.team_1_score }}</div>
+                                                                    {% endif %}
+                                                                </div>
+                                                            </div>
+                                                            
+                                                            <!-- VS -->
+                                                            <div class="col-2 d-flex align-items-center justify-content-center">
+                                                                <span class="vs-badge">VS</span>
+                                                            </div>
+                                                            
+                                                            <!-- Team 2 -->
+                                                            <div class="col-5">
+                                                                <div class="team-card p-2 text-center {% if selected_games.get(game.event_id, {}).get('Value.winner') == game.team_2_name %}selected{% endif %}">
+                                                                    <div class="team-abbr my-1">{{ game.team_2_abbreviation }}</div>
+                                                                    <div class="team-name small fw-bold">{{ game.team_2_name }}</div>
+                                                                    {% if game.team_2_score %}
+                                                                        <div class="text-primary fw-bold">{{ game.team_2_score }}</div>
+                                                                    {% endif %}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        
+                                                        {% if game.event_id in selected_games %}
+                                                            <div class="text-center mt-2">
+                                                                <div class="alert alert-success py-1 px-2 mb-0 small">
+                                                                    <i class="fas fa-check-circle me-1"></i>Picked: {{ selected_games[game.event_id].get("Value.winner") }}
+                                                                </div>
+                                                            </div>
+                                                        {% endif %}
+                                                    </div>
+                                                    
+                                                    <div class="card-footer d-flex justify-content-between py-1 small">
+                                                        <span class="badge badge-{{ sport_name|lower }}">{{ sport_name }}</span>
+                                                        {% if game.status_clock != 'N/A' %}
+                                                            <span>{{ game.status_clock }} - Period {{ game.status_period }}</span>
+                                                        {% endif %}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        {% endfor %}
+                                    {% else %}
+                                        <div class="col-12">
+                                            <div class="alert alert-info py-2">
+                                                <i class="fas fa-info-circle me-1"></i>No games found for {{ sport_name }} on the selected date
+                                            </div>
+                                        </div>
+                                    {% endif %}
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Performance Chart -->
+                <div class="card mt-3">
+                    <div class="card-header d-flex justify-content-between align-items-center py-2">
+                        <h5 class="mb-0"><i class="fas fa-chart-line me-1"></i><span id="chart-sport-title">Performance Trend</span></h5>
+                        <div class="form-check form-switch">
+                            <input class="form-check-input" type="checkbox" id="chartTypeToggle" checked>
+                            <label class="form-check-label small" for="chartTypeToggle">Show Rate</label>
+                        </div>
+                    </div>
+                    <div class="card-body py-2">
+                        <div id="performance-chart" class="chart-container"></div>
+                        
+                        <!-- Hidden data for chart - all sports data available for switching -->
+                        {% for sport_name in ['NBA', 'NHL', 'MLB', 'MarchMadness'] %}
+                            <div id="chart-data-{{ sport_name }}" 
+                                data-sport="{{ sport_name }}"
+                                data-dates="{{ chart_dates|tojson|safe }}" 
+                                data-locks="{{ chart_locks|tojson|safe }}" 
+                                data-rocks="{{ chart_rocks|tojson|safe }}" 
+                                data-rates="{{ chart_rates|tojson|safe }}" 
+                                style="display: none;"></div>
+                        {% endfor %}
+                    </div>
+                </div>
+                
+                <!-- Weekly Performance Tracker - NEW -->
+                <div class="card mt-3">
+                    <div class="card-header d-flex justify-content-between align-items-center py-2">
+                        <h5 class="mb-0"><i class="fas fa-calendar-week me-1"></i>Weekly Performance Tracker</h5>
+                        <span class="badge bg-primary" id="current-week">Current Week</span>
+                    </div>
+                    <div class="card-body py-2">
+                        <div class="row">
+                            <div class="col-md-4 mb-3">
+                                <div class="stats-card text-center">
+                                    <div class="circular-progress" style="--percentage: 75%">
+                                        <span class="progress-value">75%</span>
+                                    </div>
+                                    <h6 class="mb-0">Weekly Success</h6>
+                                    <p class="text-muted small">12 of 16 correct</p>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="weekly-stats">
+                                    <span class="fw-bold">Monday</span>
+                                    <div>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon loss"><i class="fas fa-times"></i></span>
+                                    </div>
+                                </div>
+                                <div class="weekly-stats">
+                                    <span class="fw-bold">Tuesday</span>
+                                    <div>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="weekly-stats">
+                                    <span class="fw-bold">Wednesday</span>
+                                    <div>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon loss"><i class="fas fa-times"></i></span>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="weekly-stats">
+                                    <span class="fw-bold">Thursday</span>
+                                    <div>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="weekly-stats">
+                                    <span class="fw-bold">Friday</span>
+                                    <div>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon loss"><i class="fas fa-times"></i></span>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                                <div class="weekly-stats">
+                                    <span class="fw-bold">Weekend</span>
+                                    <div>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                        <span class="result-icon loss"><i class="fas fa-times"></i></span>
+                                        <span class="result-icon win"><i class="fas fa-check"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Right Column: Stats & Results -->
+            <div class="col-lg-4">
+                <!-- Current Sport Full Stats (only show detailed stats for selected sport) -->
+                <div class="card mb-3">
+                    <div class="card-header py-2">
+                        <h5 class="mb-0"><i class="fas fa-percentage me-1"></i><span id="stats-sport-title">Sport Details</span></h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="sport-details-container">
+                            {% for sport_name in ['NBA', 'NHL', 'MLB', 'MarchMadness'] %}
+                                {% for sport_stat in stats.sports %}
+                                    {% if sport_stat.name == sport_name %}
+                                        <div class="sport-detail-panel" id="detail-{{ sport_name }}" style="display: none;">
+                                            <div class="stats-card mb-0">
+                                                <!-- Record -->
+                                                <div class="d-flex justify-content-between align-items-center border-bottom pb-2 mb-2">
+                                                    <span class="fw-bold">Record:</span>
+                                                    <span>{{ sport_stat.locks }}-{{ sport_stat.rocks }}</span>
+                                                </div>
+                                                
+                                                <!-- Last 5 -->
+                                                <div class="d-flex justify-content-between align-items-center border-bottom pb-2 mb-2">
+                                                    <span class="fw-bold">Last 5:</span>
+                                                    <div>
+                                                        {% set displayed_results = 0 %}
+                                                        {% for result in recent_results %}
+                                                            {% if result.sport == sport_name and displayed_results < 5 %}
+                                                                {% set displayed_results = displayed_results + 1 %}
+                                                                <span class="result-icon {% if 'Lock' in result.result %}win{% else %}loss{% endif %}" 
+                                                                    data-bs-toggle="tooltip" 
+                                                                    title="{{ result.pick }} ({{ result.date }})">
+                                                                    {% if 'Lock' in result.result %}
+                                                                        <i class="fas fa-check"></i>
+                                                                    {% else %}
+                                                                        <i class="fas fa-times"></i>
+                                                                    {% endif %}
+                                                                </span>
+                                                            {% endif %}
+                                                        {% endfor %}
+                                                        
+                                                        {% if displayed_results == 0 %}
+                                                            <span class="text-muted">No data</span>
+                                                        {% endif %}
+                                                    </div>
+                                                </div>
+                                                
+                                                <!-- Streak -->
+                                                <div class="d-flex justify-content-between align-items-center border-bottom pb-2 mb-2">
+                                                    <span class="fw-bold">Current Streak:</span>
+                                                    <span>
+                                                        {% set streak_type = None %}
+                                                        {% set streak_count = 0 %}
+                                                        {% for result in recent_results %}
+                                                            {% if result.sport == sport_name %}
+                                                                {% if loop.index0 == 0 %}
+                                                                    {% set streak_type = 'Lock' if 'Lock' in result.result else 'Rock' %}
+                                                                    {% set streak_count = 1 %}
+                                                                {% elif loop.index0 > 0 %}
+                                                                    {% if ('Lock' in result.result and streak_type == 'Lock') or ('Rock' in result.result and streak_type == 'Rock') %}
+                                                                        {% set streak_count = streak_count + 1 %}
+                                                                    {% else %}
+                                                                        {% set break_loop = true %}
+                                                                    {% endif %}
+                                                                {% endif %}
+                                                            {% endif %}
+                                                        {% endfor %}
+                                                        
+                                                        {% if streak_count > 0 and streak_type %}
+                                                            <span class="{% if streak_type == 'Lock' %}text-success{% else %}text-danger{% endif %}">
+                                                                {{ 'W' if streak_type == 'Lock' else 'L' }}{{ streak_count }}
+                                                            </span>
+                                                        {% else %}
+                                                            <span class="text-muted">-</span>
+                                                        {% endif %}
+                                                    </span>
+                                                </div>
+                                                
+                                                <!-- Best Pick - Now with score difference -->
+                                                <div class="d-flex justify-content-between align-items-center">
+                                                    <span class="fw-bold">Best Pick:</span>
+                                                    <div class="d-flex align-items-center">
+                                                        {% set best_pick = {'team': None, 'diff': 0} %}
+                                                        {% for game in games_with_scores %}
+                                                            {% if game.sport == sport_name and game.score_diff and game.score_diff > best_pick.diff %}
+                                                                {% set _ = best_pick.update({'team': game.winner, 'diff': game.score_diff}) %}
+                                                            {% endif %}
+                                                        {% endfor %}
+                                                        
+                                                        {% if best_pick.team %}
+                                                            <span class="me-1">{{ best_pick.team }}</span>
+                                                            <span class="badge bg-primary score-diff">+{{ best_pick.diff }}</span>
+                                                        {% else %}
+                                                            <span class="text-muted">No data</span>
+                                                        {% endif %}
+                                                    </div>
+                                                </div>

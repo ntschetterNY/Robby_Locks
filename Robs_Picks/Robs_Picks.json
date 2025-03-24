@@ -1,470 +1,1649 @@
 {
-    "401705580": {
-        "winner": "Orlando Magic",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705581": {
-        "winner": "Houston Rockets",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705582": {
-        "winner": "New Orleans Pelicans",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705583": {
-        "winner": "Charlotte Hornets",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705584": {
-        "winner": "Philadelphia 76ers",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705585": {
-        "winner": "Detroit Pistons",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705586": {
-        "winner": "Boston Celtics",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705587": {
-        "winner": "Cleveland Cavaliers",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705588": {
-        "winner": "Denver Nuggets",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401705589": {
-        "winner": "Memphis Grizzlies",
-        "ip_address": "192.168.2.30",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
-        "timestamp": "2025-03-15 10:12:05 AM ET",
-        "game_date": "2025-03-21",
-        "game_start_time": "N/A"
-    },
-    "401744173": {
-        "winner": "Florida Gators",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401743941": {
-        "winner": "Maryland Terrapins",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401743838": {
-        "winner": "George Mason Patriots",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401745786": {
-        "winner": "North Texas Mean Green",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401743854": {
-        "winner": "Houston Cougars",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401744093": {
-        "winner": "Colorado State Rams",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401744016": {
-        "winner": "Iona Gaels",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401745819": {
-        "winner": "Akron Zips",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401743776": {
-        "winner": "Duke Blue Devils",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401744553": {
-        "winner": "Liberty Flames",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401744248": {
-        "winner": "Jackson State Tigers",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401743949": {
-        "winner": "UC San Diego Tritons",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401744256": {
-        "winner": "Grand Canyon Lopes",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:47 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401743884": {
-        "winner": "St. John's Red Storm",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:23:52 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705534": {
-        "winner": "Brooklyn Nets",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705535": {
-        "winner": "Oklahoma City Thunder",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705536": {
-        "winner": "Houston Rockets",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705537": {
-        "winner": "Miami Heat",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705538": {
-        "winner": "Milwaukee Bucks",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705539": {
-        "winner": "San Antonio Spurs",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705540": {
-        "winner": "Golden State Warriors",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401705541": {
-        "winner": "Denver Nuggets",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:25:38 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704475": {
-        "winner": "Kansas City Royals",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704476": {
-        "winner": "Chicago White Sox",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704477": {
-        "winner": "Cincinnati Reds",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704480": {
-        "winner": "San Francisco Giants",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704481": {
-        "winner": "Athletics",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704473": {
-        "winner": "Milwaukee Brewers",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704474": {
-        "winner": "Arizona Diamondbacks",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704478": {
-        "winner": "Los Angeles Angels",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704479": {
-        "winner": "Seattle Mariners",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704469": {
-        "winner": "Atlanta Braves",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401704471": {
-        "winner": "Washington Nationals",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:28:48 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
     "401688656": {
-        "winner": "San Jose Sharks",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
+        "EventID": "401688656",
+        "Value.winner": "Washington Capitals",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 05:19:58 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
     },
     "401688657": {
-        "winner": "Boston Bruins",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401688658": {
-        "winner": "Toronto Maple Leafs",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
+        "EventID": "401688657",
+        "Value.winner": "Tampa Bay Lightning",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 05:19:58 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
     },
     "401688659": {
-        "winner": "Montreal Canadiens",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401688660": {
-        "winner": "Philadelphia Flyers",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401688661": {
-        "winner": "Columbus Blue Jackets",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
-    },
-    "401688662": {
-        "winner": "Minnesota Wild",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
+        "EventID": "401688659",
+        "Value.winner": "Florida Panthers",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 05:19:58 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
     },
     "401688663": {
-        "winner": "Los Angeles Kings",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
+        "EventID": "401688663",
+        "Value.winner": "Los Angeles Kings",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 05:19:58 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
     },
     "401688664": {
-        "winner": "Vancouver Canucks",
-        "ip_address": "192.168.1.132",
-        "device_name": "VA-LT05",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "timestamp": "2025-03-15 03:29:24 PM ET",
-        "game_date": "2025-03-15",
-        "game_start_time": "N/A"
+        "EventID": "401688664",
+        "Value.winner": "Vancouver Canucks",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 05:19:58 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705534": {
+        "EventID": "401705534",
+        "Value.winner": "Boston Celtics",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 07:00:22 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705535": {
+        "EventID": "401705535",
+        "Value.winner": "Oklahoma City Thunder",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 07:00:22 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705536": {
+        "EventID": "401705536",
+        "Value.winner": "Houston Rockets",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 07:00:22 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705541": {
+        "EventID": "401705541",
+        "Value.winner": "Denver Nuggets",
+        "Value.ip_address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-15 07:00:22 PM ET",
+        "Value.game_date": "Saturday, March 15, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401748706": {
+        "EventID": "401748706",
+        "Value.winner": "LA Clippers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36",
+        "Value.timestamp": "2025-03-16 15:36:41",
+        "Value.game_date": "Sunday, March 16, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401705548": {
+        "EventID": "401705548",
+        "Value.winner": "Oklahoma City Thunder",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 17:17:11",
+        "Value.game_date": "Sunday, March 16, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705550": {
+        "EventID": "401705550",
+        "Value.winner": "New York Knicks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 17:16:58",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "07:30 PM ET"
+    },
+    "401705556": {
+        "EventID": "401705556",
+        "Value.winner": "Golden State Warriors",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 17:16:58",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401754705": {
+        "EventID": "401754705",
+        "Value.winner": "Los Angeles Lakers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 17:16:58",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "10:30 PM ET"
+    },
+    "401688672": {
+        "EventID": "401688672",
+        "Value.winner": "Boston Bruins",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 18:56:22",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688673": {
+        "EventID": "401688673",
+        "Value.winner": "Tampa Bay Lightning",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 18:56:22",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688674": {
+        "EventID": "401688674",
+        "Value.winner": "New Jersey Devils",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 18:56:22",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688675": {
+        "EventID": "401688675",
+        "Value.winner": "Toronto Maple Leafs",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 18:56:22",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "07:30 PM ET"
+    },
+    "401705558": {
+        "EventID": "401705558",
+        "Value.winner": "Memphis Grizzlies",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-17 18:57:11",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401688676": {
+        "EventID": "401688676",
+        "Value.winner": "Minnesota Wild",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:09:21",
+        "Value.game_date": "Monday, March 17, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401705560": {
+        "EventID": "401705560",
+        "Value.winner": "Boston Celtics",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:10:50",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "07:30 PM ET"
+    },
+    "401705563": {
+        "EventID": "401705563",
+        "Value.winner": "Cleveland Cavaliers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:10:50",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "10:30 PM ET"
+    },
+    "401688677": {
+        "EventID": "401688677",
+        "Value.winner": "Ottawa Senators",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:11:54",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688678": {
+        "EventID": "401688678",
+        "Value.winner": "Calgary Flames",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:11:54",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688679": {
+        "EventID": "401688679",
+        "Value.winner": "New York Islanders",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:11:54",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688680": {
+        "EventID": "401688680",
+        "Value.winner": "Washington Capitals",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:11:54",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688684": {
+        "EventID": "401688684",
+        "Value.winner": "Edmonton Oilers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:11:54",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "09:00 PM ET"
+    },
+    "401688685": {
+        "EventID": "401688685",
+        "Value.winner": "Winnipeg Jets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:11:54",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401704519": {
+        "EventID": "401704519",
+        "Value.winner": "Cincinnati Reds",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704521": {
+        "EventID": "401704521",
+        "Value.winner": "Milwaukee Brewers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "04:10 PM ET"
+    },
+    "401704517": {
+        "EventID": "401704517",
+        "Value.winner": "Toronto Blue Jays",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704518": {
+        "EventID": "401704518",
+        "Value.winner": "Houston Astros",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704520": {
+        "EventID": "401704520",
+        "Value.winner": "Cleveland Guardians",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "09:05 PM ET"
+    },
+    "401704522": {
+        "EventID": "401704522",
+        "Value.winner": "San Diego Padres",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "09:05 PM ET"
+    },
+    "401704523": {
+        "EventID": "401704523",
+        "Value.winner": "San Francisco Giants",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-18 16:15:13",
+        "Value.game_date": "Tuesday, March 18, 2025",
+        "Value.game_start_time": "09:40 PM ET"
+    },
+    "401705564": {
+        "EventID": "401705564",
+        "Value.winner": "Dallas Mavericks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705565": {
+        "EventID": "401705565",
+        "Value.winner": "Houston Rockets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705566": {
+        "EventID": "401705566",
+        "Value.winner": "Miami Heat",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705568": {
+        "EventID": "401705568",
+        "Value.winner": "Oklahoma City Thunder",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705569": {
+        "EventID": "401705569",
+        "Value.winner": "New York Knicks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705193": {
+        "EventID": "401705193",
+        "Value.winner": "Utah Jazz",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705574": {
+        "EventID": "401705574",
+        "Value.winner": "Memphis Grizzlies",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705575": {
+        "EventID": "401705575",
+        "Value.winner": "Cleveland Cavaliers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:45:37",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401688686": {
+        "EventID": "401688686",
+        "Value.winner": "Colorado Avalanche",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:46:05",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688687": {
+        "EventID": "401688687",
+        "Value.winner": "Minnesota Wild",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-19 18:46:05",
+        "Value.game_date": "Wednesday, March 19, 2025",
+        "Value.game_start_time": "09:30 PM ET"
+    },
+    "401705576": {
+        "EventID": "401705576",
+        "Value.winner": "New York Knicks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:56:50",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705571": {
+        "EventID": "401705571",
+        "Value.winner": "Golden State Warriors",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:56:50",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705562": {
+        "EventID": "401705562",
+        "Value.winner": "Los Angeles Lakers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:56:50",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401688690": {
+        "EventID": "401688690",
+        "Value.winner": "Toronto Maple Leafs",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688691": {
+        "EventID": "401688691",
+        "Value.winner": "Washington Capitals",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688692": {
+        "EventID": "401688692",
+        "Value.winner": "Florida Panthers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401688693": {
+        "EventID": "401688693",
+        "Value.winner": "New York Islanders",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "07:30 PM ET"
+    },
+    "401688697": {
+        "EventID": "401688697",
+        "Value.winner": "Los Angeles Kings",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "08:30 PM ET"
+    },
+    "401688699": {
+        "EventID": "401688699",
+        "Value.winner": "Utah Hockey Club",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "09:00 PM ET"
+    },
+    "401688701": {
+        "EventID": "401688701",
+        "Value.winner": "Carolina Hurricanes",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:57:54",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "10:30 PM ET"
+    },
+    "401745972": {
+        "EventID": "401745972",
+        "Value.winner": "Houston Cougars",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:59:08",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "02:00 PM ET"
+    },
+    "401745974": {
+        "EventID": "401745974",
+        "Value.winner": "Gonzaga Bulldogs",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:59:08",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "04:35 PM ET"
+    },
+    "401745984": {
+        "EventID": "401745984",
+        "Value.winner": "Tennessee Volunteers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:59:08",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "06:50 PM ET"
+    },
+    "401745983": {
+        "EventID": "401745983",
+        "Value.winner": "UCLA Bruins",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:59:08",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "09:25 PM ET"
+    },
+    "401745963": {
+        "EventID": "401745963",
+        "Value.winner": "Michigan Wolverines",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 13:59:08",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401704542": {
+        "EventID": "401704542",
+        "Value.winner": "Los Angeles Angels",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704545": {
+        "EventID": "401704545",
+        "Value.winner": "Kansas City Royals",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704543": {
+        "EventID": "401704543",
+        "Value.winner": "Arizona Diamondbacks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "04:10 PM ET"
+    },
+    "401704536": {
+        "EventID": "401704536",
+        "Value.winner": "Boston Red Sox",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704538": {
+        "EventID": "401704538",
+        "Value.winner": "New York Yankees",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704539": {
+        "EventID": "401704539",
+        "Value.winner": "New York Mets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704544": {
+        "EventID": "401704544",
+        "Value.winner": "Texas Rangers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "09:05 PM ET"
+    },
+    "401704546": {
+        "EventID": "401704546",
+        "Value.winner": "San Diego Padres",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 14:00:07",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "09:40 PM ET"
+    },
+    "401705577": {
+        "EventID": "401705577",
+        "Value.winner": "Indiana Pacers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 16:17:47",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401705579": {
+        "EventID": "401705579",
+        "Value.winner": "Chicago Bulls",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-20 16:17:47",
+        "Value.game_date": "Thursday, March 20, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401705581": {
+        "EventID": "401705581",
+        "Value.winner": "Houston Rockets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:49:56",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401705584": {
+        "EventID": "401705584",
+        "Value.winner": "San Antonio Spurs",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:49:56",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401705586": {
+        "EventID": "401705586",
+        "Value.winner": "Boston Celtics",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:49:56",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "09:30 PM ET"
+    },
+    "401705587": {
+        "EventID": "401705587",
+        "Value.winner": "Cleveland Cavaliers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:49:56",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401705588": {
+        "EventID": "401705588",
+        "Value.winner": "Denver Nuggets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:49:56",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401705589": {
+        "EventID": "401705589",
+        "Value.winner": "LA Clippers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:49:56",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "10:30 PM ET"
+    },
+    "401705580": {
+        "EventID": "401705580",
+        "Value.winner": "Orlando Magic",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:50:16",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401688702": {
+        "EventID": "401688702",
+        "Value.winner": "Columbus Blue Jackets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:50:27",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401746003": {
+        "EventID": "401746003",
+        "Value.winner": "Duke Blue Devils",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:23",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "02:50 PM ET"
+    },
+    "401746021": {
+        "EventID": "401746021",
+        "Value.winner": "Maryland Terrapins",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:23",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "04:35 PM ET"
+    },
+    "401746016": {
+        "EventID": "401746016",
+        "Value.winner": "Kentucky Wildcats",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:23",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "07:10 PM ET"
+    },
+    "401746018": {
+        "EventID": "401746018",
+        "Value.winner": "UConn Huskies",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:23",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "09:25 PM ET"
+    },
+    "401746001": {
+        "EventID": "401746001",
+        "Value.winner": "Michigan State Spartans",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:23",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "10:00 PM ET"
+    },
+    "401746007": {
+        "EventID": "401746007",
+        "Value.winner": "Oregon Ducks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:23",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "10:10 PM ET"
+    },
+    "401745995": {
+        "EventID": "401745995",
+        "Value.winner": "North Carolina Tar Heels",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 13:51:46",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401704564": {
+        "EventID": "401704564",
+        "Value.winner": "Los Angeles Angels",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "03:10 PM ET"
+    },
+    "401704558": {
+        "EventID": "401704558",
+        "Value.winner": "Cincinnati Reds",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704560": {
+        "EventID": "401704560",
+        "Value.winner": "Cleveland Guardians",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704561": {
+        "EventID": "401704561",
+        "Value.winner": "Kansas City Royals",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704562": {
+        "EventID": "401704562",
+        "Value.winner": "San Diego Padres",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704563": {
+        "EventID": "401704563",
+        "Value.winner": "Kansas City Royals",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "04:05 PM ET"
+    },
+    "401704552": {
+        "EventID": "401704552",
+        "Value.winner": "New York Yankees",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704554": {
+        "EventID": "401704554",
+        "Value.winner": "Boston Red Sox",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "06:05 PM ET"
+    },
+    "401704557": {
+        "EventID": "401704557",
+        "Value.winner": "Milwaukee Brewers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:42:55",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "09:10 PM ET"
+    },
+    "401705582": {
+        "EventID": "401705582",
+        "Value.winner": "Minnesota Timberwolves",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:44:00",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401705583": {
+        "EventID": "401705583",
+        "Value.winner": "Oklahoma City Thunder",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:44:00",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401705585": {
+        "EventID": "401705585",
+        "Value.winner": "Dallas Mavericks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-21 18:44:00",
+        "Value.game_date": "Friday, March 21, 2025",
+        "Value.game_start_time": "08:30 PM ET"
+    },
+    "401746030": {
+        "EventID": "401746030",
+        "Value.winner": "Purdue Boilermakers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:10:55",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "12:10 PM ET",
+        "Value.sport": "MarchMadness"
+    },
+    "401746036": {
+        "EventID": "401746036",
+        "Value.winner": "Michigan Wolverines",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:10:55",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "05:15 PM ET",
+        "Value.sport": "MarchMadness"
+    },
+    "401746042": {
+        "EventID": "401746042",
+        "Value.winner": "Auburn Tigers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:10:55",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "07:10 PM ET",
+        "Value.sport": "MarchMadness"
+    },
+    "401746034": {
+        "EventID": "401746034",
+        "Value.winner": "Wisconsin Badgers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:10:55",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "07:45 PM ET",
+        "Value.sport": "MarchMadness"
+    },
+    "401746038": {
+        "EventID": "401746038",
+        "Value.winner": "Houston Cougars",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:10:55",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "08:40 PM ET",
+        "Value.sport": "MarchMadness"
+    },
+    "401746044": {
+        "EventID": "401746044",
+        "Value.winner": "Tennessee Volunteers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:10:55",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "09:40 PM ET",
+        "Value.sport": "MarchMadness"
+    },
+    "401688703": {
+        "EventID": "401688703",
+        "Value.winner": "Vancouver Canucks",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688704": {
+        "EventID": "401688704",
+        "Value.winner": "Dallas Stars",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "02:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688705": {
+        "EventID": "401688705",
+        "Value.winner": "Minnesota Wild",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "02:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688706": {
+        "EventID": "401688706",
+        "Value.winner": "St. Louis Blues",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "03:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688707": {
+        "EventID": "401688707",
+        "Value.winner": "New York Islanders",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688710": {
+        "EventID": "401688710",
+        "Value.winner": "Tampa Bay Lightning",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "05:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688711": {
+        "EventID": "401688711",
+        "Value.winner": "Colorado Avalanche",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "07:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688713": {
+        "EventID": "401688713",
+        "Value.winner": "Toronto Maple Leafs",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "07:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688714": {
+        "EventID": "401688714",
+        "Value.winner": "Vegas Golden Knights",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "08:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688715": {
+        "EventID": "401688715",
+        "Value.winner": "Edmonton Oilers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "10:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688716": {
+        "EventID": "401688716",
+        "Value.winner": "Boston Bruins",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:10",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "10:30 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401705592": {
+        "EventID": "401705592",
+        "Value.winner": "New York Knicks",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:43",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "08:00 PM ET",
+        "Value.sport": "NBA"
+    },
+    "401705594": {
+        "EventID": "401705594",
+        "Value.winner": "Los Angeles Lakers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:12:43",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "10:30 PM ET",
+        "Value.sport": "NBA"
+    },
+    "401704565": {
+        "EventID": "401704565",
+        "Value.winner": "Atlanta Braves",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704566": {
+        "EventID": "401704566",
+        "Value.winner": "Baltimore Orioles",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704567": {
+        "EventID": "401704567",
+        "Value.winner": "Boston Red Sox",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704569": {
+        "EventID": "401704569",
+        "Value.winner": "New York Yankees",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704571": {
+        "EventID": "401704571",
+        "Value.winner": "Toronto Blue Jays",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704570": {
+        "EventID": "401704570",
+        "Value.winner": "Miami Marlins",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:10 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704572": {
+        "EventID": "401704572",
+        "Value.winner": "New York Mets",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "01:10 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704573": {
+        "EventID": "401704573",
+        "Value.winner": "San Francisco Giants",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "03:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704577": {
+        "EventID": "401704577",
+        "Value.winner": "Kansas City Royals",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "03:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704576": {
+        "EventID": "401704576",
+        "Value.winner": "Colorado Rockies",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704578": {
+        "EventID": "401704578",
+        "Value.winner": "Milwaukee Brewers",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704579": {
+        "EventID": "401704579",
+        "Value.winner": "Cleveland Guardians",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704580": {
+        "EventID": "401704580",
+        "Value.winner": "Seattle Mariners",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704574": {
+        "EventID": "401704574",
+        "Value.winner": "Chicago White Sox",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:10 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704575": {
+        "EventID": "401704575",
+        "Value.winner": "San Diego Padres",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:10 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401704568": {
+        "EventID": "401704568",
+        "Value.winner": "Houston Astros",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:14:27",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "06:05 PM ET",
+        "Value.sport": "MLB"
+    },
+    "401688708": {
+        "EventID": "401688708",
+        "Value.winner": "Los Angeles Kings",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:15:41",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "04:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401688709": {
+        "EventID": "401688709",
+        "Value.winner": "Washington Capitals",
+        "Value.address": "104.246.77.112",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-22 12:15:41",
+        "Value.game_date": "Saturday, March 22, 2025",
+        "Value.game_start_time": "05:00 PM ET",
+        "Value.sport": "NHL"
+    },
+    "401705596": {
+        "EventID": "401705596",
+        "Value.winner": "Cleveland Cavaliers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:16:18",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "03:30 PM ET"
+    },
+    "401705599": {
+        "EventID": "401705599",
+        "Value.winner": "San Antonio Spurs",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:16:18",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:00 PM ET"
+    },
+    "401705600": {
+        "EventID": "401705600",
+        "Value.winner": "Boston Celtics",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:16:18",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:00 PM ET"
+    },
+    "401705602": {
+        "EventID": "401705602",
+        "Value.winner": "Oklahoma City Thunder",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:16:18",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "09:00 PM ET"
+    },
+    "401746049": {
+        "EventID": "401746049",
+        "Value.winner": "Duke Blue Devils",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:17:46",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "02:40 PM ET"
+    },
+    "401746048": {
+        "EventID": "401746048",
+        "Value.winner": "Kentucky Wildcats",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:17:46",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "05:15 PM ET"
+    },
+    "401746052": {
+        "EventID": "401746052",
+        "Value.winner": "Alabama Crimson Tide",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:17:46",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:10 PM ET"
+    },
+    "401746046": {
+        "EventID": "401746046",
+        "Value.winner": "Maryland Terrapins",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:17:46",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "07:10 PM ET"
+    },
+    "401746054": {
+        "EventID": "401746054",
+        "Value.winner": "Michigan State Spartans",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:17:46",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "08:40 PM ET"
+    },
+    "401751950": {
+        "EventID": "401751950",
+        "Value.winner": "Stanford Cardinal",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 14:17:46",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "09:00 PM ET"
+    },
+    "401688718": {
+        "EventID": "401688718",
+        "Value.winner": "Winnipeg Jets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 17:59:10",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "03:00 PM ET"
+    },
+    "401688719": {
+        "EventID": "401688719",
+        "Value.winner": "Florida Panthers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 17:59:10",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:00 PM ET"
+    },
+    "401688722": {
+        "EventID": "401688722",
+        "Value.winner": "Carolina Hurricanes",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 17:59:10",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401688723": {
+        "EventID": "401688723",
+        "Value.winner": "Los Angeles Kings",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 17:59:10",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "09:00 PM ET"
+    },
+    "401705597": {
+        "EventID": "401705597",
+        "Value.winner": "Atlanta Hawks",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 18:01:30",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:00 PM ET"
+    },
+    "401705598": {
+        "EventID": "401705598",
+        "Value.winner": "Miami Heat",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 18:01:30",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:00 PM ET"
+    },
+    "401705601": {
+        "EventID": "401705601",
+        "Value.winner": "Denver Nuggets",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 18:01:30",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "07:00 PM ET"
+    },
+    "401704605": {
+        "EventID": "401704605",
+        "Value.winner": "Los Angeles Dodgers",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 18:01:53",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "08:10 PM ET"
+    },
+    "401688720": {
+        "EventID": "401688720",
+        "Value.winner": "St. Louis Blues",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 18:08:23",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "06:00 PM ET"
+    },
+    "401688721": {
+        "EventID": "401688721",
+        "Value.winner": "Tampa Bay Lightning",
+        "Value.address": "70.23.126.226",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-23 18:08:23",
+        "Value.game_date": "Sunday, March 23, 2025",
+        "Value.game_start_time": "08:00 PM ET"
+    },
+    "401705604": {
+        "EventID": "401705604",
+        "Value.winner": "Los Angeles Lakers",
+        "Value.address": "172.56.161.9",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:49:48",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705606": {
+        "EventID": "401705606",
+        "Value.winner": "Dallas Mavericks",
+        "Value.address": "172.56.161.9",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:49:48",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705608": {
+        "EventID": "401705608",
+        "Value.winner": "Denver Nuggets",
+        "Value.address": "172.56.161.9",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:49:48",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401705610": {
+        "EventID": "401705610",
+        "Value.winner": "Boston Celtics",
+        "Value.address": "172.56.161.9",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:49:48",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401688725": {
+        "EventID": "401688725",
+        "Value.winner": "New York Islanders",
+        "Value.address": "172.56.160.169",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:50:11",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "07:30 PM ET"
+    },
+    "401688726": {
+        "EventID": "401688726",
+        "Value.winner": "Dallas Stars",
+        "Value.address": "172.56.161.177",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:51:02",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "N/A"
+    },
+    "401688727": {
+        "EventID": "401688727",
+        "Value.winner": "Utah Hockey Club",
+        "Value.address": "172.56.161.177",
+        "Value.device_name": "DESKTOP-2E1G5OF",
+        "Value.user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1",
+        "Value.timestamp": "2025-03-24 12:51:02",
+        "Value.game_date": "Monday, March 24, 2025",
+        "Value.game_start_time": "N/A"
     }
 }
