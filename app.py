@@ -10,14 +10,19 @@ import dashboard_integration
 from datetime import datetime
 from flask import Flask, render_template, request
 from dateutil.parser import isoparse
+from pathlib import Path
 
-# File paths
-GAME_DATAFRAME_FOLDER = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Game_Dataframe"
-PICKS_FILE_PATH = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Robs_Picks\Robs_Picks.json"
-NBA_GAMES_FILE = os.path.join(GAME_DATAFRAME_FOLDER, "nba_games.json")
-NHL_GAMES_FILE = os.path.join(GAME_DATAFRAME_FOLDER, "nhl_games.json")
-MLB_GAMES_FILE = os.path.join(GAME_DATAFRAME_FOLDER, "mlb_games.json")
-MARCH_MADNESS_GAMES_FILE = os.path.join(GAME_DATAFRAME_FOLDER, "march_madness_games.json")
+# Get the project's root directory based on the current file's location
+PROJECT_ROOT = Path(__file__).resolve().parent
+
+# Build paths relative to the project folder
+GAME_DATAFRAME_FOLDER = PROJECT_ROOT / "Game_Dataframe"
+PICKS_FILE_PATH = PROJECT_ROOT / "Robs_Picks" / "Robs_Picks.json"
+
+NBA_GAMES_FILE = GAME_DATAFRAME_FOLDER / "nba_games.json"
+NHL_GAMES_FILE = GAME_DATAFRAME_FOLDER / "nhl_games.json"
+MLB_GAMES_FILE = GAME_DATAFRAME_FOLDER / "mlb_games.json"
+MARCH_MADNESS_GAMES_FILE = GAME_DATAFRAME_FOLDER / "march_madness_games.json"
 
 # Initialize Flask app
 app = Flask(__name__, 

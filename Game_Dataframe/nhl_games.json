@@ -1877,8 +1877,8 @@
         "team.name": "New Jersey Devils",
         "team.abbreviation": "NJ",
         "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "status.clock": "0:58",
+        "status.period": 1
     },
     {
         "event.id": "401688724",
@@ -1887,9 +1887,9 @@
         "team.id": "22",
         "team.name": "Vancouver Canucks",
         "team.abbreviation": "VAN",
-        "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "competitors.score": "1",
+        "status.clock": "0:58",
+        "status.period": 1
     },
     {
         "event.id": "401688725",
@@ -1898,9 +1898,9 @@
         "team.id": "12",
         "team.name": "New York Islanders",
         "team.abbreviation": "NYI",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 1
     },
     {
         "event.id": "401688725",
@@ -1911,7 +1911,7 @@
         "team.abbreviation": "CBJ",
         "competitors.score": "0",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 1
     },
     {
         "event.id": "401688726",
@@ -1921,8 +1921,8 @@
         "team.name": "Dallas Stars",
         "team.abbreviation": "DAL",
         "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "status.clock": "14:58",
+        "status.period": 1
     },
     {
         "event.id": "401688726",
@@ -1932,8 +1932,8 @@
         "team.name": "Minnesota Wild",
         "team.abbreviation": "MIN",
         "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "status.clock": "14:58",
+        "status.period": 1
     },
     {
         "event.id": "401688727",
