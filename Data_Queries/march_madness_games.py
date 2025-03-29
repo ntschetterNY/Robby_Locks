@@ -3,9 +3,13 @@ import json
 import os
 from datetime import datetime, timedelta
 from collections import defaultdict
+from pathlib import Path
 
-# Define the output file path for the simplified JSON data
-OUTPUT_FILE = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Game_Dataframe\march_madness_games.json"
+# The script is in Data_Queries, so we go one level up to the project root
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+# Construct the relative path for the JSON output file located in Game_Dataframe
+OUTPUT_FILE = PROJECT_ROOT / "Game_Dataframe" / "march_madness_games.json"
 
 # Define the date range: from March 13, 2025 to June 30, 2025
 start_date = datetime(2025, 3, 13)

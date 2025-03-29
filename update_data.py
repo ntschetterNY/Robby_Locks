@@ -1,14 +1,16 @@
+import argparse
 import subprocess
 import sys
 import os
+import time
 from threading import Thread
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Import the Flask app from app.py
+# Attempt to import the Flask app from app.py.
 try:
     from app import app
 except ImportError:
-    print("Warning: Could not import Flask app from app.py")
+    print("Warning: Could not import Flask app from app.py. Running in data update mode only.")
     app = None
 
 from apscheduler.schedulers.background import BackgroundScheduler
@@ -17,14 +19,9 @@ from apscheduler.schedulers.background import BackgroundScheduler
 os.environ["PYTHONUTF8"] = "1"
 
 def run_script(script_path, wait=True):
-    """Run a Python script using the current interpreter in UTF-8 mode.
-    
-    If wait is True, use subprocess.run() and wait for the script to finish.
-    If wait is False, use subprocess.Popen() so that the script runs in the background.
-    """
+    """Run a Python script using the current interpreter in UTF-8 mode."""
     try:
         print(f"Running {script_path}...")
-        # Use the current Python interpreter (sys.executable) instead of hardcoded path
         cmd = [sys.executable, "-X", "utf8", script_path]
         if wait:
             result = subprocess.run(
@@ -49,8 +46,7 @@ def run_script(script_path, wait=True):
         return False
 
 def update_all_scripts():
-    """Run all update scripts concurrently and then publish the updated data."""
-    # Check if script files exist before attempting to run them
+    """Run all update scripts concurrently and publish the updated data."""
     update_scripts = [
         "Data_Queries/march_madness_games.py",
         "Data_Queries/mlb_games.py",
@@ -58,13 +54,12 @@ def update_all_scripts():
         "Data_Queries/nhl_games.py"
     ]
     
-    # Verify each script exists
+    # Verify each script exists.
     scripts_to_run = []
     for script in update_scripts:
         if os.path.exists(script):
             scripts_to_run.append(script)
         else:
-            # Try to get absolute path
             base_dir = os.path.dirname(os.path.abspath(__file__))
             full_path = os.path.join(base_dir, script)
             if os.path.exists(full_path):
@@ -72,13 +67,10 @@ def update_all_scripts():
             else:
                 print(f"Warning: Script {script} not found, skipping.")
     
-    # Run scripts concurrently using ThreadPoolExecutor
+    # Run scripts concurrently using ThreadPoolExecutor.
     results = []
     with ThreadPoolExecutor(max_workers=len(scripts_to_run)) as executor:
-        # Submit all scripts to the executor
         future_to_script = {executor.submit(run_script, script): script for script in scripts_to_run}
-        
-        # Process results as they complete
         for future in as_completed(future_to_script):
             script = future_to_script[future]
             try:
@@ -88,24 +80,17 @@ def update_all_scripts():
                 print(f"Exception occurred while running {script}: {e}")
                 results.append((script, False))
     
-    # Print summary of results
+    # Print a summary of the results.
     print("\nUpdate Summary:")
     for script, success in results:
         status = "Succeeded" if success else "Failed"
         print(f"  {os.path.basename(script)}: {status}")
     
-    # Publish data after all scripts have completed
     publish_data()
 
 def publish_data():
-    """
-    Publish the updated data when it's ready.
-    
-    This function can be extended to notify the Flask app, update a cache,
-    or trigger a web socket event to connected clients.
-    """
+    """Publish the updated data when it's ready."""
     print("Data published and ready to serve!")
-    # Example: if your Flask app has a method to update its data, you could call it here.
     if app and hasattr(app, 'refresh_data'):
         try:
             app.refresh_data()
@@ -113,27 +98,33 @@ def publish_data():
         except Exception as e:
             print(f"Error refreshing app data: {e}")
 
-if __name__ == "__main__":
+def main(run_server=False):
     # Start the background scheduler to update data every 10 minutes.
     scheduler = BackgroundScheduler()
     scheduler.add_job(update_all_scripts, 'interval', minutes=10)
     scheduler.start()
-    
-    # Optionally, run an immediate update in a separate thread so that the server gets fresh data on startup.
-    Thread(target=update_all_scripts).start()
-    
+
+    # Run an immediate update in a non-daemon thread to ensure it completes.
+    immediate_update_thread = Thread(target=update_all_scripts)
+    immediate_update_thread.daemon = False
+    immediate_update_thread.start()
+
     try:
-        # Start the Flask server if app was successfully imported
-        if app:
+        if run_server and app:
             print("Starting Flask server...")
             app.run(host="0.0.0.0", port=5000, debug=True, use_reloader=False)
         else:
-            print("Flask app not available. Running in data update mode only.")
-            # Keep the script running to allow scheduled updates
-            import time
+            print("Running in data update mode only. Press Ctrl+C to exit.")
+            # Keep the script running.
             while True:
-                time.sleep(60)
+                time.sleep(1)
     except (KeyboardInterrupt, SystemExit):
         print("Shutting down scheduler...")
         scheduler.shutdown()
         print("Scheduler shutdown complete.")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run the update script as a standalone Python script.")
+    parser.add_argument("--server", action="store_true", help="Start the Flask server if available.")
+    args = parser.parse_args()
+    main(run_server=args.server)

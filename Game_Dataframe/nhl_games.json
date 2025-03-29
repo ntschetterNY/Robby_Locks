@@ -1876,9 +1876,9 @@
         "team.id": "11",
         "team.name": "New Jersey Devils",
         "team.abbreviation": "NJ",
-        "competitors.score": "0",
-        "status.clock": "0:58",
-        "status.period": 1
+        "competitors.score": "3",
+        "status.clock": "0:00",
+        "status.period": 5
     },
     {
         "event.id": "401688724",
@@ -1887,9 +1887,9 @@
         "team.id": "22",
         "team.name": "Vancouver Canucks",
         "team.abbreviation": "VAN",
-        "competitors.score": "1",
-        "status.clock": "0:58",
-        "status.period": 1
+        "competitors.score": "4",
+        "status.clock": "0:00",
+        "status.period": 5
     },
     {
         "event.id": "401688725",
@@ -1898,9 +1898,9 @@
         "team.id": "12",
         "team.name": "New York Islanders",
         "team.abbreviation": "NYI",
-        "competitors.score": "2",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 1
+        "status.period": 5
     },
     {
         "event.id": "401688725",
@@ -1909,9 +1909,9 @@
         "team.id": "29",
         "team.name": "Columbus Blue Jackets",
         "team.abbreviation": "CBJ",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 1
+        "status.period": 5
     },
     {
         "event.id": "401688726",
@@ -1920,9 +1920,9 @@
         "team.id": "9",
         "team.name": "Dallas Stars",
         "team.abbreviation": "DAL",
-        "competitors.score": "0",
-        "status.clock": "14:58",
-        "status.period": 1
+        "competitors.score": "3",
+        "status.clock": "0:00",
+        "status.period": 3
     },
     {
         "event.id": "401688726",
@@ -1932,8 +1932,8 @@
         "team.name": "Minnesota Wild",
         "team.abbreviation": "MIN",
         "competitors.score": "0",
-        "status.clock": "14:58",
-        "status.period": 1
+        "status.clock": "0:00",
+        "status.period": 3
     },
     {
         "event.id": "401688727",
@@ -1942,9 +1942,9 @@
         "team.id": "129764",
         "team.name": "Utah Hockey Club",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688727",
@@ -1953,9 +1953,9 @@
         "team.id": "5",
         "team.name": "Detroit Red Wings",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688728",
@@ -1964,9 +1964,9 @@
         "team.id": "2",
         "team.name": "Buffalo Sabres",
         "team.abbreviation": "BUF",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688728",
@@ -1975,9 +1975,9 @@
         "team.id": "14",
         "team.name": "Ottawa Senators",
         "team.abbreviation": "OTT",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688729",
@@ -1986,9 +1986,9 @@
         "team.id": "21",
         "team.name": "Toronto Maple Leafs",
         "team.abbreviation": "TOR",
-        "competitors.score": "0",
+        "competitors.score": "7",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688729",
@@ -1997,9 +1997,9 @@
         "team.id": "15",
         "team.name": "Philadelphia Flyers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688730",
@@ -2008,9 +2008,9 @@
         "team.id": "20",
         "team.name": "Tampa Bay Lightning",
         "team.abbreviation": "TB",
-        "competitors.score": "0",
+        "competitors.score": "6",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688730",
@@ -2019,9 +2019,9 @@
         "team.id": "16",
         "team.name": "Pittsburgh Penguins",
         "team.abbreviation": "PIT",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688731",
@@ -2030,9 +2030,9 @@
         "team.id": "7",
         "team.name": "Carolina Hurricanes",
         "team.abbreviation": "CAR",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688731",
@@ -2041,9 +2041,9 @@
         "team.id": "27",
         "team.name": "Nashville Predators",
         "team.abbreviation": "NSH",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688732",
@@ -2052,9 +2052,9 @@
         "team.id": "19",
         "team.name": "St. Louis Blues",
         "team.abbreviation": "STL",
-        "competitors.score": "0",
+        "competitors.score": "6",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688732",
@@ -2063,9 +2063,9 @@
         "team.id": "10",
         "team.name": "Montreal Canadiens",
         "team.abbreviation": "MTL",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688733",
@@ -2074,9 +2074,9 @@
         "team.id": "30",
         "team.name": "Minnesota Wild",
         "team.abbreviation": "MIN",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688733",
@@ -2085,9 +2085,9 @@
         "team.id": "37",
         "team.name": "Vegas Golden Knights",
         "team.abbreviation": "VGK",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688734",
@@ -2096,9 +2096,9 @@
         "team.id": "28",
         "team.name": "Winnipeg Jets",
         "team.abbreviation": "WPG",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 4
     },
     {
         "event.id": "401688734",
@@ -2107,9 +2107,9 @@
         "team.id": "23",
         "team.name": "Washington Capitals",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 4
     },
     {
         "event.id": "401688735",
@@ -2118,9 +2118,9 @@
         "team.id": "17",
         "team.name": "Colorado Avalanche",
         "team.abbreviation": "COL",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688735",
@@ -2129,9 +2129,9 @@
         "team.id": "5",
         "team.name": "Detroit Red Wings",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688736",
@@ -2140,9 +2140,9 @@
         "team.id": "3",
         "team.name": "Calgary Flames",
         "team.abbreviation": "CGY",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 4
     },
     {
         "event.id": "401688736",
@@ -2151,9 +2151,9 @@
         "team.id": "124292",
         "team.name": "Seattle Kraken",
         "team.abbreviation": "SEA",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 4
     },
     {
         "event.id": "401688737",
@@ -2162,9 +2162,9 @@
         "team.id": "8",
         "team.name": "Los Angeles Kings",
         "team.abbreviation": "LA",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688737",
@@ -2173,9 +2173,9 @@
         "team.id": "13",
         "team.name": "New York Rangers",
         "team.abbreviation": "NYR",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688738",
@@ -2184,9 +2184,9 @@
         "team.id": "12",
         "team.name": "New York Islanders",
         "team.abbreviation": "NYI",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688738",
@@ -2195,9 +2195,9 @@
         "team.id": "22",
         "team.name": "Vancouver Canucks",
         "team.abbreviation": "VAN",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688739",
@@ -2206,9 +2206,9 @@
         "team.id": "4",
         "team.name": "Chicago Blackhawks",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688739",
@@ -2217,9 +2217,9 @@
         "team.id": "11",
         "team.name": "New Jersey Devils",
         "team.abbreviation": "NJ",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688740",
@@ -2228,9 +2228,9 @@
         "team.id": "6",
         "team.name": "Edmonton Oilers",
         "team.abbreviation": "EDM",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688740",
@@ -2239,9 +2239,9 @@
         "team.id": "9",
         "team.name": "Dallas Stars",
         "team.abbreviation": "DAL",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688741",
@@ -2250,9 +2250,9 @@
         "team.id": "25",
         "team.name": "Anaheim Ducks",
         "team.abbreviation": "ANA",
-        "competitors.score": "0",
+        "competitors.score": "6",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688741",
@@ -2261,9 +2261,9 @@
         "team.id": "1",
         "team.name": "Boston Bruins",
         "team.abbreviation": "BOS",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688742",
@@ -2272,9 +2272,9 @@
         "team.id": "2",
         "team.name": "Buffalo Sabres",
         "team.abbreviation": "BUF",
-        "competitors.score": "0",
+        "competitors.score": "7",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688742",
@@ -2283,9 +2283,9 @@
         "team.id": "16",
         "team.name": "Pittsburgh Penguins",
         "team.abbreviation": "PIT",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688743",
@@ -2294,9 +2294,9 @@
         "team.id": "5",
         "team.name": "Detroit Red Wings",
         "team.abbreviation": "DET",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688743",
@@ -2305,9 +2305,9 @@
         "team.id": "14",
         "team.name": "Ottawa Senators",
         "team.abbreviation": "OTT",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688744",
@@ -2316,9 +2316,9 @@
         "team.id": "20",
         "team.name": "Tampa Bay Lightning",
         "team.abbreviation": "TB",
-        "competitors.score": "0",
+        "competitors.score": "8",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688744",
@@ -2329,7 +2329,7 @@
         "team.abbreviation": "UTAH",
         "competitors.score": "0",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688745",
@@ -2338,9 +2338,9 @@
         "team.id": "15",
         "team.name": "Philadelphia Flyers",
         "team.abbreviation": "PHI",
-        "competitors.score": "0",
+        "competitors.score": "6",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688745",
@@ -2349,9 +2349,9 @@
         "team.id": "10",
         "team.name": "Montreal Canadiens",
         "team.abbreviation": "MTL",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688747",
@@ -2360,9 +2360,9 @@
         "team.id": "30",
         "team.name": "Minnesota Wild",
         "team.abbreviation": "MIN",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688747",
@@ -2371,9 +2371,9 @@
         "team.id": "23",
         "team.name": "Washington Capitals",
         "team.abbreviation": "WSH",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688746",
@@ -2382,9 +2382,9 @@
         "team.id": "27",
         "team.name": "Nashville Predators",
         "team.abbreviation": "NSH",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688746",
@@ -2393,9 +2393,9 @@
         "team.id": "19",
         "team.name": "St. Louis Blues",
         "team.abbreviation": "STL",
-        "competitors.score": "0",
+        "competitors.score": "3",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688749",
@@ -2404,9 +2404,9 @@
         "team.id": "3",
         "team.name": "Calgary Flames",
         "team.abbreviation": "CGY",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688749",
@@ -2415,9 +2415,9 @@
         "team.id": "9",
         "team.name": "Dallas Stars",
         "team.abbreviation": "DAL",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688748",
@@ -2426,9 +2426,9 @@
         "team.id": "17",
         "team.name": "Colorado Avalanche",
         "team.abbreviation": "COL",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688748",
@@ -2439,7 +2439,7 @@
         "team.abbreviation": "LA",
         "competitors.score": "0",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688750",
@@ -2448,9 +2448,9 @@
         "team.id": "124292",
         "team.name": "Seattle Kraken",
         "team.abbreviation": "SEA",
-        "competitors.score": "0",
+        "competitors.score": "6",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688750",
@@ -2459,9 +2459,9 @@
         "team.id": "6",
         "team.name": "Edmonton Oilers",
         "team.abbreviation": "EDM",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 3
     },
     {
         "event.id": "401688751",
@@ -2470,9 +2470,9 @@
         "team.id": "18",
         "team.name": "San Jose Sharks",
         "team.abbreviation": "SJ",
-        "competitors.score": "0",
+        "competitors.score": "6",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 5
     },
     {
         "event.id": "401688751",
@@ -2481,9 +2481,9 @@
         "team.id": "21",
         "team.name": "Toronto Maple Leafs",
         "team.abbreviation": "TOR",
-        "competitors.score": "0",
+        "competitors.score": "5",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 5
     },
     {
         "event.id": "401688752",
@@ -2492,9 +2492,9 @@
         "team.id": "26",
         "team.name": "Florida Panthers",
         "team.abbreviation": "FLA",
-        "competitors.score": "0",
+        "competitors.score": "2",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 4
     },
     {
         "event.id": "401688752",
@@ -2503,9 +2503,9 @@
         "team.id": "129764",
         "team.name": "Utah Hockey Club",
         "team.abbreviation": "UTAH",
-        "competitors.score": "0",
+        "competitors.score": "1",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 4
     },
     {
         "event.id": "401688753",
@@ -2514,9 +2514,9 @@
         "team.id": "7",
         "team.name": "Carolina Hurricanes",
         "team.abbreviation": "CAR",
-        "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "competitors.score": "3",
+        "status.clock": "1:19",
+        "status.period": 3
     },
     {
         "event.id": "401688753",
@@ -2525,9 +2525,9 @@
         "team.id": "10",
         "team.name": "Montreal Canadiens",
         "team.abbreviation": "MTL",
-        "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "competitors.score": "1",
+        "status.clock": "1:19",
+        "status.period": 3
     },
     {
         "event.id": "401688754",
@@ -2536,9 +2536,9 @@
         "team.id": "29",
         "team.name": "Columbus Blue Jackets",
         "team.abbreviation": "CBJ",
-        "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "competitors.score": "4",
+        "status.clock": "3:20",
+        "status.period": 3
     },
     {
         "event.id": "401688754",
@@ -2547,9 +2547,9 @@
         "team.id": "22",
         "team.name": "Vancouver Canucks",
         "team.abbreviation": "VAN",
-        "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "competitors.score": "5",
+        "status.clock": "3:20",
+        "status.period": 3
     },
     {
         "event.id": "401688755",
@@ -2558,9 +2558,9 @@
         "team.id": "28",
         "team.name": "Winnipeg Jets",
         "team.abbreviation": "WPG",
-        "competitors.score": "0",
+        "competitors.score": "4",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 2
     },
     {
         "event.id": "401688755",
@@ -2571,7 +2571,7 @@
         "team.abbreviation": "NJ",
         "competitors.score": "0",
         "status.clock": "0:00",
-        "status.period": 0
+        "status.period": 2
     },
     {
         "event.id": "401688756",
@@ -2580,9 +2580,9 @@
         "team.id": "4",
         "team.name": "Chicago Blackhawks",
         "team.abbreviation": "CHI",
-        "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "competitors.score": "1",
+        "status.clock": "16:21",
+        "status.period": 2
     },
     {
         "event.id": "401688756",
@@ -2592,8 +2592,8 @@
         "team.name": "Vegas Golden Knights",
         "team.abbreviation": "VGK",
         "competitors.score": "0",
-        "status.clock": "0:00",
-        "status.period": 0
+        "status.clock": "16:21",
+        "status.period": 2
     },
     {
         "event.id": "401688757",

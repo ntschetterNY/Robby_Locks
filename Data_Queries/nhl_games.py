@@ -3,12 +3,14 @@ import json
 import os
 import time  # ✅ Import added here
 from datetime import datetime, timedelta
+from pathlib import Path
 
 # ESPN NHL API URL
 NHL_URL = "http://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard"
 
 # Path where the JSON output data will be saved
-JSON_DATA_PATH = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Game_Dataframe\nhl_games.json"
+ROOT_FOLDER = Path(__file__).resolve().parent.parent
+JSON_DATA_PATH = ROOT_FOLDER / "Game_Dataframe" / "nhl_games.json"
 
 # Date range: from March 13, 2025 to June 30, 2025
 start_date = datetime(2025, 3, 13)

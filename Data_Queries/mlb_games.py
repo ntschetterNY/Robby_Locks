@@ -2,12 +2,16 @@ import requests
 import json
 import os
 from datetime import datetime, timedelta
+from pathlib import Path
 
 # Base ESPN MLB API URL (expects date in YYYYMMDD format)
 MLB_URL = "http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates="
 
-# Define the output file path for the JSON data
-OUTPUT_FILE = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Game_Dataframe\mlb_games.json"
+# The script is in Data_Queries, so we go one level up to the project root
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+# Construct the relative path for the JSON output file located in Game_Dataframe
+OUTPUT_FILE = PROJECT_ROOT / "Game_Dataframe" / "mlb_games.json"
 
 # 1) Generate a list of dates from March 13, 2025 to June 30, 2025 (YYYYMMDD format)
 start_date = datetime(2025, 3, 13)

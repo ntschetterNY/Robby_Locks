@@ -1,44 +1,33 @@
-import sys
-sys.path.append("C:/Users/ntschetter.DESKTOP-2E1G5OF/Desktop/Robby_Locks/venv/Lib/site-packages")
-
 import pytz
 import os
 import json
-import platform  # for device name if desired
-import dashboard
-import dashboard_integration
-from datetime import datetime
+import platform
 from flask import Flask, render_template, request
 from dateutil.parser import isoparse
+import dashboard  # Import the modified dashboard.py with the blueprint
 from pathlib import Path
 
-# Get the project's root directory based on the current file's location
-PROJECT_ROOT = Path(__file__).resolve().parent
-
-# Build paths relative to the project folder
-GAME_DATAFRAME_FOLDER = PROJECT_ROOT / "Game_Dataframe"
-PICKS_FILE_PATH = PROJECT_ROOT / "Robs_Picks" / "Robs_Picks.json"
-
-NBA_GAMES_FILE = GAME_DATAFRAME_FOLDER / "nba_games.json"
-NHL_GAMES_FILE = GAME_DATAFRAME_FOLDER / "nhl_games.json"
-MLB_GAMES_FILE = GAME_DATAFRAME_FOLDER / "mlb_games.json"
-MARCH_MADNESS_GAMES_FILE = GAME_DATAFRAME_FOLDER / "march_madness_games.json"
-
-# Initialize Flask app
+# Initialize Flask app with specified template and static folders.
 app = Flask(__name__, 
             template_folder='templates_dashboard',
             static_folder='static_dashboard',
             static_url_path='/static')
 
-# Initialize the enhanced dashboard
-dashboard_integration.setup_enhanced_dashboard(app, dashboard)
+# Register the dashboard blueprint so its routes (like /dashboard) are added.
+app.register_blueprint(dashboard.dashboard_bp)
 
-# Timezone setup
-utc_tz = pytz.utc
-eastern_tz = pytz.timezone("America/New_York")
+# Use the current script directory as the base directory
+BASE_DIR = Path(__file__).resolve().parent
+
+# Define local file paths relative to BASE_DIR
+GAME_DATAFRAME_FOLDER = BASE_DIR / "Game_Dataframe"
+PICKS_FILE_PATH = BASE_DIR / "Robs_Picks" / "Robs_Picks.json"
+NBA_GAMES_FILE = GAME_DATAFRAME_FOLDER / "nba_games.json"
+NHL_GAMES_FILE = GAME_DATAFRAME_FOLDER / "nhl_games.json"
+MLB_GAMES_FILE = GAME_DATAFRAME_FOLDER / "mlb_games.json"
+MARCH_MADNESS_GAMES_FILE = GAME_DATAFRAME_FOLDER / "march_madness_games.json"
 
 def load_json_file(file_path):
-    """Generic loader for JSON files."""
     if not os.path.exists(file_path):
         print(f"⚠️ JSON file not found: {file_path}")
         return []
@@ -46,7 +35,6 @@ def load_json_file(file_path):
         return json.load(f)
 
 def load_picks():
-    """Load the picks from Robs_Picks.json as a dictionary keyed by event id."""
     picks = load_json_file(PICKS_FILE_PATH)
     if not isinstance(picks, dict):
         picks = {}
@@ -71,15 +59,14 @@ def load_march_madness_games():
 @app.route("/", methods=["GET", "POST"])
 def index():
     saved = False
-
-    # Determine sport and game date from the request
     sport = request.form.get("sport_selector") or request.args.get("sport") or "NBA"
-    now = datetime.now(eastern_tz)
+    from datetime import datetime
+    now = datetime.now(pytz.timezone("America/New_York"))
     date_str = request.form.get("game_date") or request.args.get("game_date") or now.strftime("%Y-%m-%d")
     selected_date = datetime.strptime(date_str, "%Y-%m-%d").date()
     grouped_games = {}
 
-    # Choose the appropriate JSON file based on the sport
+    # Load games based on selected sport
     if sport == "NBA":
         all_games = load_nba_games()
     elif sport == "NHL":
@@ -91,30 +78,19 @@ def index():
     else:
         all_games = []
     
-    print(f"Processing {len(all_games)} games for {sport} on {selected_date}")
-
-    # Process and group games by event id for the selected date
+    # Process and group games by event id for the selected date.
     for g in all_games:
         try:
-            # For March Madness, use "event.date" if available; otherwise use "comp.date"
             date_field = "event.date" if ("event.date" in g) else "comp.date"
-            print(f"Using date field: {date_field}, value: {g.get(date_field)}")
-            
-            # Parse the date and assign UTC if no timezone is present
             game_time_parsed = isoparse(g[date_field])
             if game_time_parsed.tzinfo is None:
-                game_time_parsed = game_time_parsed.replace(tzinfo=utc_tz)
-            game_time_et = game_time_parsed.astimezone(eastern_tz)
-            
-            print(f"Game date: {game_time_et.date()}, Selected date: {selected_date}")
-            
+                from pytz import utc
+                game_time_parsed = game_time_parsed.replace(tzinfo=utc)
+            game_time_et = game_time_parsed.astimezone(pytz.timezone("America/New_York"))
             if game_time_et.date() != selected_date:
                 continue
-                
             disable_game = (now - game_time_et).total_seconds() > 1200
             event_id = g["event.id"]
-
-            # Determine team details based on sport
             if sport == "MLB":
                 team_name = g.get("team.displayName", "N/A")
                 team_abbreviation = g.get("team.abbreviation", "N/A")
@@ -124,8 +100,6 @@ def index():
             else:
                 team_name = g.get("team.name", g.get("team.displayName", "N/A"))
                 team_abbreviation = g.get("team.abbreviation", "N/A")
-
-            # Determine score and status fields based on sport
             if sport == "MarchMadness":
                 score = g.get("comp.competitors.score", "0")
                 status_clock = g.get("comp.status.displayClock", "N/A")
@@ -134,7 +108,6 @@ def index():
                 score = g.get("competitors.score", g.get("comp.competitors.score", "0"))
                 status_clock = g.get("status.clock", g.get("comp.status.displayClock", "N/A"))
                 status_period = g.get("status.period", g.get("comp.status.period", "N/A"))
-
             if event_id not in grouped_games:
                 grouped_games[event_id] = {
                     "event_id": event_id,
@@ -153,19 +126,15 @@ def index():
                 grouped_games[event_id]["team_2_name"] = team_name
                 grouped_games[event_id]["team_2_abbreviation"] = team_abbreviation
         except Exception as e:
-            print(f"❌ Skipping {sport} game: {e}")
+            print(f"Error processing game: {e}")
 
-    # Only include fully formed games (with 2 teams)
     games = [game for game in grouped_games.values() if game["team_2_name"]]
-    print(f"Found {len(games)} valid games for {sport} on {selected_date}")
     
-    # Sort games by their start time if possible
     try:
         games = sorted(games, key=lambda x: datetime.strptime(x["event_date"], "%I:%M %p ET"))
     except Exception as e:
-        print("❌ Error sorting games:", e)
-
-    # Process picks submission
+        print("Error sorting games:", e)
+        
     if request.method == "POST" and "lock_picks" in request.form:
         existing_picks = load_picks()
         for key, value in request.form.items():
@@ -175,10 +144,7 @@ def index():
                 user_agent = request.headers.get("User-Agent", "")
                 device_name = platform.node()
                 nice_date_str = selected_date.strftime("%A, %B %d, %Y")
-                if event_id in grouped_games:
-                    event_start_time = grouped_games[event_id].get("event_date", "N/A")
-                else:
-                    event_start_time = "N/A"
+                event_start_time = grouped_games.get(event_id, {}).get("event_date", "N/A")
                 existing_picks[event_id] = {
                     "EventID": event_id,
                     "Value.winner": value,
@@ -194,15 +160,13 @@ def index():
         saved = True
 
     selected_games = load_picks()
-
-    return render_template(
-        "index.html",
-        saved=saved,
-        games=games,
-        selected_games=selected_games,
-        today_str=date_str,
-        sport=sport
-    )
+    return render_template("index.html",
+                           saved=saved,
+                           games=games,
+                           selected_games=selected_games,
+                           today_str=date_str,
+                           sport=sport)
 
 if __name__ == "__main__":
+    # Run on host 0.0.0.0 so it’s accessible externally on port 12345.
     app.run(host="0.0.0.0", port=5000, debug=True)

@@ -3,13 +3,15 @@ import json
 import os
 import time
 from datetime import datetime, timedelta
+from pathlib import Path
 
 # ESPN NBA API URL
 ESPN_URL = "http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
 
 # Define root folder and JSON file path
-ROOT_FOLDER = r"C:\Users\ntschetter.DESKTOP-2E1G5OF\Desktop\Robby_Locks\Game_Dataframe"
-JSON_FILE_PATH = os.path.join(ROOT_FOLDER, "nba_games.json")
+ROOT_FOLDER = Path(__file__).resolve().parent.parent
+
+JSON_FILE_PATH = ROOT_FOLDER / "Game_Dataframe" / "nba_games.json"
 
 # Ensure the root folder exists
 if not os.path.exists(ROOT_FOLDER):

@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Rob's Picks Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        .container {
+            width: 95%;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 15px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+            font-weight: 600;
+        }
+        h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+        .section {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .card {
+            display: inline-block;
+            min-width: 200px;
+            padding: 15px;
+            margin-right: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            vertical-align: top;
+        }
+        .stats-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .stat-card {
+            flex: 1;
+            min-width: 180px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .stat-label {
+            color: #7f8c8d;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+        .win {
+            background-color: #e8f5e9;
+            color: #2e7d32;
+        }
+        .loss {
+            background-color: #ffebee;
+            color: #c62828;
+        }
+        .tie {
+            background-color: #e0e0e0;
+            color: #333;
+        }
+        .pending {
+            background-color: #fffde7;
+            color: #f57f17;
+        }
+        .chart-container {
+            position: relative;
+            height: 300px;
+            margin-bottom: 30px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #e0e0e0;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f5f7fa;
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .result-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+        .win-badge {
+            background-color: #e8f5e9;
+            color: #2e7d32;
+        }
+        .loss-badge {
+            background-color: #ffebee;
+            color: #c62828;
+        }
+        .tie-badge {
+            background-color: #e0e0e0;
+            color: #333;
+        }
+        .pending-badge {
+            background-color: #fffde7;
+            color: #f57f17;
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            border-bottom: 3px solid transparent;
+        }
+        .tab.active {
+            border-bottom: 3px solid #3498db;
+            font-weight: 600;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Rob's Picks Performance Dashboard</h1>
+            <div>Last updated: {{ current_time }}</div>
+        </div>
+        <div class="section">
+            <h2>Performance Overview</h2>
+            <div class="stats-container">
+                <div class="stat-card win">
+                    <div class="stat-label">Wins</div>
+                    <div class="stat-value">{{ win_count }}</div>
+                </div>
+                <div class="stat-card loss">
+                    <div class="stat-label">Losses</div>
+                    <div class="stat-value">{{ loss_count }}</div>
+                </div>
+                <div class="stat-card tie">
+                    <div class="stat-label">Ties</div>
+                    <div class="stat-value">{{ tie_count }}</div>
+                </div>
+                <div class="stat-card pending">
+                    <div class="stat-label">Pending</div>
+                    <div class="stat-value">{{ pending_count }}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Win Rate</div>
+                    <div class="stat-value">{{ win_percentage }}%</div>
+                </div>
+            </div>
+            <h3>Performance Over Time (Daily)</h3>
+            <div class="chart-container">
+                <canvas id="dailyPerformanceChart"></canvas>
+            </div>
+        </div>
+        <div class="tabs">
+            <div class="tab active" onclick="openTab(event, 'picks-tab')">Rob's Picks</div>
+            <div class="tab" onclick="openTab(event, 'sports-tab')">Sports Data</div>
+        </div>
+        <div id="picks-tab" class="tab-content active">
+            <div class="section">
+                <h2>Rob's Picks Results</h2>
+                {% if correlated_picks and correlated_picks|length > 0 %}
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Event</th>
+                                <th>Pick</th>
+                                <th>Result</th>
+                                <th>Details</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {% for item in correlated_picks %}
+                            <tr>
+                                <td>{{ item.event_date }}</td>
+                                <td>{{ item.event_name }}</td>
+                                <td>{{ item.pick_winner }}</td>
+                                <td>
+                                    {% if item.result == "win" %}
+                                        <span class="result-badge win-badge">Win</span>
+                                    {% elif item.result == "loss" %}
+                                        <span class="result-badge loss-badge">Loss</span>
+                                    {% elif item.result == "tie" %}
+                                        <span class="result-badge tie-badge">Tie</span>
+                                    {% else %}
+                                        <span class="result-badge pending-badge">Pending</span>
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    <button onclick="toggleDetails('details-{{ loop.index }}')" class="detail-btn">Show Details</button>
+                                    <div id="details-{{ loop.index }}" style="display: none; margin-top: 10px;">
+                                        <pre style="font-size: 12px; background-color: #f5f7fa; padding: 10px; border-radius: 4px; overflow: auto;">{{ item.matching_game_data | tojson(indent=2) }}</pre>
+                                    </div>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                {% else %}
+                    <p>No picks data available.</p>
+                {% endif %}
+            </div>
+        </div>
+        <div id="sports-tab" class="tab-content">
+            <div class="section">
+                <div class="tabs">
+                    <div class="tab active" onclick="openSubTab(event, 'march-madness')">March Madness</div>
+                    <div class="tab" onclick="openSubTab(event, 'mlb')">MLB</div>
+                    <div class="tab" onclick="openSubTab(event, 'nba')">NBA</div>
+                    <div class="tab" onclick="openSubTab(event, 'nhl')">NHL</div>
+                </div>
+                <div id="march-madness" class="tab-content active">
+                    <h2>March Madness Games</h2>
+                    {% if march_madness and march_madness|length > 0 %}
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Event Name</th>
+                                    <th>Date</th>
+                                    <th>Score</th>
+                                    <th>Team</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            {% for game in march_madness %}
+                                <tr>
+                                    <td>{{ game["event.name"] }}</td>
+                                    <td>{{ game["event.date"] }}</td>
+                                    <td>{{ game.get("combined_score", game.get("comp.competitors.score", game.get("competitors.score", "N/A"))) }}</td>
+                                    <td>{{ game.get("team.displayName", game.get("team.name", "N/A")) }}</td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+                        </table>
+                    {% else %}
+                        <p>No March Madness games available.</p>
+                    {% endif %}
+                </div>
+                <div id="mlb" class="tab-content">
+                    <h2>MLB Games</h2>
+                    {% if mlb_games and mlb_games|length > 0 %}
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Event</th>
+                                    <th>Date</th>
+                                    <th>Score</th>
+                                    <th>Team</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            {% for game in mlb_games %}
+                                <tr>
+                                    <td>{{ game.get("event.shortName", "N/A") }}</td>
+                                    <td>{{ game["event.date"] }}</td>
+                                    <td>{{ game.get("comp.competitors.score", game.get("competitors.score", "N/A")) }}</td>
+                                    <td>{{ game.get("team.displayName", game.get("team.name", "N/A")) }}</td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+                        </table>
+                    {% else %}
+                        <p>No MLB games available.</p>
+                    {% endif %}
+                </div>
+                <div id="nba" class="tab-content">
+                    <h2>NBA Games</h2>
+                    {% if nba_games and nba_games|length > 0 %}
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Event</th>
+                                    <th>Date</th>
+                                    <th>Score</th>
+                                    <th>Team</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            {% for game in nba_games %}
+                                <tr>
+                                    <td>{{ game.get("event.name", "N/A") }}</td>
+                                    <td>{{ game["event.date"] }}</td>
+                                    <td>{{ game.get("competitors.score", game.get("comp.competitors.score", "N/A")) }}</td>
+                                    <td>{{ game.get("team.name", game.get("team.displayName", "N/A")) }}</td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+                        </table>
+                    {% else %}
+                        <p>No NBA games available.</p>
+                    {% endif %}
+                </div>
+                <div id="nhl" class="tab-content">
+                    <h2>NHL Games</h2>
+                    {% if nhl_games and nhl_games|length > 0 %}
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Event</th>
+                                    <th>Date</th>
+                                    <th>Score</th>
+                                    <th>Team</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            {% for game in nhl_games %}
+                                <tr>
+                                    <td>{{ game.get("event.name", "N/A") }}</td>
+                                    <td>{{ game["event.date"] }}</td>
+                                    <td>{{ game.get("competitors.score", game.get("comp.competitors.score", "N/A")) }}</td>
+                                    <td>{{ game.get("team.name", game.get("team.displayName", "N/A")) }}</td>
+                                </tr>
+                            {% endfor %}
+                            </tbody>
+                        </table>
+                    {% else %}
+                        <p>No NHL games available.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function toggleDetails(id) {
+            const detailsElement = document.getElementById(id);
+            detailsElement.style.display = (detailsElement.style.display === "none" || detailsElement.style.display === "") ? "block" : "none";
+        }
+        function openTab(evt, tabName) {
+            document.getElementById('picks-tab').classList.remove('active');
+            document.getElementById('sports-tab').classList.remove('active');
+            const mainTabs = document.querySelectorAll('.container > .tabs > .tab');
+            mainTabs.forEach(tab => tab.classList.remove('active'));
+            document.getElementById(tabName).classList.add('active');
+            evt.currentTarget.classList.add('active');
+        }
+        function openSubTab(evt, tabName) {
+            const subTabContents = document.querySelectorAll('#sports-tab .tab-content');
+            subTabContents.forEach(tab => tab.classList.remove('active'));
+            const subTabs = document.querySelectorAll('#sports-tab .tabs .tab');
+            subTabs.forEach(tab => tab.classList.remove('active'));
+            document.getElementById(tabName).classList.add('active');
+            evt.currentTarget.classList.add('active');
+        }
+        document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('dailyPerformanceChart').getContext('2d');
+            const dailyData = [
+                {% for item in daily_data %}
+                    {
+                        day: "{{ item.day }}",
+                        winPercentage: {{ item.win_percentage }},
+                        wins: {{ item.wins }},
+                        losses: {{ item.losses }},
+                        ties: {{ item.ties }},
+                        total: {{ item.total }}
+                    },
+                {% endfor %}
+            ];
+            const labels = dailyData.map(item => item.day);
+            const winPercentages = dailyData.map(item => item.winPercentage);
+            const winCounts = dailyData.map(item => item.wins);
+            const lossCounts = dailyData.map(item => item.losses);
+            const chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'Win Percentage',
+                            data: winPercentages,
+                            borderColor: '#3498db',
+                            backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                            yAxisID: 'y',
+                            tension: 0.1,
+                            fill: true
+                        },
+                        {
+                            label: 'Wins',
+                            data: winCounts,
+                            borderColor: '#2ecc71',
+                            backgroundColor: 'rgba(46, 204, 113, 0.5)',
+                            borderWidth: 2,
+                            type: 'bar',
+                            yAxisID: 'y1',
+                        },
+                        {
+                            label: 'Losses',
+                            data: lossCounts,
+                            borderColor: '#e74c3c',
+                            backgroundColor: 'rgba(231, 76, 60, 0.5)',
+                            borderWidth: 2,
+                            type: 'bar',
+                            yAxisID: 'y1',
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            position: 'left',
+                            title: {
+                                display: true,
+                                text: 'Win Percentage (%)'
+                            },
+                            max: 100
+                        },
+                        y1: {
+                            beginAtZero: true,
+                            position: 'right',
+                            title: {
+                                display: true,
+                                text: 'Count'
+                            },
+                            grid: {
+                                drawOnChartArea: false
+                            }
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) label += ': ';
+                                    return context.dataset.label === 'Win Percentage' ? label + context.parsed.y + '%' : label + context.parsed.y;
+                                },
+                                footer: function(tooltipItems) {
+                                    const dataIndex = tooltipItems[0].dataIndex;
+                                    const data = dailyData[dataIndex];
+                                    return `Total picks: ${data.total}`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
