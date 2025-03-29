@@ -2514,8 +2514,8 @@
         "team.id": "7",
         "team.name": "Carolina Hurricanes",
         "team.abbreviation": "CAR",
-        "competitors.score": "3",
-        "status.clock": "1:19",
+        "competitors.score": "4",
+        "status.clock": "0:00",
         "status.period": 3
     },
     {
@@ -2526,7 +2526,7 @@
         "team.name": "Montreal Canadiens",
         "team.abbreviation": "MTL",
         "competitors.score": "1",
-        "status.clock": "1:19",
+        "status.clock": "0:00",
         "status.period": 3
     },
     {
@@ -2536,9 +2536,9 @@
         "team.id": "29",
         "team.name": "Columbus Blue Jackets",
         "team.abbreviation": "CBJ",
-        "competitors.score": "4",
-        "status.clock": "3:20",
-        "status.period": 3
+        "competitors.score": "6",
+        "status.clock": "5:00",
+        "status.period": 4
     },
     {
         "event.id": "401688754",
@@ -2547,9 +2547,9 @@
         "team.id": "22",
         "team.name": "Vancouver Canucks",
         "team.abbreviation": "VAN",
-        "competitors.score": "5",
-        "status.clock": "3:20",
-        "status.period": 3
+        "competitors.score": "6",
+        "status.clock": "5:00",
+        "status.period": 4
     },
     {
         "event.id": "401688755",
@@ -2581,7 +2581,7 @@
         "team.name": "Chicago Blackhawks",
         "team.abbreviation": "CHI",
         "competitors.score": "1",
-        "status.clock": "16:21",
+        "status.clock": "12:14",
         "status.period": 2
     },
     {
@@ -2591,8 +2591,8 @@
         "team.id": "37",
         "team.name": "Vegas Golden Knights",
         "team.abbreviation": "VGK",
-        "competitors.score": "0",
-        "status.clock": "16:21",
+        "competitors.score": "2",
+        "status.clock": "12:14",
         "status.period": 2
     },
     {

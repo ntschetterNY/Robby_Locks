@@ -2536,8 +2536,8 @@
         "team.id": "17",
         "team.name": "Brooklyn Nets",
         "team.abbreviation": "BKN",
-        "competitors.score": "83",
-        "status.clock": "6:45",
+        "competitors.score": "88",
+        "status.clock": "3:20",
         "status.period": 4
     },
     {
@@ -2547,8 +2547,8 @@
         "team.id": "12",
         "team.name": "LA Clippers",
         "team.abbreviation": "LAC",
-        "competitors.score": "112",
-        "status.clock": "6:45",
+        "competitors.score": "120",
+        "status.clock": "3:20",
         "status.period": 4
     },
     {
@@ -2558,8 +2558,8 @@
         "team.id": "28",
         "team.name": "Toronto Raptors",
         "team.abbreviation": "TOR",
-        "competitors.score": "102",
-        "status.clock": "3:44",
+        "competitors.score": "108",
+        "status.clock": "0.0",
         "status.period": 4
     },
     {
@@ -2569,8 +2569,8 @@
         "team.id": "30",
         "team.name": "Charlotte Hornets",
         "team.abbreviation": "CHA",
-        "competitors.score": "88",
-        "status.clock": "3:44",
+        "competitors.score": "97",
+        "status.clock": "0.0",
         "status.period": 4
     },
     {
@@ -2580,8 +2580,8 @@
         "team.id": "15",
         "team.name": "Milwaukee Bucks",
         "team.abbreviation": "MIL",
-        "competitors.score": "66",
-        "status.clock": "3:48",
+        "competitors.score": "73",
+        "status.clock": "17.5",
         "status.period": 3
     },
     {
@@ -2591,8 +2591,8 @@
         "team.id": "18",
         "team.name": "New York Knicks",
         "team.abbreviation": "NY",
-        "competitors.score": "74",
-        "status.clock": "3:48",
+        "competitors.score": "81",
+        "status.clock": "17.5",
         "status.period": 3
     },
     {
@@ -2602,9 +2602,9 @@
         "team.id": "16",
         "team.name": "Minnesota Timberwolves",
         "team.abbreviation": "MIN",
-        "competitors.score": "83",
-        "status.clock": "3:11",
-        "status.period": 3
+        "competitors.score": "92",
+        "status.clock": "11:25",
+        "status.period": 4
     },
     {
         "event.id": "401705637",
@@ -2613,9 +2613,9 @@
         "team.id": "21",
         "team.name": "Phoenix Suns",
         "team.abbreviation": "PHX",
-        "competitors.score": "67",
-        "status.clock": "3:11",
-        "status.period": 3
+        "competitors.score": "77",
+        "status.clock": "11:25",
+        "status.period": 4
     },
     {
         "event.id": "401705638",
@@ -2624,8 +2624,8 @@
         "team.id": "3",
         "team.name": "New Orleans Pelicans",
         "team.abbreviation": "NO",
-        "competitors.score": "64",
-        "status.clock": "5:07",
+        "competitors.score": "79",
+        "status.clock": "57.1",
         "status.period": 3
     },
     {
@@ -2635,8 +2635,8 @@
         "team.id": "9",
         "team.name": "Golden State Warriors",
         "team.abbreviation": "GS",
-        "competitors.score": "72",
-        "status.clock": "5:07",
+        "competitors.score": "81",
+        "status.clock": "57.1",
         "status.period": 3
     },
     {
@@ -2646,8 +2646,8 @@
         "team.id": "7",
         "team.name": "Denver Nuggets",
         "team.abbreviation": "DEN",
-        "competitors.score": "28",
-        "status.clock": "11:10",
+        "competitors.score": "39",
+        "status.clock": "6:29",
         "status.period": 2
     },
     {
@@ -2657,8 +2657,8 @@
         "team.id": "26",
         "team.name": "Utah Jazz",
         "team.abbreviation": "UTAH",
-        "competitors.score": "17",
-        "status.clock": "11:10",
+        "competitors.score": "37",
+        "status.clock": "6:29",
         "status.period": 2
     },
     {
